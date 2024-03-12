@@ -32,7 +32,7 @@ His research aims to construct efficient AI models and apply to various domains,
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput Biol Med</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Biol. Med.</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
