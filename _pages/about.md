@@ -50,7 +50,7 @@ Zhengyang Lei, Lijin Lian, Likun Zhang, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiaz
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors</div><img src='images/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors</div><img src='images/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.png' alt="sym" width="500" heighy="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu, Peiwu Qin. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022, 12(11): 984.
