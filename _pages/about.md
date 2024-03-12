@@ -32,10 +32,46 @@ His research aims to construct efficient AI models and apply to various domains,
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301137Xm) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors</div><img src='images/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhengyang Lei, Lijin Lian, Likun Zhang, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu, Qian He, Peiwu Qin. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors</div><img src='images/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu, Peiwu Qin. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022, 12(11): 984.
+[[HTML]](https://www.mdpi.com/2079-6374/12/11/984) [[PDF]](/pdf/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.pdf) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Sens.</div><img src='images/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Likun Zhang, Zhengyang Lei, Chufan Xiao, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang, Qian He, Peiwu Qin. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
+[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioengineering</div><img src='images/Current and Perspective Sensing Methods for Monkeypox Virus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 9(10): 571.
+Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 3: 1015223.
 [[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf) [[Arxiv]](https://arxiv.org/abs/2208.05228)
 
 </div>
