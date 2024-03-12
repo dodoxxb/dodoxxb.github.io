@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 3rd-yead PhD candidate with successive postgraduate and doctoral programs of study at [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/) advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, He received his B.Eng. degree from [School of informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/) under the supervision of [Prof. Zhirong Shen](https://shenzr.github.io) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ).
+Zhicheng is a 3rd-yead Ph.D. candidate with successive postgraduate and doctoral programs of study at [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/) advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, He received his B.Eng. degree from [School of informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/) under the supervision of [Prof. Zhirong Shen](https://shenzr.github.io) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ).
 
 His research aims to construct efficient AI models and apply to various domains, as well as actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science. 
 
 # 📖 Educations
-- *2021.09 - present*, PhD candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
+- *2021.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
 - 
 # 🔥 News
@@ -36,7 +36,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
-[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301137Xm) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) 
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301137Xm) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) [[Arxiv]](https://arxiv.org/abs/2308.16552)
 
 </div>
 </div>
@@ -126,7 +126,7 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 
 # 🎖 Honors and Awards
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
-- *2022.12* The Outstanding Innovation Award of the 1st "Biopharmaceutical and Health Engineering Cup" Graduate Academic Forum, Tsinghua University.
+- *2022.12* The Outstanding Innovation Award of the 1st "Biopharmaceutical and Health Engineering Cup" Graduate Academic Forum (1/15), Tsinghua University.
 - *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
 - *2022.11* The 4th place in the men's singles of the 1st “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
 - *2021.12* The Second Prize of orienteering competition of commemorating the 86th anniversary of the December 9th Movement, Tsinghua University.
