@@ -36,7 +36,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 9(10): 571.
-[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf)
+[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf) [[Arxiv]](https://arxiv.org/abs/2208.05228)
 
 </div>
 </div>
@@ -50,26 +50,25 @@ Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin
 </div>
 </div>
 
-### Pantent
+### Preprint
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
+[[HTML]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
+
+</div>
+</div>
+
+### Pantent
 
 <div class='paper-box-text' markdown="1">
 
 Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for extending erasure code storage system. [Publication number: CN114237970A] 
 
 </div>
-</div>
 
-### Preprint
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Current and perspective sensing methods for monkeypox virus a reemerging zoonosis in its infancy.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus: a reemerging zoonosis in its infancy. arXiv preprint arXiv:2208.05228, 2022.
-[[HTML]](https://arxiv.org/abs/2208.05228) [[PDF]](/pdf/Current and perspective sensing methods for monkeypox virus a reemerging zoonosis in its infancy.pdf)
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
