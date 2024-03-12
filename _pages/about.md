@@ -35,6 +35,11 @@ His research aims to construct efficient AI models and apply to various domains,
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
+</div>
+</div>
+
+
+
 # 🎖 Honors and Awards
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
 - *2022.12* The Outstanding Innovation Award of the 1st "Biopharmaceutical and Health Engineering Cup" Graduate Academic Forum, Tsinghua University.
