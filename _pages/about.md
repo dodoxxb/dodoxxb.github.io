@@ -22,6 +22,10 @@ Zhicheng is a 3rd-yead PhD candidate with successive postgraduate and doctoral p
 
 His research aims to construct efficient AI models and apply to various domains, as well as actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science. 
 
+# 📖 Educations
+- *2021.09 - present*, PhD candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
+- *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
+- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -31,14 +35,11 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu, Peiwu Qin. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179) [[PDF]](/pdf/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.pdf)
 
 </div>
 </div>
-
-
 
 # 🎖 Honors and Awards
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
@@ -56,10 +57,6 @@ His research aims to construct efficient AI models and apply to various domains,
 - *2018.05* The Winning Award of the 15th Intelligent Connected Innovation Competition, Xiamen University.  
 - *2017.12* The Third Prize of the Maker Competition, Xiamen University. 
 - *2017.09* Outstanding students of military training, Xiamen University. 
-
-# 📖 Educations
-- *2021.09 - present*, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
-- *2017.09 - 2021.06*, School of informatics, Xiamen University(XMU), Xiamen, China.
 
 # 💻 Internships
 - *2020.06 - 2020.09*, [Shenzhen Longgang Big Data Center](http://www.lggov.cn/), Shenzhen, China.
