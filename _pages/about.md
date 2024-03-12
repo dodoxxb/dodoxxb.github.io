@@ -30,13 +30,43 @@ His research aims to construct efficient AI models and apply to various domains,
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications and Patents
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioengineering</div><img src='images/Current and Perspective Sensing Methods for Monkeypox Virus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu, Peiwu Qin. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83.
+Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 9(10): 571.
+[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Future Foods</div><img src='images/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu, Peiwu Qin. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179) [[PDF]](/pdf/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.pdf)
+
+</div>
+</div>
+
+### Pantent
+
+
+<div class='paper-box-text' markdown="1">
+
+Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for extending erasure code storage system. [Publication number: CN114237970A] 
+
+</div>
+</div>
+
+### Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Current and perspective sensing methods for monkeypox virus a reemerging zoonosis in its infancy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus: a reemerging zoonosis in its infancy. arXiv preprint arXiv:2208.05228, 2022.
+[[HTML]](https://arxiv.org/abs/2208.05228) [[PDF]](/pdf/Current and perspective sensing methods for monkeypox virus a reemerging zoonosis in its infancy.pdf)
 
 </div>
 </div>
