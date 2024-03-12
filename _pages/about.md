@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhicheng is a 3rd-yead PhD student at [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/) advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ).  Previously, He received his B.Eng. degree from School of informatics, Xiamen University (XMU) under the supervision of [Prof. Zhirong Shen](https://shenzr.github.io) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ).
+Zhicheng is a 3rd-yead PhD candidate with successive postgraduate and doctoral programs of study at [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/) advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, He received his B.Eng. degree from School of informatics, Xiamen University (XMU) under the supervision of [Prof. Zhirong Shen](https://shenzr.github.io) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ).
 
-His research aims to construct efficient AI models that work across various domains and actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science.  
+His research aims to construct efficient AI models and apply to various domains, as well as actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science. I have published 10+ papers with <a href='https://scholar.google.com/citations?user=7UnZIo0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -46,8 +46,8 @@ His research aims to construct efficient AI models that work across various doma
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - present*, Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
+- *2017.09 - 2021.06*, School of informatics, Xiamen University(XMU), Xiamen, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
