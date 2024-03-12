@@ -52,7 +52,25 @@ Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin
 
 ### Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Space</div><img src='images/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. 2024.
+[[HTML]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023.
+[[HTML]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
