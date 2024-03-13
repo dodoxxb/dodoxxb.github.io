@@ -31,6 +31,28 @@ His research aims to construct efficient AI models and apply to various domains,
 
 # 📝 Publications
 
+### Conference
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lamper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024, Invite to archive)*.
+[[HTML]]() [[PDF]]() [[Arxiv]]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/unrevealing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024, Invite to present)*.
+[[HTML]]() [[PDF]]() [[Arxiv]]()
+
+</div>
+</div>
+
+### Journal
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Biol. Med.</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
