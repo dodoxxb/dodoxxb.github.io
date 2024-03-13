@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhicheng Du"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Long and difficult as the journey may be, sustained actions will take us to the destination. （道阻且长，行则将至）"
 repository               : "dodoxxb.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhicheng Du"
-  avatar           : "images/duzc.png"
-  bio              : "Tsinghua Shenzhen International Graduate School"
+  avatar           : "images/duzc1.png"
+  bio              : "Tsinghua Shenzhen International Graduate School (SIGS)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
