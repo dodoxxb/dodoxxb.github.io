@@ -37,7 +37,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024, Invite to archive)*.
-[[HTML]]() [[PDF]]() [[Arxiv]]()
+[[HTML]]() [[PDF]]()
 
 </div>
 </div>
@@ -46,7 +46,25 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024, Invite to present)*.
-[[HTML]]() [[PDF]]() [[Arxiv]]()
+[[HTML]]() [[PDF]]() 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Huiyan Luo, Peiwu Qin. Multimodal data integration using deep learning for predicting cancer biomarker and improving risk stratification in colorectal cancer. *the 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum (oral, Top15)*.
+[[HTML]](https://mp.weixin.qq.com/s/THIPNwpzKiW9hoAoMTtXYQ) [[PHOTO]](https://as.alltuu.com/album/1352321604/?from=qrCode&menu=live) [[PDF]](/pdf/forum2.pdf) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Chenyao Jiang, Fang Li, Dongmei Yu, Peiwu Qin. MAG: Multimodal learning and Attention mechanism General model for adolescent mental health screening. *the 1st Biopharmaceutical and Health Engineering Cup Graduate Forum (oral, Top15)*.
+[[HTML]](https://mp.weixin.qq.com/s/pvut-zMLLHYuJGGNIP4AIA) [[PHOTO]](https://cloud.tsinghua.edu.cn/d/22267a5a9bc64112a50e/) [[PDF]](/pdf/forum1.pdf) 
 
 </div>
 </div>
@@ -147,7 +165,7 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 
 # 🎖 Honors and Awards
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
-- *2022.12* The Outstanding Innovation Award of the first "Biopharmaceutical and Health Engineering Cup" Graduate Academic Forum (1/15), Tsinghua University.
+- *2022.12* The Outstanding Innovation Award of the first Biopharmaceutical and Health Engineering Cup Graduate Forum (1/15), Tsinghua University.
 - *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
 - *2022.11* The 4th place in the men's singles of the first “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
 - *2021.12* The Second Prize of orienteering competition of commemorating the 86th anniversary of the December 9th Movement, Tsinghua University.
