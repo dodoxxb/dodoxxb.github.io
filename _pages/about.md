@@ -37,7 +37,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024, Invite to archive)*.
-[[HTML]]() [[PDF]]()
+[HTML] [PDF]
 
 </div>
 </div>
@@ -46,7 +46,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024, Invite to present)*.
-[[HTML]]() [[PDF]]() 
+[HTML] [PDF]
 
 </div>
 </div>
