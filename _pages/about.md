@@ -41,7 +41,7 @@ Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS omega</div><img src='images/Detection of Frog Virus 3 by Integrating RPA-CRISPR Cas12a-SPM with Deep Learning.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS omega</div><img src='images/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Zhengyang Lei, Lijin Lian, Likun Zhang, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu, Qian He, Peiwu Qin. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
@@ -59,7 +59,7 @@ Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhengl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Sens.</div><img src='images/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Sens.</div><img src='images/fsens-03-1015223-g001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Likun Zhang, Zhengyang Lei, Chufan Xiao, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang, Qian He, Peiwu Qin. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
@@ -68,7 +68,7 @@ Likun Zhang, Zhengyang Lei, Chufan Xiao, **Zhicheng Du**, Chenyao Jiang, Xi Yuan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioengineering</div><img src='images/Current and Perspective Sensing Methods for Monkeypox Virus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioengineering</div><img src='images/bioengineering-09-00571-ag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 3: 1015223.
@@ -77,7 +77,7 @@ Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Future Foods</div><img src='images/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Future Foods</div><img src='images/1-s2.0-S2772566922000179-gr5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu, Peiwu Qin. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
@@ -106,7 +106,7 @@ Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin. Alzhe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
