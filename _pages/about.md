@@ -125,9 +125,9 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 
 # 🎖 Honors and Awards
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
-- *2022.12* The Outstanding Innovation Award of the 1st "Biopharmaceutical and Health Engineering Cup" Graduate Academic Forum (1/15), Tsinghua University.
+- *2022.12* The Outstanding Innovation Award of the first "Biopharmaceutical and Health Engineering Cup" Graduate Academic Forum (1/15), Tsinghua University.
 - *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
-- *2022.11* The 4th place in the men's singles of the 1st “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
+- *2022.11* The 4th place in the men's singles of the first “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
 - *2021.12* The Second Prize of orienteering competition of commemorating the 86th anniversary of the December 9th Movement, Tsinghua University.
 - *2021.08* Certificate of National Information Security Test Program (Level 1) NISP-1.
 - *2020.05* The Third Prize of the 7th "Guangqian Cup" medical knowledge contest, Xiamen University.  
