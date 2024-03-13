@@ -29,7 +29,6 @@ His research aims to construct efficient AI models and apply to various domains,
 # 🔥 News
 - Looking for students with different disciplinary backgrounds to collaborate. Please feel free to reach out if you are interested.
 
-
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Biol. Med.</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
