@@ -27,8 +27,8 @@ His research aims to construct efficient AI models and apply to various domains,
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
   
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Looking for students with different disciplinary backgrounds to collaborate. Please feel free to reach out if you are interested.
+
 
 # 📝 Publications
 
