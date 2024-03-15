@@ -187,11 +187,12 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 - **Conference Reviewer**: ICECET'24.
 - **Journal Reviewer**: IEEE JBHI, J Genet Med Gene Ther.
 
-# 🔔 Brilliant speech
+# 🔔 Brilliant insight
 
-"Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit>[[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
+Jensen Huang(NAE fellow): "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
 
-  
+[Prof. Kaiming He](https://kaiminghe.github.io/): “I was disappointed maybe 95％ of the time, and then I spent 5% of my time finishing that paper then I move into next cycle being depressed, frustrated, anxious until the next work come out." <br>Quote from <2023 Future Science Prize Laureates Lecture> [[Youtube]](https://www.youtube.com/watch?v=jEeL5Gf4vkk) [[Bilibili]](https://www.bilibili.com/video/BV1QN41137qC/?share_source=copy_web&vd_source=cf6d3bb74a57cce30741ebabe01fec65)
+
 # 🌏 Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
