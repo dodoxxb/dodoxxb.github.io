@@ -184,8 +184,12 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 - *2020.06 - 2020.09*, [Shenzhen Longgang Big Data Center](http://www.lggov.cn/), Shenzhen, China.
 
 # 📃 Academic Services
-- **Conference Reviewer**: ICECET'24.
-- **Journal Reviewer**: IEEE JBHI, J Genet Med Gene Ther.
+## Journal Reviewer
+- **[IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/)**
+- **[Journal of Genetic Medicine and Gene Therapy (J Genet Med Gene Ther)](https://www.geneticmedjournal.com/)**
+
+## Conference Reviewer
+- **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
   
 # 🔔 Brilliant Insight
 - Jensen Huang (NAE fellow): "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
