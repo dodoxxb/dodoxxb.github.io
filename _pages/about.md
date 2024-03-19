@@ -187,6 +187,12 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 - **Conference Reviewer**: ICECET'24.
 - **Journal Reviewer**: IEEE JBHI, J Genet Med Gene Ther.
 
+# 🗃️ Useful Resources
+
+- [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
+- [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
+- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
+  
 # 🔔 Brilliant Insight
 
 - Jensen Huang (NAE fellow): "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
