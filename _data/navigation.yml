@@ -21,8 +21,8 @@ main:
   - title: "Academic Services"
     url: "/#-academic-services"
 
-  - title: "Useful Resources"
-    url: "/#-useful-resources"
-
   - title: "Brilliant Insight"
     url: "/#-brilliant-insight"
+
+  - title: "Useful Resources"
+    url: "/#-useful-resources"
