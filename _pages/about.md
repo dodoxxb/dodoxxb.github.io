@@ -37,7 +37,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to archive)*.
-[HTML] [PDF]
+[[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf)
 
 </div>
 </div>
@@ -46,7 +46,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to present)*.
-[HTML] [PDF]
+[[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf)
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS omega</div><img src='images/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Zhengyang Lei, Lijin Lian, Likun Zhang, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu, Qian He, Peiwu Qin. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
+Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu, Qian He, Peiwu Qin. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
 [[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) 
 
 </div>
@@ -101,7 +101,7 @@ Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhengl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Sens.</div><img src='images/fsens-03-1015223-g001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Likun Zhang, Zhengyang Lei, Chufan Xiao, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang, Qian He, Peiwu Qin. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
+Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang, Qian He, Peiwu Qin. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
 [[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 
 </div>
