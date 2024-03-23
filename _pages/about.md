@@ -36,7 +36,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lamper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to archive)*.
+**Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>\†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to archive)*.
 [[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf)
 
 </div>
@@ -45,7 +45,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/unrevealing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to present)*.
+**Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>\†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to present)*.
 [[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf)
 
 </div>
@@ -74,7 +74,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Biol. Med.</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
+Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>\†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301137Xm) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) [[Arxiv]](https://arxiv.org/abs/2308.16552)
 
 </div>
@@ -83,7 +83,7 @@ Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS omega</div><img src='images/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu, Qian He, Peiwu Qin. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
+Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>\†</sup>, Qian He<sup>\†</sup>, Peiwu Qin<sup>\†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
 [[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) 
 
 </div>
@@ -92,7 +92,7 @@ Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors</div><img src='images/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu, Peiwu Qin. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022, 12(11): 984.
+Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>\†</sup>, Peiwu Qin<sup>\†</sup>. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022, 12(11): 984.
 [[HTML]](https://www.mdpi.com/2079-6374/12/11/984) [[PDF]](/pdf/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.pdf) 
 
 </div>
@@ -101,7 +101,7 @@ Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhengl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Sens.</div><img src='images/fsens-03-1015223-g001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang, Qian He, Peiwu Qin. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
+Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>\†</sup>, Qian He<sup>\†</sup>, Peiwu Qin<sup>\†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
 [[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 
 </div>
@@ -110,7 +110,7 @@ Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioengineering</div><img src='images/bioengineering-09-00571-ag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Chen Qun, Muhammad Akmal Raheem, Qian He, Zhang Haihui, Canyang Zhang, Runming Wang, Sanyang Han, Du Ke, Peiwu Qin. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 3: 1015223.
+Ijaz Gul, Changyue Liu, Xi Yuan, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>\†</sup>, Can Yang Zhang<sup>\†</sup>, Peiwu Qin<sup>\†</sup>. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 3: 1015223.
 [[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf) [[Arxiv]](https://arxiv.org/abs/2208.05228)
 
 </div>
@@ -119,7 +119,7 @@ Ijaz Gul, Changyue Liu, Yuan Xi, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Ch
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Future Foods</div><img src='images/1-s2.0-S2772566922000179-gr5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu, Peiwu Qin. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
+Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu<sup>\†</sup>, Peiwu Qin<sup>\†</sup>. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179) [[PDF]](/pdf/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.pdf)
 
 </div>
@@ -130,7 +130,7 @@ Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Space</div><img src='images/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. 2024.
+Likun Zhang, Zhenglin Chen<sup>\†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>\†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. 2024.
 [[HTML]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
 
 </div>
@@ -139,7 +139,7 @@ Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Che
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023.
+Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>\†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023.
 [[HTML]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
 
 </div>
@@ -148,7 +148,7 @@ Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin. Alzhe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
+**Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>\†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
 [[HTML]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
 
 </div>
