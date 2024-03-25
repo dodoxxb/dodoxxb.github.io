@@ -30,7 +30,7 @@ His research aims to construct efficient AI models and apply to various domains,
 - Looking for students with different disciplinary backgrounds to collaborate. Please feel free to reach out if you are interested.
 
 # 📝 Publications
-
+(\* stands for equal contribution and † means corresponding author)
 ### Conference
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lamper.png' alt="sym" width="100%"></div></div>
