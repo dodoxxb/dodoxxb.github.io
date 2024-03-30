@@ -24,6 +24,7 @@ His research aims to construct efficient AI models and apply to various domains,
 
 # 📖 Educations
 - *2021.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
+- *2021.09 - 2023.06*, M.S. candidate, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
   
 # 🔥 News
@@ -37,7 +38,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to archive)*.
-[[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf)
+[[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf) [[Arxiv]](https://arxiv.org/abs/2403.15875)
 
 </div>
 </div>
@@ -46,7 +47,7 @@ His research aims to construct efficient AI models and apply to various domains,
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to present)*.
-[[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf)
+[[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf) [[Arxiv]](https://arxiv.org/abs/2403.15876)
 
 </div>
 </div>
@@ -84,7 +85,7 @@ Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huan
 <div class='paper-box-text' markdown="1">
 
 Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) 
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
 
 </div>
 </div>
