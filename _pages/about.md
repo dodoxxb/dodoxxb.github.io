@@ -23,7 +23,7 @@ Zhicheng is a 3rd-yead Ph.D. candidate with successive postgraduate and doctoral
 His research aims to construct efficient AI models and apply to various domains, as well as actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science. 
 
 # 📖 Educations
-- *2021.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
+- *2023.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
 - *2021.09 - 2023.06*, M.S. candidate, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
   
