@@ -141,7 +141,7 @@ Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu S
 <div class='paper-box-text' markdown="1">
 
 Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023.
-[[HTML]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
+[[Arxiv]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
 
 </div>
 </div>
@@ -150,7 +150,7 @@ Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>�
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
-[[HTML]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
+[[Arxiv]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
 
 </div>
 </div>
