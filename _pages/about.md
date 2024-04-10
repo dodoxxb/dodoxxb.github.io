@@ -191,7 +191,8 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 - *2017.09* Outstanding students of military training, Xiamen University. 
 
 # 💻 Internships
-- *2020.06 - 2020.09*, [Shenzhen Longgang Big Data Center](http://www.lggov.cn/), Shenzhen, China.
+- *2024.02 - present*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
+- *2020.06 - 2020.09*, Cyberspace security intern, [Shenzhen Longgang Big Data Center](http://www.lggov.cn/), Shenzhen, China.
 
 # 📃 Academic Services
 ## Journal Reviewer
