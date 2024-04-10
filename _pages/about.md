@@ -128,6 +128,15 @@ Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin
 
 ### Preprint
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSRN</div><img src='images/A Conductive and Anti-Freezing PC-OH Organic Hydrogel with High Adhesion and Self-Healing Activities for Wearable Electronics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A Conductive and Anti-Freezing Pc-Oh Organic Hydrogel with High Adhesion and Self-Healing Activities for Wearable Electronics. Available at SSRN: ssrn.com/abstract=4780689 or dx.doi.org/10.2139/ssrn.4780689, 2024.
+[[HTML]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689) [[PDF]](/pdf/A Conductive and Anti-Freezing PC-OH Organic Hydrogel with High Adhesion and Self-Healing Activities for Wearable Electronics.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Square</div><img src='images/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
