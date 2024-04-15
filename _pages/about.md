@@ -72,6 +72,15 @@ His research aims to construct efficient AI models and apply to various domains,
 
 ### Journal
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JoVE</div><img src='images/jove.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning *Journal of Visualized Experiments*. 2024.
+[[HTML]](https://www.jove.com/t/64833/dna-virus-detection-system-based-on-rpa-crisprcas12a-spm-deep)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput. Biol. Med.</div><img src='images/1-s2.0-S001048252301137X-gr1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
