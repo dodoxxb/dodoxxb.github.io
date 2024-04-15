@@ -209,6 +209,7 @@ Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo 
 - **[Journal of Genetic Medicine and Gene Therapy (J Genet Med Gene Ther)](https://www.geneticmedjournal.com/)**
 
 ## Conference Reviewer
+- **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
 - **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
   
 # 🔔 Brilliant Insight
