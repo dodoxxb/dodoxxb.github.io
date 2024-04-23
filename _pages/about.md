@@ -52,6 +52,23 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Huiyan Luo, Peiwu Qin. Multimodal data integration using deep learning for predicting cancer biomarker and improving risk stratification in colorectal cancer. *the 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2023-12.
+[[HTML]](https://mp.weixin.qq.com/s/THIPNwpzKiW9hoAoMTtXYQ) [[PHOTO]](https://as.alltuu.com/album/1352321604/?from=qrCode&menu=live) [[PDF]](/pdf/forum2.pdf) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhicheng Du**, Chenyao Jiang, Fang Li, Dongmei Yu, Peiwu Qin. MAG: Multimodal learning and Attention mechanism General model for adolescent mental health screening. *the 1st Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2022-12.
+[[HTML]](https://mp.weixin.qq.com/s/pvut-zMLLHYuJGGNIP4AIA) [[PHOTO]](https://cloud.tsinghua.edu.cn/d/22267a5a9bc64112a50e/) [[PDF]](/pdf/forum1.pdf) 
+
+</div>
+</div>
 
 ### Journal
 
@@ -162,26 +179,6 @@ Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>â€
 
 Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for extending erasure code storage system. [Publication number: CN114237970A] 
 
-</div>
-
-### Talk
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Zhicheng Du**, Huiyan Luo, Peiwu Qin. Multimodal data integration using deep learning for predicting cancer biomarker and improving risk stratification in colorectal cancer. *the 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2023-12.
-[[HTML]](https://mp.weixin.qq.com/s/THIPNwpzKiW9hoAoMTtXYQ) [[PHOTO]](https://as.alltuu.com/album/1352321604/?from=qrCode&menu=live) [[PDF]](/pdf/forum2.pdf) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Zhicheng Du**, Chenyao Jiang, Fang Li, Dongmei Yu, Peiwu Qin. MAG: Multimodal learning and Attention mechanism General model for adolescent mental health screening. *the 1st Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2022-12.
-[[HTML]](https://mp.weixin.qq.com/s/pvut-zMLLHYuJGGNIP4AIA) [[PHOTO]](https://cloud.tsinghua.edu.cn/d/22267a5a9bc64112a50e/) [[PDF]](/pdf/forum1.pdf) 
-
-</div>
 </div>
 
 # ðŸŽ– Honors and Awards
