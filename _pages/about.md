@@ -37,7 +37,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lamper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to archive)*.
+**Zhicheng Du**, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track)*.
 [[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf) [[Arxiv]](https://arxiv.org/abs/2403.15875)
 
 </div>
@@ -46,7 +46,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/unrevealing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track, Invite to present)*.
+**Zhicheng Du**, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track)*.
 [[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf) [[Arxiv]](https://arxiv.org/abs/2403.15876)
 
 </div>
@@ -172,6 +172,8 @@ Lightning talks from young investigators: Generalized deep learning model toward
 [[HTML]](https://conferences.nature.com/event/20f6abc4-5475-4071-b79c-c3c9dbb28e51/summary?utm_medium=organic_social&utm_source=wechat&utm_content=null&utm_term=null&utm_campaign=ACPG_NATCF_CFUL_GL_PCFU_CFULF_ADHEL-24)
 
 </div>
+
+<div class='paper-box-text' markdown="1">
 
 Multimodal data integration using deep learning for predicting cancer biomarker and improving risk stratification in colorectal cancer. *the 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2023-12.
 [[HTML]](https://mp.weixin.qq.com/s/THIPNwpzKiW9hoAoMTtXYQ) [[PHOTO]](https://as.alltuu.com/album/1352321604/?from=qrCode&menu=live) [[PDF]](/pdf/forum2.pdf) 
