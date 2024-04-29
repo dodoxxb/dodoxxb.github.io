@@ -52,23 +52,6 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Zhicheng Du**, Huiyan Luo, Peiwu Qin. Multimodal data integration using deep learning for predicting cancer biomarker and improving risk stratification in colorectal cancer. *the 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2023-12.
-[[HTML]](https://mp.weixin.qq.com/s/THIPNwpzKiW9hoAoMTtXYQ) [[PHOTO]](https://as.alltuu.com/album/1352321604/?from=qrCode&menu=live) [[PDF]](/pdf/forum2.pdf) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduate Forum</div><img src='images/forum1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Zhicheng Du**, Chenyao Jiang, Fang Li, Dongmei Yu, Peiwu Qin. MAG: Multimodal learning and Attention mechanism General model for adolescent mental health screening. *the 1st Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2022-12.
-[[HTML]](https://mp.weixin.qq.com/s/pvut-zMLLHYuJGGNIP4AIA) [[PHOTO]](https://cloud.tsinghua.edu.cn/d/22267a5a9bc64112a50e/) [[PDF]](/pdf/forum1.pdf) 
-
-</div>
-</div>
 
 ### Journal
 
@@ -177,14 +160,36 @@ Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>�
 
 <div class='paper-box-text' markdown="1">
 
-Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for extending erasure code storage system. [Publication number: CN114237970A] 
+Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Publication number: CN114237970A] 
+
+</div>
+
+### Talk
+
+<div class='paper-box-text' markdown="1">
+
+Lightning talks from young investigators: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. *Nature Conferences: Advancing Health with AI*. 2024-04.
+[[HTML]](https://conferences.nature.com/event/20f6abc4-5475-4071-b79c-c3c9dbb28e51/summary?utm_medium=organic_social&utm_source=wechat&utm_content=null&utm_term=null&utm_campaign=ACPG_NATCF_CFUL_GL_PCFU_CFULF_ADHEL-24)
+
+</div>
+
+Multimodal data integration using deep learning for predicting cancer biomarker and improving risk stratification in colorectal cancer. *the 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2023-12.
+[[HTML]](https://mp.weixin.qq.com/s/THIPNwpzKiW9hoAoMTtXYQ) [[PHOTO]](https://as.alltuu.com/album/1352321604/?from=qrCode&menu=live) [[PDF]](/pdf/forum2.pdf) 
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+MAG: Multimodal learning and Attention mechanism General model for adolescent mental health screening. *the 1st Biopharmaceutical and Health Engineering Cup Graduate Forum (Oral, Top15)*. 2022-12.
+[[HTML]](https://mp.weixin.qq.com/s/pvut-zMLLHYuJGGNIP4AIA) [[PHOTO]](https://cloud.tsinghua.edu.cn/d/22267a5a9bc64112a50e/) [[PDF]](/pdf/forum1.pdf) 
 
 </div>
 
 # 🎖 Honors and Awards
-- *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
+- *2024.04* Bronze poster award, Nature Conferences Advancing Health with AI.
+- *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
 - *2022.12* The Outstanding Innovation Award of the first Biopharmaceutical and Health Engineering Cup Graduate Forum (1/15), Tsinghua University.
-- *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University
+- *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
 - *2022.11* The 4th place in the men's singles of the first “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
 - *2021.12* The Second Prize of orienteering competition of commemorating the 86th anniversary of the December 9th Movement, Tsinghua University.
 - *2021.08* Certificate of National Information Security Test Program (Level 1) NISP-1.
