@@ -26,7 +26,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2023.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
 - *2021.09 - 2023.06*, M.S. candidate, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
-  
+- *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
+
 # 🔥 News
 - Looking for students with different disciplinary backgrounds to collaborate. Please feel free to reach out if you are interested.
 
@@ -207,7 +208,7 @@ MAG: Multimodal learning and Attention mechanism General model for adolescent me
 
 # 💻 Internships
 - *2024.02 - present*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
-- *2020.06 - 2020.09*, Cyberspace security intern, [Shenzhen Longgang Big Data Center](http://www.lggov.cn/), Shenzhen, China.
+- *2020.06 - 2020.09*, Cyberspace security testing-engineer intern, [Shenzhen Longgang Big Data Center](http://www.lggov.cn/), Shenzhen, China.
 
 # 📃 Academic Services
 ## Journal Reviewer
