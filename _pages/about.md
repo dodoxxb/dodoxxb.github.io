@@ -56,7 +56,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEJ</div><img src='images/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEJ</div><img src='images/A Conductive and Anti-Freezing PC-OH Organic Hydrogel with High Adhesion and Self-Healing Activities for Wearable Electronics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics *Chemical Engineering Journal*. 2024 May 22:152465.
