@@ -24,7 +24,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
-- *2021.09 - 2023.06*, M.S. candidate, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University(THU), Shenzhen, China.
+- *2021.09 - 2023.06*, M.S. student, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
