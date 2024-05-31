@@ -217,6 +217,7 @@ MAG: Multimodal learning and Attention mechanism General model for adolescent me
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
+- **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
 - **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
   
 # 🔔 Brilliant Insight
