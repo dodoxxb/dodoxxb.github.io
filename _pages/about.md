@@ -78,7 +78,7 @@ Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, 
 <div class='paper-box-text' markdown="1">
 
 Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
-[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301137Xm) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) [[Arxiv]](https://arxiv.org/abs/2308.16552)
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S001048252301137X) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) [[Arxiv]](https://arxiv.org/abs/2308.16552)
 
 </div>
 </div>
