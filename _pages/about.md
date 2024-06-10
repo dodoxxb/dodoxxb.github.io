@@ -208,7 +208,7 @@ MAG: Multimodal learning and Attention mechanism General model for adolescent me
 
 # 💻 Internships
 - *2024.06 - present*, Reasearch intern, Huawei, Shenzhen, China.
-- *2024.02 - present*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
+- *2024.02 - 2024.06*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
 - *2020.06 - 2020.09*, Cyberspace security testing-engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
 
 # 📃 Academic Services
