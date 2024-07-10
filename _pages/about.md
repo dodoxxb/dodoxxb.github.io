@@ -35,14 +35,14 @@ His research aims to construct efficient AI models and apply them to biomedical 
 (\* stands for equal contribution and † means corresponding author)
 ### Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lamper.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track)*.
 [[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf) [[Arxiv]](https://arxiv.org/abs/2403.15875)
 
 </div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/unrevealing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
