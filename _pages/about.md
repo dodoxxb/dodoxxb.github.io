@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 3rd-year Ph.D. candidate with successive postgraduate and doctoral programs of study at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University (THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Currently, he is a research intern at Huawei, advised by Jiasheng Lu and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en). Previously, He received his B.Eng. degree from the [School of informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/) under the supervision of [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+Zhicheng is a 3rd-year Ph.D. candidate with successive postgraduate and doctoral programs of study at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University (THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Currently, he is a research intern at 2012 Labs, Huawei Technologies Co., Ltd., advised by Jiasheng Lu and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en). Previously, He received his B.Eng. degree from the [School of informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/) under the supervision of [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
 His research aims to construct efficient AI models and apply them to biomedical domains, as well as actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science. 
 
@@ -186,7 +186,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2017.09* Outstanding students of military training, Xiamen University. 
 
 # 💻 Internships
-- *2024.06 - present*, Reasearch intern, Huawei, Shenzhen, China.
+- *2024.06 - present*, Reasearch intern, 2012 Labs, Huawei Technologies Co., Ltd., Shenzhen, China.
 - *2024.02 - 2024.06*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
 - *2020.06 - 2020.09*, Cyberspace security testing-engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
 
