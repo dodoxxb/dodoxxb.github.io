@@ -209,6 +209,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
 - [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
+- [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
 
 # 🌏 Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
