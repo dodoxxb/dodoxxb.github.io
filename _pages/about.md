@@ -80,7 +80,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 <div class='paper-box-text' markdown="1">
 
 [5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929)
+        
+         [PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
+        
+        
 
 </div>
 
@@ -188,7 +192,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 # 💻 Internships
 - *2024.06 - present*, Reasearch intern, 2012 Labs, Huawei Technologies Co., Ltd., Shenzhen, China.
 - *2024.02 - 2024.06*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
-- *2020.06 - 2020.09*, Cyberspace security testing-engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
+- *2020.06 - 2020.09*, Cyberspace security engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
 
 # 📃 Academic Services
 ## Journal Reviewer
@@ -197,8 +201,10 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
-- **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
+- **International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
+- **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
+
   
 # 🔔 Brilliant Insight
 - Jensen Huang (NAE fellow): "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
