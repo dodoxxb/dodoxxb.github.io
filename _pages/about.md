@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 3rd-year Ph.D. candidate with successive postgraduate and doctoral programs of study at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University (THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Currently, he is a research intern at 2012 Labs, Huawei Technologies Co., Ltd., advised by Jiasheng Lu and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en). Previously, He received his B.Eng. degree from the [School of informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/) under the supervision of [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+Zhicheng is a 4th-year Ph.D. candidate with successive postgraduate and doctoral programs of study at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University (THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Currently, he is a research intern at 2012 Labs, Huawei Technologies Co., Ltd., advised by Jiasheng Lu and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en). Previously, He received his B.Eng. degree from the [School of informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/) under the supervision of [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
 His research aims to construct efficient AI models and apply them to biomedical domains, as well as actualize ideas that are personally interesting. Explorations include deep learning, multimodal learning and AI for science. 
 
@@ -198,6 +198,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
 - **International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
+- **International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
 - **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
 - **International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
