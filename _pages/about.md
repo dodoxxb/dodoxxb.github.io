@@ -98,7 +98,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
-[[Arxiv]](https://arxiv.org/abs/2309.10077) [PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
+[[Arxiv]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
 </div>
 
 ### Pantent
