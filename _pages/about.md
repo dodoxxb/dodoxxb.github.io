@@ -72,7 +72,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
-[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
+[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -93,7 +93,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [2] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023.
-[[Arxiv]](https://arxiv.org/abs/2310.11464) [PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
+[[Arxiv]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
