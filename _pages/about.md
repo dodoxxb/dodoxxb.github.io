@@ -103,6 +103,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Pantent
 <div class='paper-box-text' markdown="1">
+[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. 
+</div>
+<div class='paper-box-text' markdown="1">
 [2] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. Preparation method of gel electrode, gel electrode and detection device. [Publication number: CN118667050A] 
 </div>
 <div class='paper-box-text' markdown="1">
