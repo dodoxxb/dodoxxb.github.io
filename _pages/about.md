@@ -103,7 +103,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Pantent
 <div class='paper-box-text' markdown="1">
-[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. 
+[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis.  [Publication number: CN118787353A] 
 </div>
 <div class='paper-box-text' markdown="1">
 [2] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. Preparation method of gel electrode, gel electrode and detection device. [Publication number: CN118667050A] 
@@ -129,7 +129,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 # 🎖 Honors and Awards
+- *2024.05* Certificate of Reviewing awarded, IEEE ICECET.
 - *2024.04* Bronze poster award, Nature Conferences Advancing Health with AI.
+- *2023.12* The Oral report Commemorative Award of the second Biopharmaceutical and Health Engineering Cup Graduate Forum, Tsinghua University.
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
 - *2022.12* The Outstanding Innovation Award of the first Biopharmaceutical and Health Engineering Cup Graduate Forum (1/15), Tsinghua University.
 - *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
