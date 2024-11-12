@@ -63,6 +63,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 <div class='paper-box-text' markdown="1">
 [5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
 [[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929)[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
+        
+        
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -72,7 +74,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
-[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
+[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)
+        
+         [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -87,7 +91,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-3892812/v1, 2024.
+[3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-3892812/v1
+        
+        , 2024.
 [[HTML]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
 </div>
 
@@ -171,9 +177,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - [Prof. Kaiming He](https://people.csail.mit.edu/kaiming/): “I think research is about frustrations, failures, depression. It's all about the negative words you can comp up with. That's just the reality. If you haven't experienced, that means you are not ng the best research. That's just the reality. My life was just like that. I was disappointed maybe 95％ of the time, and then I spent 5% of my time finishing that paper then I move into next cycle being depressed, frustrated, anxious until the next work come out." <br>Quote from <2023 Future Science Prize Laureates Lecture> [[Youtube]](https://www.youtube.com/watch?v=jEeL5Gf4vkk) [[Bilibili]](https://www.bilibili.com/video/BV1QN41137qC/?share_source=copy_web&vd_source=cf6d3bb74a57cce30741ebabe01fec65)
 
 # 🗃️ Useful Resources
+- (As a contributor)[CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
-- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
 - [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
 
 # 🌏 Visitor Map
