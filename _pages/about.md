@@ -103,8 +103,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
-[[Arxiv]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
+[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077
+        
+        , 2023.
+[[Arxiv]](https://arxiv.org/abs/2309.10077
+        
+        ) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
 </div>
 
 ### Pantent
@@ -177,7 +181,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - [Prof. Kaiming He](https://people.csail.mit.edu/kaiming/): “I think research is about frustrations, failures, depression. It's all about the negative words you can comp up with. That's just the reality. If you haven't experienced, that means you are not ng the best research. That's just the reality. My life was just like that. I was disappointed maybe 95％ of the time, and then I spent 5% of my time finishing that paper then I move into next cycle being depressed, frustrated, anxious until the next work come out." <br>Quote from <2023 Future Science Prize Laureates Lecture> [[Youtube]](https://www.youtube.com/watch?v=jEeL5Gf4vkk) [[Bilibili]](https://www.bilibili.com/video/BV1QN41137qC/?share_source=copy_web&vd_source=cf6d3bb74a57cce30741ebabe01fec65)
 
 # 🗃️ Useful Resources
-- (As a contributor)[CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
+- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) (As a contributor): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
 - [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
