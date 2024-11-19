@@ -74,9 +74,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
-[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)
-        
-         [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
+[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)[[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -91,9 +89,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-3892812/v1
-        
-        , 2024.
+[3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-3892812/v1, 2024.
 [[HTML]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
 </div>
 
@@ -103,12 +99,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077
-        
-        , 2023.
-[[Arxiv]](https://arxiv.org/abs/2309.10077
-        
-        ) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
+[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
+[[Arxiv]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
 </div>
 
 ### Pantent
