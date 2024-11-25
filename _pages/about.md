@@ -46,12 +46,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[8] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics *Chemical Engineering Journal*. 2024 May 22:152465.
+[8] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics *Chemical Engineering Journal*. 2024, 492: 152465.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S1385894724039524) [[PDF]](/pdf/A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[7] Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning *Journal of Visualized Experiments*. 2024.
+[7] Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning *Journal of Visualized Experiments: Jove*, 2024 (207).
 [[HTML]](https://www.jove.com/t/64833/dna-virus-detection-system-based-on-rpa-crisprcas12a-spm-deep)
 </div>
 
