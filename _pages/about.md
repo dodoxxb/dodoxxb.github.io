@@ -129,6 +129,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 # 🎖 Honors and Awards
+- *2024.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
 - *2024.05* Certificate of Reviewing awarded, IEEE ICECET.
 - *2024.04* Bronze poster award, Nature Conferences Advancing Health with AI.
 - *2023.12* The Oral report Commemorative Award of the second Biopharmaceutical and Health Engineering Cup Graduate Forum, Tsinghua University.
@@ -159,6 +160,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
+- **International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
 - **International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
 - **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
