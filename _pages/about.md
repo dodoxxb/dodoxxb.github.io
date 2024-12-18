@@ -166,7 +166,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2017.09* Outstanding students of military training, Xiamen University. 
 
 # 💻 Internships
-- *2024.06 - present*, Reasearch intern, 2012 Labs, Huawei Technologies Co., Ltd., Shenzhen, China.
+- *2024.06 - 2024.12*, Reasearch intern, 2012 Labs, Huawei Technologies Co., Ltd., Shenzhen, China.
 - *2024.02 - 2024.06*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
 - *2020.06 - 2020.09*, Cyberspace security engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
 
