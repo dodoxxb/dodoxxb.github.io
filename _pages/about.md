@@ -35,6 +35,14 @@ His research aims to construct efficient AI models and apply them to biomedical 
 (\* stands for equal contribution and † means corresponding author)
 ### Conference
 <div class='paper-box-text' markdown="1">
+[4] QingYang Shi<sup>*</sup>, **Zhicheng Du**<sup>*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
+</div>
+
+<div class='paper-box-text' markdown="1">
+[3] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, QingYang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
+</div>
+
+<div class='paper-box-text' markdown="1">
 [2] **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024 Tiny paper track)*.
 [[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf) [[Arxiv]](https://arxiv.org/abs/2403.15875)
 </div>
@@ -86,6 +94,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 ### Preprint
+<div class='paper-box-text' markdown="1">
+[4] **Zhicheng Du**<sup>*</sup><sup>†</sup>, QingYang Shi<sup>*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 
+[[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
+</div>
+
 <div class='paper-box-text' markdown="1">
 [3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-3892812/v1, 2024.
 [[HTML]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
