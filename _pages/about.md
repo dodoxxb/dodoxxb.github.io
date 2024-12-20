@@ -55,6 +55,10 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[9] **Zhicheng Du**, Huiyan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health—Western Pacific*.
+</div>
+
+<div class='paper-box-text' markdown="1">
 [8] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics. *Chemical Engineering Journal*. 2024, 492: 152465.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S1385894724039524) [[PDF]](/pdf/A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689)
 </div>
@@ -71,7 +75,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929)
+        
+         [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
 </div>
 
 <div class='paper-box-text' markdown="1">
