@@ -75,7 +75,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929)
+        
+         [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -100,7 +102,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[4] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 10.13140/RG.2.2.17984.03842. 
+[4] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 10.13140/RG.2.2.17984.03842, 2024.
 [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
 </div>
 
