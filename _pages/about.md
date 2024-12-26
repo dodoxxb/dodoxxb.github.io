@@ -103,7 +103,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Preprint
 <div class='paper-box-text' markdown="1">
 [4] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 10.13140/RG.2.2.17984.03842, 2024.
-[[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
+[[HTML]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
