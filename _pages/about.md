@@ -180,13 +180,14 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
-- **International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
-- **International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
-- **International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
-- **International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
-- **International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
+- **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
+- **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
+- **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
+- **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
+- **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
-
+- **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
+  
 # 🔔 Brilliant Insight
 - Jensen Huang (NAE fellow): "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
 
