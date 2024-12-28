@@ -185,6 +185,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
 - **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
+- **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
 - **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
   
