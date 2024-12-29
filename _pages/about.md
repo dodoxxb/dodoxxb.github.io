@@ -105,7 +105,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[4] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning, 29 November 2024, PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-5421907/v1, 2024.
+[4] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. PREPRINT (Version 1) available at Research Square doi.org/10.21203/rs.3.rs-5421907/v1, 2024.
 [[HTML]](https://www.researchsquare.com/article/rs-5421907/v1) [[PDF]](/pdf/Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning.pdf)
 </div>
 
