@@ -178,6 +178,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2024.06 - 2024.12*, Reasearch intern, 2012 Labs, Huawei Technologies Co., Ltd., Shenzhen, China.
 - *2024.02 - 2024.06*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
 - *2020.06 - 2020.09*, Cyberspace security engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
+- *2019.02 - 2019.06*, Teaching Assistant(TA) of Chemistry, Xiamen University Affiliated Keji High School, Xiamen, China.
 
 # 📃 Academic Services
 ## Journal Reviewer
@@ -191,6 +192,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/home)
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
+- **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
 - **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
   
