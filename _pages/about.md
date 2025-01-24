@@ -55,6 +55,10 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[10] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng, Feiyu Kang. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025: 104046.
+</div>
+
+<div class='paper-box-text' markdown="1">
 [9] **Zhicheng Du**, Huiyan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health—Western Pacific*.
 </div>
 
@@ -75,7 +79,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929)[[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -182,7 +186,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 # 📃 Academic Services
 ## Journal Reviewer
-- **[IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/)**
+- **ACM Transactions on Computing for Healthcare ([HEALTH](https://dl.acm.org/journal/health))**
+- **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
+
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
