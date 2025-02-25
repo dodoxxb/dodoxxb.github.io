@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 4th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University (THU)](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://www.xmu.edu.cn/), where he was mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+Zhicheng is a 4th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), where he was mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
 He used to intern at 2012 Labs, Huawei Technologies Co., Ltd., advised by [Jiasheng Lu](https://openreview.net/profile?id=~Jiasheng_Lu1) and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en).
 
@@ -26,7 +26,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
-- *2021.09 - 2023.06*, M.S. student, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University(THU), Shenzhen, China.
+- *2021.09 - 2023.06*, M.S. student, Tsinghua-Berkeley Shenzhen Institute(TBSI), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
