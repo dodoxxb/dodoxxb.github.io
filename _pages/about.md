@@ -57,11 +57,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[10] **Zhicheng Du**, Huiyan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025, 55.
+[10] **Zhicheng Du**<sup>†</sup>, Huiyan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025, 55.
 </div>
 
 <div class='paper-box-text' markdown="1">
-[9] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng, Feiyu Kang. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025: 104046.
+[9] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025: 104046.
 </div>
 
 <div class='paper-box-text' markdown="1">
