@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 4th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), where he was mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+Zhicheng is a 4th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ) and [Prof. Hui-Yan Luo (Sun Yat-sen University Cancer Center)](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
 He used to intern at 2012 Labs, Huawei Technologies Co., Ltd., advised by [Jiasheng Lu](https://openreview.net/profile?id=~Jiasheng_Lu1) and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en).
 
@@ -160,11 +160,13 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.02* Certificate of presentation in the Lancet Summit: cancer control in China, Lancet Summit.
 - *2024.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
 - *2024.05* Certificate of Reviewing awarded, IEEE ICECET.
 - *2024.04* Bronze poster award, Nature Conferences Advancing Health with AI.
 - *2023.12* The Oral report Commemorative Award of the second Biopharmaceutical and Health Engineering Cup Graduate Forum, Tsinghua University.
 - *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
+- *2023.06* The Third place in SIFA Cup football competition, SIGS, Tsinghua University.
 - *2022.12* The Outstanding Innovation Award of the first Biopharmaceutical and Health Engineering Cup Graduate Forum (1/15), Tsinghua University.
 - *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
 - *2022.11* The 4th place in the men's singles of the first “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
@@ -200,6 +202,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
+- **Multimodal Learning and Applications Workshop (MULA)** @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)[<2025>](https://mula-workshop.github.io/)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
 - **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
   
