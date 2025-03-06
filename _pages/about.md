@@ -39,10 +39,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Conference
 <div class='paper-box-text' markdown="1">
 [4] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
+[[PDF]](/pdf/AudioCache.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [3] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, Qingyang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
+[[PDF]](/pdf/TAGMO.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
