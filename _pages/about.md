@@ -150,7 +150,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Talk
 <div class='paper-box-text' markdown="1">
 [3] Lightning talks from young investigators: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. *Nature Conferences: Advancing Health with AI*. 2024-04.
-[[HTML]](https://conferences.nature.com/event/20f6abc4-5475-4071-b79c-c3c9dbb28e51/summary?utm_medium=organic_social&utm_source=wechat&utm_content=null&utm_term=null&utm_campaign=ACPG_NATCF_CFUL_GL_PCFU_CFULF_ADHEL-24)
+[[HTML]](https://web.cvent.com/event/20f6abc4-5475-4071-b79c-c3c9dbb28e51/summary)
 </div>
 
 <div class='paper-box-text' markdown="1">
