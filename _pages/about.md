@@ -39,17 +39,17 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Conference
 <div class='paper-box-text' markdown="1">
 [5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia&Expo 2025 (ICME 2025)*.
-
+[[Researchsquare]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](/pdf/Content-Style Disentangled Audio Style Transfer via Diffusion Model.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [4] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[PDF]](/pdf/AudioCache.pdf)
+[[Researchsquare]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) [[PDF]](/pdf/AudioCache.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [3] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, Qingyang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[PDF]](/pdf/TAGMO.pdf)
+[[Researchsquare]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training) [[PDF]](/pdf/TAGMO.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -64,7 +64,17 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[10] **Zhicheng Du**<sup>†</sup>, Huiyan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025, 55.
+[12] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025.
+[[HTML]](https://www.bmj.com/content/388/bmj.r529/rr) [[PDF]](/pdf/Prevention and control of medical violence ethical dilemmas and systemic blind spots beyond technological empowerment.pdf)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[11] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025.
+[[HTML]](https://www.bmj.com/content/388/bmj.r476/rr-1) [[PDF]](/pdf/When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research.pdf)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[10] **Zhicheng Du**<sup>†</sup>, Hui-Yan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025, 55.
 [[HTML]](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00453-X/fulltext) [[PDF]](/pdf/Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer a retrospective, database cohert study.pdf)
 </div>
 
