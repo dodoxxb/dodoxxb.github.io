@@ -39,17 +39,17 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Conference
 <div class='paper-box-text' markdown="1">
 [5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia&Expo 2025 (ICME 2025)*.
-[[Researchsquare]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](/pdf/Content-Style Disentangled Audio Style Transfer via Diffusion Model.pdf)
+[[Researchgate]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](/pdf/Content-Style Disentangled Audio Style Transfer via Diffusion Model.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [4] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[Researchsquare]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) [[PDF]](/pdf/AudioCache.pdf)
+[[Researchgate]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) [[PDF]](/pdf/AudioCache.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [3] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, Qingyang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[Researchsquare]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training) [[PDF]](/pdf/TAGMO.pdf)
+[[Researchgate]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training) [[PDF]](/pdf/TAGMO.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -126,7 +126,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Preprint
 <div class='paper-box-text' markdown="1">
 [5] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.  2024. 
-[[Researchsquare]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
+[[Researchgate]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
