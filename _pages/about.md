@@ -38,6 +38,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Conference
 <div class='paper-box-text' markdown="1">
+[5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia&Expo 2025 (ICME 2025)*.
+
+</div>
+
+<div class='paper-box-text' markdown="1">
 [4] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
 [[PDF]](/pdf/AudioCache.pdf)
 </div>
