@@ -38,7 +38,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Conference
 <div class='paper-box-text' markdown="1">
-[5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia&Expo 2025 (ICME 2025)*.
+[5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)*.
 [[Researchgate]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](/pdf/Content-Style Disentangled Audio Style Transfer via Diffusion Model.pdf)
 </div>
 
@@ -64,12 +64,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[12] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025.
+[12] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r476/rr-1.
 [[HTML]](https://www.bmj.com/content/388/bmj.r529/rr) [[PDF]](/pdf/Prevention and control of medical violence ethical dilemmas and systemic blind spots beyond technological empowerment.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[11] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025.
+[11] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r529/rr. 
 [[HTML]](https://www.bmj.com/content/388/bmj.r476/rr-1) [[PDF]](/pdf/When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research.pdf)
 </div>
 
