@@ -64,12 +64,22 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[12] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r476/rr-1.
+[14] **Zhicheng Du**<sup>†</sup>. Rapid Response: Rethinking the Tools of Science: When "Subjective Judgments" Become the Invisible Enablers of Bias. *The BMJ*, 2025;388:e079839/rr-0.
+[[HTML]](https://www.bmj.com/content/388/bmj-2024-079839/rr-0) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[13] **Zhicheng Du**<sup>†</sup>. Rapid Response: Amend the Children’s Wellbeing and Schools Bill to protect children from assault. *The BMJ*, 2025;388:r566/rr.
+[[HTML]](https://www.bmj.com/content/388/bmj.r566/rr)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[12] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r529/rr.
 [[HTML]](https://www.bmj.com/content/388/bmj.r529/rr) [[PDF]](/pdf/Prevention and control of medical violence ethical dilemmas and systemic blind spots beyond technological empowerment.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[11] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r529/rr. 
+[11] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r476/rr-1.
 [[HTML]](https://www.bmj.com/content/388/bmj.r476/rr-1) [[PDF]](/pdf/When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research.pdf)
 </div>
 
