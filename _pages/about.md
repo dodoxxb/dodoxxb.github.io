@@ -69,7 +69,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[13] **Zhicheng Du**<sup>†</sup>. Rapid Response: Amend the Children’s Wellbeing and Schools Bill to protect children from assault. *The BMJ*, 2025;388:r566/rr.
+[13] **Zhicheng Du**<sup>†</sup>. Rapid Response: After banning corporal punishment, what else do we need to do? *The BMJ*, 2025;388:r566/rr.
 [[HTML]](https://www.bmj.com/content/388/bmj.r566/rr)
 </div>
 
