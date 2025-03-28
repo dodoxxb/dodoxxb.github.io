@@ -65,12 +65,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Journal
 <div class='paper-box-text' markdown="1">
 [14] **Zhicheng Du**<sup>†</sup>. Rapid Response: Rethinking the Tools of Science: When "Subjective Judgments" Become the Invisible Enablers of Bias. *The BMJ*, 2025;388:e079839/rr-0.
-[[HTML]](https://www.bmj.com/content/388/bmj-2024-079839/rr-0) 
+[[HTML]](https://www.bmj.com/content/388/bmj-2024-079839/rr-0) [[PDF]](/pdf/Rethinking the Tools of Science When Subjective Judgments Become the Invisible Enablers of Bias.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [13] **Zhicheng Du**<sup>†</sup>. Rapid Response: After banning corporal punishment, what else do we need to do? *The BMJ*, 2025;388:r566/rr.
-[[HTML]](https://www.bmj.com/content/388/bmj.r566/rr)
+[[HTML]](https://www.bmj.com/content/388/bmj.r566/rr) [[PDF]](/pdf/After banning corporal punishment, what else do we need to do.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
