@@ -135,17 +135,27 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[5] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.  2024. 
+[7] **Zhicheng Du**, Yang Liu, Likun Zhang, Shiyao Zhai, Zhengyang Lei, Yongjie Zhou, Dongmei Yu, Chenggang Yan, Xi Yuan, Zhenglin Chen<sup>†</sup>, Jiansong Ji<sup>†</sup>, Peiwu Qin<sup>†</sup>. Interactive robot with multimodal multitask model for early screening of multiple common adolescent mental disorders, 24 March 2025, PREPRINT (Version 1) available at Research Square.
+[[Researchsquare]](https://www.researchsquare.com/article/rs-5731226/v1) [[PDF]](/pdf/Interactive robot.pdf)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[6] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. 2025. 
+[[Researchgate]](https://www.researchgate.net/publication/390121198_Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine) [[PDF]](/pdf/Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine.pdf)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[5] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 2024. 
 [[Researchgate]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[4] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. 2024.
+[4] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning, 29 November 2024, PREPRINT (Version 1) available at Research Square.
 [[Researchsquare]](https://www.researchsquare.com/article/rs-5421907/v1) [[PDF]](/pdf/Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction. 2024. 
+[3] Likun Zhang, Zhenglin Chen<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Wenbo Ding, Xinhui Xing, Jiansong Ji, Chenggang Yan, Peiwu Qin<sup>†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction, 25 January 2024, PREPRINT (Version 1) available at Research Square.
 [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
 </div>
 
