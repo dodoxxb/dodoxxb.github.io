@@ -145,7 +145,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[6] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. 2025. 
+[6] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. Course Report on Bioethics and Scientific Ethics. 2025. 
 [[Researchgate]](https://www.researchgate.net/publication/390121198_Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine) [[PDF]](/pdf/Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine.pdf)
 </div>
 
@@ -165,13 +165,29 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[2] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023. 
-[[Arxiv]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
+[2] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464
+        
+        
+        
+        , 2023. 
+[[Arxiv]](https://arxiv.org/abs/2310.11464
+        
+        
+        
+        ) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
-[[Arxiv]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
+[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077
+        
+        
+        
+        , 2023.
+[[Arxiv]](https://arxiv.org/abs/2309.10077
+        
+        
+        
+        ) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)
 </div>
 
 ### Pantent
