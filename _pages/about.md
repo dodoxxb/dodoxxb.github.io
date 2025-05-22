@@ -241,6 +241,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
+- **British Machine Vision Conference** [<2025>](https://bmvc2025.bmva.org/)
 - **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
 - **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
