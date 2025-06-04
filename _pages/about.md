@@ -44,12 +44,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [4] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[Researchgate]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) [[PDF]](/pdf/AudioCache.pdf)
+[[HTML]](https://ieeexplore.ieee.org/document/10889043) [[Researchgate]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) [[PDF]](/pdf/AudioCache.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [3] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, Qingyang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[Researchgate]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training) [[PDF]](/pdf/TAGMO.pdf)
+[[HTML]](https://ieeexplore.ieee.org/document/10889172) [[Researchgate]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training) [[PDF]](/pdf/TAGMO.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
