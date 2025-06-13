@@ -69,8 +69,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[15] **Zhicheng Du**<sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He. Address Arctic shipping crisis at COP30. *Science*, 2025.
-[[HTML]]() [[PDF]]()
+[15] **Zhicheng Du**<sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He. Address Arctic shipping crisis at COP30. *Science* 388, 1143-1144(2025). DOI:10.1126/science.adx4305.
+[[HTML]](https://www.science.org/doi/10.1126/science.adx4305)
 </div>
 
 <div class='paper-box-text' markdown="1">
