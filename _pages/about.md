@@ -20,7 +20,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 Zhicheng is a 4th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ) and [Prof. Hui-Yan Luo](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en)([Sun Yat-sen University Cancer Center](https://www.sysucc.org.cn/)). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
-He used to intern at 2012 Labs, Huawei Technologies Co., Ltd., collaborated with [Jiasheng Lu](https://openreview.net/profile?id=~Jiasheng_Lu1) and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en).
+Currently, he is undertaking an internship in the Digitization Department of CRRC Nanjing Puzhen Co., Ltd. He used to intern at 2012 Labs, Huawei Technologies Co., Ltd., collaborated with [Jiasheng Lu](https://openreview.net/profile?id=~Jiasheng_Lu1) and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en).
 
 His research aims to construct efficient AI models and apply them to biomedical domains and the interesting ideas. Explorations include deep learning, multimodal learning and AI for science. 
 
