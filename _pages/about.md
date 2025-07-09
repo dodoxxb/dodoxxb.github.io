@@ -65,8 +65,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[12] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025.
-[[HTML]]() [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
+[12] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025, 20240232.
+[[HTML]](https://onlinelibrary.wiley.com/doi/10.1002/EXP.20240232) [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -126,7 +126,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[11] **Zhicheng Du**<sup>†</sup>. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space, 16 June 2025, PREPRINT (Version 1) available at Research Square.
+[11] Ying Tan<sup>†</sup>, Huazhang Ying, Xiang Wu, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yu Zong Chen. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space, 16 June 2025, PREPRINT (Version 1) available at Research Square.
 [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[PDF]](/pdf/Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space.pdf)
 </div>
 
