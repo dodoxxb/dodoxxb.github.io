@@ -25,8 +25,8 @@ Currently, he is undertaking an internship in the Digitization Department of CRR
 His research aims to construct efficient AI models and apply them to biomedical domains and the interesting ideas. Explorations include deep learning, multimodal learning and AI for science. 
 
 # 📖 Educations
-- *2024.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
-- *2021.09 - 2024.06*, M.S. student, Tsinghua-Berkeley Shenzhen Institute(TBSI), Tsinghua University(THU), Shenzhen, China.
+- *2023.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
+- *2021.09 - 2023.06*, M.S. student, Tsinghua-Berkeley Shenzhen Institute(TBSI), Tsinghua University(THU), Shenzhen, China.
 - *2017.09 - 2021.06*, B.S., School of informatics, Xiamen University(XMU), Xiamen, China.
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
@@ -64,6 +64,21 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 ### Journal
+<div class='paper-box-text' markdown="1">
+[15] **Zhicheng Du**, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin. Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025;31(13_Suppl):Abstract nr A049.
+[[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A049/763294/Abstract-A049-Development-of-a-tri-modal-contrast) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[14] **Zhicheng Du**, Lijin Lian, Wenji Xi, Yu Zheng, Gang Yu, Hui-Yan Luo, Peiwu Qin. Artificial intelligence enables the ethical reconstruction and social value realization of global cancer research: From technological innovation to humanistic care [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025;31(13_Suppl):Abstract nr B024.
+[[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/B024/763318/Abstract-B024-Artificial-intelligence-enables-the) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[13] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. *npj Digital Medicine*, 2025.
+[[Researchsquare]](https://www.researchsquare.com/article/rs-5421907/v1) [[PDF]](/pdf/Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning.pdf)
+</div>
+
 <div class='paper-box-text' markdown="1">
 [12] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025, 20240232.
 [[HTML]](https://onlinelibrary.wiley.com/doi/10.1002/EXP.20240232) [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
@@ -126,48 +141,43 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[11] Ying Tan<sup>†</sup>, Huazhang Ying, Xiang Wu, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yu Zong Chen. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space, 16 June 2025, PREPRINT (Version 1) available at Research Square.
+[10] Ying Tan<sup>†</sup>, Huazhang Ying, Xiang Wu, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yu Zong Chen. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space, 16 June 2025, PREPRINT (Version 1) available at Research Square.
 [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[PDF]](/pdf/Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[10] **Zhicheng Du**<sup>†</sup>. Rapid Response: Rethinking the Tools of Science: When "Subjective Judgments" Become the Invisible Enablers of Bias. *The BMJ*, 2025;388:e079839/rr-0.
+[9] **Zhicheng Du**<sup>†</sup>. Rapid Response: Rethinking the Tools of Science: When "Subjective Judgments" Become the Invisible Enablers of Bias. *The BMJ*, 2025;388:e079839/rr-0.
 [[HTML]](https://www.bmj.com/content/388/bmj-2024-079839/rr-0) [[Researchgate]](https://www.researchgate.net/publication/391560814_Rapid_Response_Rethinking_the_Tools_of_Science_When_Subjective_Judgments_Become_the_Invisible_Enablers_of_Bias) [[PDF]](/pdf/Rethinking the Tools of Science When Subjective Judgments Become the Invisible Enablers of Bias.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[9] **Zhicheng Du**<sup>†</sup>. Rapid Response: After banning corporal punishment, what else do we need to do? *The BMJ*, 2025;388:r566/rr.
+[8] **Zhicheng Du**<sup>†</sup>. Rapid Response: After banning corporal punishment, what else do we need to do? *The BMJ*, 2025;388:r566/rr.
 [[HTML]](https://www.bmj.com/content/388/bmj.r566/rr) [[Researchgate]](https://www.researchgate.net/publication/391560469_Rapid_Response_After_banning_corporal_punishment_what_else_do_we_need_to_do) [[PDF]](/pdf/After banning corporal punishment, what else do we need to do.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[8] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r529/rr.
+[7] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r529/rr.
 [[HTML]](https://www.bmj.com/content/388/bmj.r529/rr) [[Researchgate]](https://www.researchgate.net/publication/391560821_Rapid_Response_Prevention_and_control_of_medical_violence_ethical_dilemmas_and_systemic_blind_spots_beyond_technological_empowerment) [[PDF]](/pdf/Prevention and control of medical violence ethical dilemmas and systemic blind spots beyond technological empowerment.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[7] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r476/rr-1.
+[6] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r476/rr-1.
 [[HTML]](https://www.bmj.com/content/388/bmj.r476/rr-1) [[Researchgate]](https://www.researchgate.net/publication/391552976_Rapid_Response_When_scientific_blood_transfusion_meets_policy_Blood_loss_the_neglected_ecological_chain_of_research) [[PDF]](/pdf/When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[6] **Zhicheng Du**, Yang Liu, Likun Zhang, Shiyao Zhai, Zhengyang Lei, Yongjie Zhou, Dongmei Yu, Chenggang Yan, Xi Yuan, Zhenglin Chen<sup>†</sup>, Jiansong Ji<sup>†</sup>, Peiwu Qin<sup>†</sup>. Interactive robot with multimodal multitask model for early screening of multiple common adolescent mental disorders, 24 March 2025, PREPRINT (Version 1) available at Research Square.
+[5] **Zhicheng Du**, Yang Liu, Likun Zhang, Shiyao Zhai, Zhengyang Lei, Yongjie Zhou, Dongmei Yu, Chenggang Yan, Xi Yuan, Zhenglin Chen<sup>†</sup>, Jiansong Ji<sup>†</sup>, Peiwu Qin<sup>†</sup>. Interactive robot with multimodal multitask model for early screening of multiple common adolescent mental disorders, 24 March 2025, PREPRINT (Version 1) available at Research Square.
 [[Researchsquare]](https://www.researchsquare.com/article/rs-5731226/v1) [[PDF]](/pdf/Interactive robot.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[5] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. Course Report on Bioethics and Scientific Ethics. 2025. 
+[4] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. Course Report on Bioethics and Scientific Ethics. 2025. 
 [[Researchgate]](https://www.researchgate.net/publication/390121198_Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine) [[PDF]](/pdf/Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[4] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 2024. 
+[3] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 2024. 
 [[Researchgate]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[3] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning, 29 November 2024, PREPRINT (Version 1) available at Research Square.
-[[Researchsquare]](https://www.researchsquare.com/article/rs-5421907/v1) [[PDF]](/pdf/Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -255,8 +265,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
-- **Multimodal Learning and Applications Workshop (MULA)** @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)[<2025>](https://mula-workshop.github.io/)
-- **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/)
+- **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)
+- **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024), [<2025>](https://neurips.cc/Conferences/2025)
 - **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
   
 # 🔔 Brilliant Insight
