@@ -141,6 +141,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
+[11] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning." arXiv preprint arXiv:2507.04959 (2025).
+[[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](/pdf/Hear-Your-Click Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning.pdf) 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [10] Ying Tan<sup>†</sup>, Huazhang Ying, Xiang Wu, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yu Zong Chen. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space, 16 June 2025, PREPRINT (Version 1) available at Research Square.
 [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[PDF]](/pdf/Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space.pdf)
 </div>
