@@ -177,7 +177,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [4] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. Course Report on Bioethics and Scientific Ethics. 2025. 
-[[Researchgate]](https://www.researchgate.net/publication/390121198_Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine) [[PDF]](/pdf/Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine.pdf)
+[[Researchgate]](https://www.researchgate.net/publication/390121198_Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine) 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -272,7 +272,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
 - **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024), [<2025>](https://neurips.cc/Conferences/2025)
-- **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/)
+- **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/), [<2026>](https://mmm2026.cz/)
   
 # 🔔 Brilliant Insight
 - Jensen Huang: "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
