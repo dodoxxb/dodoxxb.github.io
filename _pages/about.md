@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 4th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ) and [Prof. Hui-Yan Luo](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en)([Sun Yat-sen University Cancer Center](https://www.sysucc.org.cn/)). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+Zhicheng is a 5th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ) and [Prof. Hui-Yan Luo](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en)([Sun Yat-sen University Cancer Center](https://www.sysucc.org.cn/)). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
-Currently, he is undertaking an internship in the Digitization Department of CRRC Nanjing Puzhen Co., Ltd. He used to intern at 2012 Labs, Huawei Technologies Co., Ltd., collaborated with [Jiasheng Lu](https://openreview.net/profile?id=~Jiasheng_Lu1) and [Dr. Xuhao Du](https://scholar.google.com.hk/citations?user=iblQ0AgAAAAJ&hl=en).
+He used to intern at 2012 Labs of Huawei Technologies Co., Ltd and Digitalization Department of CRRC Nanjing Puzhen Co., Ltd.
 
 His research aims to construct efficient AI models and apply them to biomedical domains and the interesting ideas. Explorations include deep learning, multimodal learning and AI for science. 
 
@@ -250,6 +250,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2017.09* Outstanding students of military training, Xiamen University. 
 
 # 💻 Internships
+- *2025.06 - 2025.08*, Reasearch intern, Digitalization Department, CRRC Nanjing Puzhen Co., Ltd., Nanjing, China.
 - *2024.06 - 2024.12*, Reasearch intern, 2012 Labs, Huawei Technologies Co., Ltd., Shenzhen, China.
 - *2024.02 - 2024.06*, Teaching Assistant(TA) of Principle and data analysis of magnetic resonance Imaging, SIGS, Shenzhen, China.
 - *2020.06 - 2020.09*, Cyberspace security engineer intern, Shenzhen Longgang Big Data Center, Shenzhen, China.
@@ -265,8 +266,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **British Machine Vision Conference** [<2025>](https://bmvc2025.bmva.org/)
 - **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
 - **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
-- **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](www.icecer.com)
-- **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/2024/),[<2025>](https://www.icecet.com/)
+- **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](https://www.icecer.com/2024/), [<2025>](https://www.icecer.com/)
+- **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/2024/), [<2025>](https://www.icecet.com/)
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
