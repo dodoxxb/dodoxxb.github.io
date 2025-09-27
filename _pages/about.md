@@ -31,7 +31,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
 # 🔥 News
-- I will be completing my PhD next year and am currently looking for faculty, postdoc positions, or other full-time opportunities in research labs. Please feel free to contact me if I might be a good fit for your team.
+- I will be completing my PhD next year and I am currently looking for faculty, postdoc positions, or other full-time opportunities in research labs. Please feel free to contact me if I might be a good fit for your team.
 - Looking for researchers with different disciplinary backgrounds to collaborate. Please feel free to reach out if you are interested.
 
 # 📝 Publications
