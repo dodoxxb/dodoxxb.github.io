@@ -65,6 +65,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[16] **Zhicheng Du**<sup>†</sup>. Scrolling Through the End of the World. *Journal of Adolescent Health*. 2025.
+[[HTML]]() [[PDF]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [15] **Zhicheng Du**, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin. Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025;31(13_Suppl):Abstract nr A049.
 [[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A049/763294/Abstract-A049-Development-of-a-tri-modal-contrast) 
 </div>
