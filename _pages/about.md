@@ -156,7 +156,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[11] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning." arXiv preprint arXiv:2507.04959 (2025).
+[12] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. TechRxiv (2025).
+[[TechRxiv]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176045642.21366704)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[11] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arXiv preprint arXiv:2507.04959 (2025).
 [[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](/pdf/Hear-Your-Click Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning.pdf) 
 </div>
 
@@ -278,7 +283,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
-- **British Machine Vision Conference** [<2025>](https://bmvc2025.bmva.org/)
+- **British Machine Vision Conference (BMVC)** [<2025>](https://bmvc2025.bmva.org/)
+- **Conference on Parsimony and Learning (CPAL)** [<2026>](https://cpal.cc/)
 - **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
 - **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](https://www.icecer.com/2024/), [<2025>](https://www.icecer.com/)
