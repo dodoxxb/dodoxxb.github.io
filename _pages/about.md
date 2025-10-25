@@ -225,7 +225,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Publication number: CN114237970A] 
+[1] Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Publication number: CN114237970A, Authorization number: CN114237970B] 
 </div>
 
 ### Talk
