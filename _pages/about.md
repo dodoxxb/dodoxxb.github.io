@@ -285,7 +285,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
 - **British Machine Vision Conference (BMVC)** [<2025>](https://bmvc2025.bmva.org/)
 - **Conference on Parsimony and Learning (CPAL)** [<2026>](https://cpal.cc/)
-- **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org)
+- **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)** [<2025>](www.acdsa.org/2025/), [<2026>](www.acdsa.org).
 - **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](https://www.icecer.com/2024/), [<2025>](https://www.icecer.com/)
 - **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/2024/), [<2025>](https://www.icecet.com/)
