@@ -245,29 +245,30 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 # 🎖 Honors and Awards
-- *2025.04* The Third place in SIFA Cup football competition, SIGS, Tsinghua University.
-- *2025.02* Certificate of presentation in the Lancet Summit: cancer control in China, Lancet Summit.
-- *2024.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
-- *2024.12* Artistic gold award of "December 9th" Revolutionary Song Concert, SIGS, Tsinghua University.
-- *2024.05* Certificate of Reviewing awarded, IEEE ICECET.
-- *2024.04* Bronze poster award, Nature Conferences Advancing Health with AI.
-- *2023.12* The Oral report Commemorative Award of the second Biopharmaceutical and Health Engineering Cup Graduate Forum, Tsinghua University.
-- *2023.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
-- *2023.06* The Third place in SIFA Cup football competition, SIGS, Tsinghua University.
-- *2022.12* The Outstanding Innovation Award of the first Biopharmaceutical and Health Engineering Cup Graduate Forum (1/15), Tsinghua University.
-- *2022.12* Academy Comprehensive Outstanding Second Prize, SIGS, Tsinghua University.
-- *2022.11* The 4th place in the men's singles of the first “Badminton friendly match between teachers and students”, iBHE, Tsinghua University.
-- *2021.12* The Second Prize of orienteering competition of commemorating the 86th anniversary of the December 9th Movement, Tsinghua University.
-- *2021.08* Certificate of National Information Security Test Program (Level 1) NISP-1.
-- *2020.05* The Third Prize of the 7th "Guangqian Cup" medical knowledge contest, Xiamen University.  
-- *2020.05* The First Prize of the 14th Physics competition, Xiamen University. 
-- *2019.10* Volunteer service scholarship, School of informatics, Xiamen University. 
-- *2019.10* Academic excellence scholarship, School of informatics, Xiamen University.
-- *2018.11* The Second Prize of the Excellent practice report on practical teaching of ideological and political theory course, Xiamen University.  
-- *2018.08* The Second Prize of the Electronic Design Competition for college students, Fujian.
-- *2018.05* The Winning Award of the 15th Intelligent Connected Innovation Competition, Xiamen University.  
-- *2017.12* The Third Prize of the Maker Competition, Xiamen University. 
-- *2017.09* Outstanding students of military training, Xiamen University. 
+- *2025.09* Certificate of Appreciation for serving as a Reviewer for the IJCAI 2025 Conference, IJCAI 2025 Program Chair.
+- *2025.04* Third Place, SIFA Cup Football Competition, SIGS, Tsinghua University.
+- *2025.02* Presentation Certificate, The Lancet Summit: cancer control in China.
+- *2024.12* Academy Comprehensive Scholarship (Second Prize), SIGS, Tsinghua University.
+- *2024.12* Artistic Gold Award, "December 9th" Revolutionary Song Concert, SIGS, Tsinghua University.
+- *2024.05* Reviewer Certificate, IEEE ICECET.
+- *2024.04* Bronze Poster Award, Nature Conferences: Advancing Health with AI.
+- *2023.12* Oral Presentation Award, The 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum, Tsinghua University.
+- *2023.12* Academy Comprehensive Scholarship (Second Prize), SIGS, Tsinghua University.
+- *2023.06* Third Place, SIFA Cup Football Competition, SIGS, Tsinghua University.
+- *2022.12* Outstanding Innovation Award, The 1st Biopharmaceutical and Health Engineering Cup Graduate Forum (Rank: 1/15), Tsinghua University.
+- *2022.12* Academy Comprehensive Scholarship (Second Prize), SIGS, Tsinghua University.
+- *2022.11* 4th Place, Men's Singles, 1st Teacher-Student Badminton Friendly Match, SIGS iBHE, Tsinghua University.
+- *2021.12* Second Prize, Orienteering Competition for the 86th Anniversary of the December 9th Movement, Tsinghua University.
+- *2021.08* National Information Security Test Program (Level 1) Certificate (NISP-1).
+- *2020.05* Third Prize, The 7th "Guangqian Cup" Medical Knowledge Contest, Xiamen University.  
+- *2020.05* First Prize, The 14th Physics Competition,, Xiamen University. 
+- *2019.10* Volunteer Service Scholarship, School of Informatics, Xiamen University. 
+- *2019.10* Academic Excellence Scholarship, School of Informatics, Xiamen University.
+- *2018.11* Second Prize, Excellent Practice Report on Ideological and Political Theory Course, Xiamen University.  
+- *2018.08* Second Prize, Electronic Design Competition for College Students, Fujian Province.
+- *2018.05* Winning Award, The 15th Intelligent Connected Innovation Competition, Xiamen University.  
+- *2017.12* Third Prize, The Maker Competition, Xiamen University. 
+- *2017.09* Outstanding Student of Military Training, Xiamen University. 
 
 # 💻 Internships
 - *2025.06 - 2025.08*, Reasearch intern, Digitalization Department, CRRC Nanjing Puzhen Co., Ltd., Nanjing, China.
