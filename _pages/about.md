@@ -76,7 +76,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [16] **Zhicheng Du**<sup>†</sup>. Scrolling Through the End of the World. *Journal of Adolescent Health*. 2025.
-[[HTML]]() [[PDF]]() 
+[[HTML]](https://www.jahonline.org/article/S1054-139X(25)00453-7/fulltext) [[PDF]](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1m1OD,Nz%257ENZUJv/1/0102019a3c45a14d-9193dc12-10f6-4432-b7b1-71f08091195b-000000/B8429iW2Y_BIkUXizmSNUo9jcOY=450) 
 </div>
 
 <div class='paper-box-text' markdown="1">
