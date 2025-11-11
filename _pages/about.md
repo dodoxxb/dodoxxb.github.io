@@ -280,6 +280,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 # 📃 Academic Services
 ## Journal Reviewer
 - **ACM Transactions on Computing for Healthcare ([HEALTH](https://dl.acm.org/journal/health))**
+- **Frontiers in Oncology ([Front. Oncol](https://www.frontiersin.org/journals/oncology))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
 
 ## Conference Reviewer
