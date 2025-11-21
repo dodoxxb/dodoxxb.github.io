@@ -65,6 +65,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[19] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six- method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025.
+[[HTML]]() [[PDF]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [18] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2025.
 [[HTML]]() [[PDF]]() 
 </div>
@@ -245,6 +250,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.11* Silver Award Team, Doctoral students' social practice, Tsinghua University.
 - *2025.09* Certificate of Appreciation for serving as a Reviewer for the IJCAI 2025 Conference, IJCAI 2025 Program Chair.
 - *2025.04* Third Place, SIFA Cup Football Competition, SIGS, Tsinghua University.
 - *2025.02* Presentation Certificate, The Lancet Summit: cancer control in China.
@@ -291,7 +297,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](https://www.icecer.com/2024/), [<2025>](https://www.icecer.com/)
 - **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/2024/), [<2025>](https://www.icecet.com/)
-- **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/)
+- **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/),[<2026>](https://2026.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
 - **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)
