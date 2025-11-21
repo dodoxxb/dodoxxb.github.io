@@ -65,7 +65,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[19] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six- method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025.
+[19] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six-method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025.
 [[HTML]]() [[PDF]]() 
 </div>
 
