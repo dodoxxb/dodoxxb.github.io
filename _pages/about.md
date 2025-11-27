@@ -222,15 +222,15 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Pantent
 <div class='paper-box-text' markdown="1">
-[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. [Publication number: CN118787353A] 
+[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. [Application number: CN118787353A] 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[2] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. Preparation method of gel electrode, gel electrode and detection device. [Publication number: CN118667050A] 
+[2] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. Preparation method of gel electrode, gel electrode and detection device. [Application number: CN118667050A] 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Publication number: CN114237970A, Authorization number: CN114237970B] 
+[1] Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Application number: CN114237970A, Patent number: CN114237970B] 
 </div>
 
 ### Talk
@@ -297,7 +297,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)** [<2024>](https://www.iceccme.com/)
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](https://www.icecer.com/2024/), [<2025>](https://www.icecer.com/)
 - **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/2024/), [<2025>](https://www.icecet.com/)
-- **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/),[<2026>](https://2026.ieeeicme.org/)
+- **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/), [<2026>](https://2026.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/)
 - **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)
