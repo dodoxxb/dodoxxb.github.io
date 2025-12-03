@@ -65,7 +65,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[19] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six-method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025.
+[19] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025.
 [[HTML]]() [[PDF]]() 
 </div>
 
@@ -75,82 +75,82 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[17] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025.
-[[HTML]]() [[PDF]]() 
+[17] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six-method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025 Nov 27;44(1):6.
+[[HTML]](https://link.springer.com/article/10.1007/s00345-025-06110-5) [[PDF]](https://rdcu.be/eR6ep) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[16] **Zhicheng Du**<sup>†</sup>. Scrolling Through the End of the World. *Journal of Adolescent Health*. 2025.
+[16] **Zhicheng Du**<sup>†</sup>. Scrolling Through the End of the World. *Journal of Adolescent Health*. 2025 Oct 31.
 [[HTML]](https://www.jahonline.org/article/S1054-139X(25)00453-7/fulltext) [[PDF]](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1m1OD,Nz%257ENZUJv/1/0102019a3c45a14d-9193dc12-10f6-4432-b7b1-71f08091195b-000000/B8429iW2Y_BIkUXizmSNUo9jcOY=450) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[15] **Zhicheng Du**, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin. Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025;31(13_Suppl):Abstract nr A049.
+[15] **Zhicheng Du**, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin. Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025 Jul 10;31(13_Supplement):A049.
 [[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A049/763294/Abstract-A049-Development-of-a-tri-modal-contrast) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[14] **Zhicheng Du**, Lijin Lian, Wenji Xi, Yu Zheng, Gang Yu, Hui-Yan Luo, Peiwu Qin. Artificial intelligence enables the ethical reconstruction and social value realization of global cancer research: From technological innovation to humanistic care [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025;31(13_Suppl):Abstract nr B024.
+[14] **Zhicheng Du**, Lijin Lian, Wenji Xi, Yu Zheng, Gang Yu, Hui-Yan Luo, Peiwu Qin. Artificial intelligence enables the ethical reconstruction and social value realization of global cancer research: From technological innovation to humanistic care [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025 Jul 10;31(13_Supplement):B024.
 [[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/B024/763318/Abstract-B024-Artificial-intelligence-enables-the) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[13] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. *npj Digital Medicine*, 2025.
+[13] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. *npj Digital Medicine*, 2025 Jul 13;8(1):435.
 [[HTML]](https://www.nature.com/articles/s41746-025-01849-y) [[Researchsquare]](https://www.researchsquare.com/article/rs-5421907/v1) [[PDF]](/pdf/Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[12] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025, 20240232.
+[12] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025 Oct (Vol. 5, No. 5, p. 20240232).
 [[HTML]](https://onlinelibrary.wiley.com/doi/10.1002/EXP.20240232) [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[11] **Zhicheng Du**<sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He. Address Arctic shipping crisis at COP30. *Science*, 2025;388(6752):1143-1144.
+[11] **Zhicheng Du**<sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He. Address Arctic shipping crisis at COP30. *Science*, 2025 Jun 12;388(6752):1143-4.
 [[HTML]](https://www.science.org/doi/10.1126/science.adx4305) [[PDF]](https://www.science.org/stoken/author-tokens/ST-2691/full)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[10] **Zhicheng Du**<sup>†</sup>, Hui-Yan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025, 55.
+[10] **Zhicheng Du**<sup>†</sup>, Hui-Yan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025 Feb 1;55.
 [[HTML]](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00453-X/fulltext) [[PDF]](/pdf/Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer a retrospective, database cohert study.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[9] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025: 104046.
+[9] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025 Feb 1;75:104046.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S2405829725000479) [[PDF]](/pdf/Crossing the capacity threshold in Si-S batteries through mud-crack electrodes.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[8] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics. *Chemical Engineering Journal*. 2024, 492: 152465.
+[8] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics. *Chemical Engineering Journal*. 2024 Jul 15;492:152465.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S1385894724039524) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689) [[PDF]](/pdf/A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[7] Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning. *Journal of Visualized Experiments: Jove*, 2024 (207): e64833.
+[7] Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning. *Journal of Visualized Experiments: Jove*, 2024 May 10(207):e64833.
 [[HTML]](https://www.jove.com/t/64833/dna-virus-detection-system-based-on-rpa-crisprcas12a-spm-deep)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[6] Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023, 167: 107672.
+[6] Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023 Dec 1;167:107672.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S001048252301137X) [[Arxiv]](https://arxiv.org/abs/2308.16552) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2022, 12(11): 984.
+[5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2023 Aug 25;8(36):32555-64.
 [[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[4] Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022, 12(11): 984.
+[4] Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022 Nov 7;12(11):984.
 [[HTML]](https://www.mdpi.com/2079-6374/12/11/984) [[PDF]](/pdf/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022, 9(10): 571.
+[3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022 Nov 2;3:1015223.
 [[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)[[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[2] Ijaz Gul, Changyue Liu, Xi Yuan, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>†</sup>, Can Yang Zhang<sup>†</sup>, Peiwu Qin<sup>†</sup>. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022, 3: 1015223.
+[2] Ijaz Gul, Changyue Liu, Xi Yuan, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>†</sup>, Can Yang Zhang<sup>†</sup>, Peiwu Qin<sup>†</sup>. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022 Oct 18;9(10):571.
 [[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[Arxiv]](https://arxiv.org/abs/2208.05228) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf) 
 </div>
 
@@ -161,12 +161,12 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[12] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. TechRxiv (2025).
+[12] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. Authorea Preprints. 2025 Oct 14.
 [[TechRxiv]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176045642.21366704)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[11] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arXiv preprint arXiv:2507.04959 (2025).
+[11] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arxiv e-prints. 2025 Jul:arxiv-2507.
 [[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](/pdf/Hear-Your-Click Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning.pdf) 
 </div>
 
@@ -206,17 +206,17 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[3] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. 2024. 
+[3] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. arxiv preprint arxiv:2509.21365. 2025 Sep 22. 
 [[Arxiv]](https://arxiv.org/abs/2509.21365) [[Researchgate]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[2] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arXiv:2310.11464, 2023. 
+[2] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arxiv preprint arxiv:2310.11464. 2023 Oct 13. 
 [[Arxiv]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arXiv preprint arXiv:2309.10077, 2023.
+[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arxiv preprint arxiv:2309.10077. 2023 Sep 18.
 [[Arxiv]](https://arxiv.org/abs/2309.10077)  [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf) 
 </div>
 
@@ -286,7 +286,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 # 📃 Academic Services
 ## Journal Reviewer
 - **ACM Transactions on Computing for Healthcare ([HEALTH](https://dl.acm.org/journal/health))**
-- **Frontiers in Oncology ([Front. Oncol](https://www.frontiersin.org/journals/oncology))**
+- **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
+- **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
 
 ## Conference Reviewer
