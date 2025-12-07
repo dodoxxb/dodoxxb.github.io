@@ -289,7 +289,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
-
+- **Scientific Reports ([Sci Rep](https://www.nature.com/srep/))**
+  
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
 - **British Machine Vision Conference (BMVC)** [<2025>](https://bmvc2025.bmva.org/)
