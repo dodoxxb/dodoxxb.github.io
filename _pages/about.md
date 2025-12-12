@@ -65,13 +65,13 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[19] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025.
+[19] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2025.
 [[HTML]]() [[PDF]]() 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[18] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2025.
-[[HTML]]() [[PDF]]() 
+[18] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S1054139X2500477X) [[PDF]](https://authors.elsevier.com/a/1mG0M_,2PPRz9Rz) 
 </div>
 
 <div class='paper-box-text' markdown="1">
