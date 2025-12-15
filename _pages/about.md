@@ -70,7 +70,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[18] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025.
+[18] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025 Dec 12.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S1054139X2500477X) [[PDF]](https://authors.elsevier.com/a/1mG0M_,2PPRz9Rz) 
 </div>
 
