@@ -65,6 +65,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[20] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2025.
+[[HTML]]() [[PDF]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [19] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2025 Dec 18:1-.
 [[HTML]](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834) [[PDF]](https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834) 
 </div>
