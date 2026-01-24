@@ -65,6 +65,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[22] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2025.
+[[HTML]]() [[PDF]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [21] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2025.
 [[HTML]]() [[PDF]]() 
 </div>
@@ -297,6 +302,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ## Journal Reviewer
 - **ACM Transactions on Computing for Healthcare ([HEALTH](https://dl.acm.org/journal/health))**
 - **BMC Medical Informatics and Decision Making ([BMC Med. Informatics Decis. Mak.](https://link.springer.com/journal/12911))**
+- **DARU Journal of Pharmaceutical Sciences ([DARU J. Pharm. Sci.](https://link.springer.com/journal/40199))**
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
