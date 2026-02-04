@@ -304,6 +304,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **BMC Medical Informatics and Decision Making ([BMC Med. Informatics Decis. Mak.](https://link.springer.com/journal/12911))**
 - **DARU Journal of Pharmaceutical Sciences ([DARU J. Pharm. Sci.](https://link.springer.com/journal/40199))**
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
+- **Discover Oncology ([Discov. Oncol.](https://link.springer.com/journal/12672))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
 - **Scientific Reports ([Sci. Rep.](https://www.nature.com/srep/))**
@@ -318,7 +319,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Electrical and Computer Engineering Researches (ICECER)** [<2024>](https://www.icecer.com/2024/), [<2025>](https://www.icecer.com/)
 - **IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET)** [<2024>](https://www.icecet.com/2024/), [<2025>](http://www.icecet.com/2025/), [<2026>](https://www.icecet.com/)
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/), [<2026>](https://2026.ieeeicme.org/)
-- **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/)
+- **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/), [<2026>](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/), [<2026>](https://2026.ijcai.org/)
 - **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024), [<2025>](https://neurips.cc/Conferences/2025)
