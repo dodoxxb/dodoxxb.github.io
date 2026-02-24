@@ -65,23 +65,28 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[24] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
+[[HTML]]() [[PDF]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [23] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026.
 [[HTML]]() [[PDF]]() 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[22] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2025.
+[22] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
 [[HTML]]() [[PDF]]() 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[21] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2025.
-[[HTML]]() [[PDF]]() 
+[21] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2026 Feb 15:wvag040.
+[[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag040/8487138)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[20] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2025.
-[[HTML]]() [[PDF]]() 
+[20] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2026 Feb 15:wvag039.
+[[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag039/8487136)
 </div>
 
 <div class='paper-box-text' markdown="1">
