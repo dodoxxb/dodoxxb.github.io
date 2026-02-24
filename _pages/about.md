@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 5th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Lan Ma](https://scholar.google.com/citations?user=7lIo0CAAAAAJ&hl=en) and [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+Zhicheng is a 5th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering(iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School(SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University(THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Lan Ma](https://scholar.google.com/citations?user=7lIo0CAAAAAJ&hl=en), [Prof. Hui-Yan Luo](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en) and [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
 
 He used to intern at 2012 Labs of Huawei Technologies Co., Ltd and Digitalization Department of CRRC Nanjing Puzhen Co., Ltd.
 
@@ -315,6 +315,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **DARU Journal of Pharmaceutical Sciences ([DARU J. Pharm. Sci.](https://link.springer.com/journal/40199))**
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Discover Oncology ([Discov. Oncol.](https://link.springer.com/journal/12672))**
+- **Frontiers in Cell and Developmental Biology([Front. cell dev. biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
