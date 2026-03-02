@@ -65,6 +65,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
+[25] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026.
+[[HTML]]() [[PDF]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [24] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
 [[HTML]]() [[PDF]]() 
 </div>
