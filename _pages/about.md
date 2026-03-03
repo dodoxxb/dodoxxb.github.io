@@ -324,6 +324,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
+- **npj Digital Medicine ([npj Digit. Med.](https://www.nature.com/npjdigitalmed/))**
 - **Scientific Reports ([Sci. Rep.](https://www.nature.com/srep/))**
 - **SN Comprehensive Clinical Medicine ([SN Compr. Clin. Med.](https://link.springer.com/journal/42399))**
   
