@@ -40,7 +40,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Conference
 <div class='paper-box-text' markdown="1">
 [5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)*.
-[[HTML]]() [[Researchgate]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](/pdf/Content-Style Disentangled Audio Style Transfer via Diffusion Model.pdf)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/11209789) [[Researchgate]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11209789)
 </div>
 
 <div class='paper-box-text' markdown="1">
