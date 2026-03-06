@@ -65,8 +65,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[25] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026.
-[[HTML]]() [[PDF]]() 
+[25] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026;5:1749158.
+[[HTML]](https://www.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/abstract)
 </div>
 
 <div class='paper-box-text' markdown="1">
