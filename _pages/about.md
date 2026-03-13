@@ -340,7 +340,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/), [<2026>](https://2026.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/), [<2026>](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/), [<2026>](https://2026.ijcai.org/)
-- **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025)
+- **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/index_2025.html) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025), [<2025>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2026)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024), [<2025>](https://neurips.cc/Conferences/2025)
 - **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/), [<2026>](https://mmm2026.cz/)
   
