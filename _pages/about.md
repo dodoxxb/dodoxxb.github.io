@@ -71,17 +71,17 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [24] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
-[[HTML]]() [[PDF]]() 
+[[HTML]]() 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[23] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026.
-[[HTML]]() [[PDF]]() 
+[23] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026:e4505904.
+[[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.4505904)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [22] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
-[[HTML]]() [[PDF]]() 
+[[HTML]]()
 </div>
 
 <div class='paper-box-text' markdown="1">
