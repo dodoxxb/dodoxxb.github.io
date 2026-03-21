@@ -250,7 +250,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 [[Arxiv]](https://arxiv.org/abs/2309.10077)  [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf) 
 </div>
 
-### Pantent
+### Patent
 <div class='paper-box-text' markdown="1">
 [3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. [Application number: CN118787353A] 
 </div>
