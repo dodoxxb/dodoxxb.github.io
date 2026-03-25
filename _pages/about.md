@@ -95,7 +95,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[19] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2025 Dec 18:1-.
+[19] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2026 Apr 3;48(4):738-738.
 [[HTML]](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834) [[PDF]](https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834) 
 </div>
 
@@ -327,6 +327,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **npj Digital Medicine ([npj Digit. Med.](https://www.nature.com/npjdigitalmed/))**
 - **Scientific Reports ([Sci. Rep.](https://www.nature.com/srep/))**
 - **SN Comprehensive Clinical Medicine ([SN Compr. Clin. Med.](https://link.springer.com/journal/42399))**
+- **Visual Computing for Industry, Biomedicine, and Art([VCIBA](https://link.springer.com/journal/42492))**
   
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
