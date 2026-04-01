@@ -281,12 +281,10 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 # 🎖 Honors and Awards
 - *2025.11* Silver Award Team, Doctoral students' social practice, Tsinghua University.
-- *2025.09* Certificate of Appreciation for serving as a Reviewer for the IJCAI 2025 Conference, IJCAI 2025 Program Chair.
 - *2025.04* Third Place, SIFA Cup Football Competition, SIGS, Tsinghua University.
 - *2025.02* Presentation Certificate, The Lancet Summit: cancer control in China.
 - *2024.12* Academy Comprehensive Scholarship (Second Prize), SIGS, Tsinghua University.
 - *2024.12* Artistic Gold Award, "December 9th" Revolutionary Song Concert, SIGS, Tsinghua University.
-- *2024.05* Reviewer Certificate, IEEE ICECET.
 - *2024.04* Bronze Poster Award, Nature Conferences: Advancing Health with AI.
 - *2023.12* Oral Presentation Award, The 2nd Biopharmaceutical and Health Engineering Cup Graduate Forum, Tsinghua University.
 - *2023.12* Academy Comprehensive Scholarship (Second Prize), SIGS, Tsinghua University.
