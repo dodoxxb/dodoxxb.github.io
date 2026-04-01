@@ -327,6 +327,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **npj Digital Medicine ([npj Digit. Med.](https://www.nature.com/npjdigitalmed/))**
 - **Scientific Reports ([Sci. Rep.](https://www.nature.com/srep/))**
 - **SN Comprehensive Clinical Medicine ([SN Compr. Clin. Med.](https://link.springer.com/journal/42399))**
+- **Therapeutic Innovation & Regulatory Science ([TIRS](https://link.springer.com/journal/43441))**
 - **Visual Computing for Industry, Biomedicine, and Art ([VCIBA](https://link.springer.com/journal/42492))**
   
 ## Conference Reviewer
