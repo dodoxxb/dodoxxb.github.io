@@ -280,6 +280,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.12* Friends of Tsinghua - BYD Funded Comprehensive Excellence Scholarship (First Prize), Tsinghua University.
 - *2025.11* Silver Award Team, Doctoral students' social practice, Tsinghua University.
 - *2025.04* Third Place, SIFA Cup Football Competition, SIGS, Tsinghua University.
 - *2025.02* Presentation Certificate, The Lancet Summit: cancer control in China.
