@@ -65,38 +65,38 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[25] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026;5:1749158.
-[[HTML]](https://www.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/abstract)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[24] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
-[[HTML]]() 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[23] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026:e4505904.
-[[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.4505904)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[22] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
+[25] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
 [[HTML]]()
 </div>
 
 <div class='paper-box-text' markdown="1">
-[21] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2026 Feb 15:wvag040.
+[24] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2026 Apr 3;48(4):738-738.
+[[HTML]](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834) [[PDF]](https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[23] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
+[[HTML]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[22] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026;5:1749158.
+[[HTML]](https://www.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/abstract) [[PDF]](https://public-pages-files-2025.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/pdf) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[21] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026:e4505904.
+[[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.4505904)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[20] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2026 Feb 15:wvag040.
 [[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag040/8487138)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[20] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2026 Feb 15:wvag039.
+[19] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2026 Feb 15:wvag039.
 [[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag039/8487136)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[19] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2026 Apr 3;48(4):738-738.
-[[HTML]](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834) [[PDF]](https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834) 
 </div>
 
 <div class='paper-box-text' markdown="1">
