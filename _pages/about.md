@@ -75,7 +75,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[23] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026.
+[23] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026 Apr 1;8(4).
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S2589933326000108?via%3Dihub) [[PDF]](https://authors.elsevier.com/a/1mxzz9CuVNur-i) 
 </div>
 
