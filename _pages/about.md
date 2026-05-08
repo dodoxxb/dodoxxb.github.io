@@ -65,8 +65,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[25] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "Assessing Adherence to TRIPOD+AI Guidelines in Machine Learning Models for Predicting Small for Gestational Age and Fetal Growth Restriction: A Systematic Review". *American Journal of Obstetrics & Gynecology MFM*. 2026.
-[[HTML]]()
+[25] **Zhicheng Du**<sup>†</sup>. Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+ AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review. *American Journal of Obstetrics & Gynecology MFM*. 2026 May 1;8(5).
+[[HTML]](https://www.ajogmfm.org/article/S2589-9333(26)00034-0/fulltext) [[PDF]](https://www.ajogmfm.org/action/showPdf?pii=S2589-9333%2826%2900034-0) 
 </div>
 
 <div class='paper-box-text' markdown="1">
