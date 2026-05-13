@@ -62,10 +62,10 @@ His research aims to construct efficient AI models and apply them to biomedical 
 [1] **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024)*.
 [[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[Arxiv]](https://arxiv.org/abs/2403.15876) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf) 
 </div>
-
+ 
 ### Journal
 <div class='paper-box-text' markdown="1">
-[25] **Zhicheng Du**<sup>†</sup>. Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+ AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review. *American Journal of Obstetrics & Gynecology MFM*. 2026 May 1;8(5).
+[25] **Zhicheng Du**<sup>†</sup>. Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+ AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review. *American Journal of Obstetrics & Gynecology MFM*. 2026 May;8(5):101923.
 [[HTML]](https://www.ajogmfm.org/article/S2589-9333(26)00034-0/fulltext) [[PDF]](https://www.ajogmfm.org/action/showPdf?pii=S2589-9333%2826%2900034-0) 
 </div>
 
@@ -75,7 +75,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[23] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026 Apr 1;8(4).
+[23] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026 Apr;8(4):101899.
 [[HTML]](https://www.sciencedirect.com/science/article/pii/S2589933326000108?via%3Dihub) [[PDF]](https://authors.elsevier.com/a/1mxzz9CuVNur-i) 
 </div>
 
