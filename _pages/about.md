@@ -319,6 +319,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **BMC Cancer ([BMC CANCER](https://link.springer.com/journal/12885))**
 - **BMC Digital Health ([BMC Digit. Health](https://link.springer.com/journal/44247))**
 - **BMC Medical Informatics and Decision Making ([BMC Med. Informatics Decis. Mak.](https://link.springer.com/journal/12911))**
+- **Breast cancer research ([Breast Cancer Res.](https://link.springer.com/journal/13058))**
 - **DARU Journal of Pharmaceutical Sciences ([DARU J. Pharm. Sci.](https://link.springer.com/journal/40199))**
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Discover Oncology ([Discov. Oncol.](https://link.springer.com/journal/12672))**
