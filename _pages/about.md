@@ -65,6 +65,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
  
 ### Journal
 <div class='paper-box-text' markdown="1">
+[26] Huazhang Ying<sup>\*</sup>, Xiang Wu<sup>\*</sup>, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yuzong Chen<sup>†</sup>, Ying Tan<sup>†</sup>. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space. *The Innovation Informatics*. 2026 May;2:100049.
+[[HTML]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2026.100049) [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[PDF]](https://www.the-innovation.org/data/article/export-pdf?id=6a02670a7a1d3171e790371d)
+</div>
+
+<div class='paper-box-text' markdown="1">
 [25] **Zhicheng Du**<sup>†</sup>. Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+ AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review. *American Journal of Obstetrics & Gynecology MFM*. 2026 May;8(5):101923.
 [[HTML]](https://www.ajogmfm.org/article/S2589-9333(26)00034-0/fulltext) [[PDF]](https://www.ajogmfm.org/action/showPdf?pii=S2589-9333%2826%2900034-0) 
 </div>
@@ -191,18 +196,13 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
-[12] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. Authorea Preprints. 2025 Oct 14.
+[11] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. Authorea Preprints. 2025 Oct 14.
 [[TechRxiv]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176045642.21366704)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[11] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arxiv e-prints. 2025 Jul:arxiv-2507.
+[10] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arxiv e-prints. 2025 Jul:arxiv-2507.
 [[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](/pdf/Hear-Your-Click Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[10] Ying Tan<sup>†</sup>, Huazhang Ying, Xiang Wu, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yu Zong Chen. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space, 16 June 2025, PREPRINT (Version 1) available at Research Square.
-[[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[PDF]](/pdf/Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space.pdf)
 </div>
 
 <div class='paper-box-text' markdown="1">
