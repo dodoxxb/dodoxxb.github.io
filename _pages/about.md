@@ -66,7 +66,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 ### Journal
 <div class='paper-box-text' markdown="1">
 [26] Huazhang Ying<sup>\*</sup>, Xiang Wu<sup>\*</sup>, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yuzong Chen<sup>†</sup>, Ying Tan<sup>†</sup>. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space. *The Innovation Informatics*. 2026 May;2:100049.
-[[HTML]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2026.100049) [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[PDF]](https://www.the-innovation.org/data/article/export-pdf?id=6a02670a7a1d3171e790371d)
+[[HTML]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2026.100049) [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[Researchgate]](https://www.researchgate.net/publication/404892917_Molecular-substructure_Deep_Autoencoders_cluster_bioactive_molecules_into_novel_band-shaped_substructure-distinguished_bioactivity_clusters_in_3D_latent_space_GRAPHICAL_ABSTRACT_PUBLIC_SUMMARY_Molecul?_sg%5B0%5D=R7C1YWXy5JxIuqCpDbI0_htEdFd0f_9fRPM4oMVWpsBqXjLXQQTW__140JttnUqw2ZQVXPRL95o704XY5lPfAj5fZRObXFdzxatFhCTV.z8cE9Kv8Hi2NdyX8pg3aBoru_ahPFiJodhT8K-2umKnRS2H51y5lP8UlTIE3VZBNe37ih0Y5FCjnpCXNPtF92Q&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) [[PDF]](https://www.the-innovation.org/data/article/export-pdf?id=6a02670a7a1d3171e790371d)
 </div>
 
 <div class='paper-box-text' markdown="1">
