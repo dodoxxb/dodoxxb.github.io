@@ -330,8 +330,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **International Journal of Colorectal Disease ([Int. J. Colorectal Dis.](https://link.springer.com/journal/384))**
 - **Journal of Hematology & Oncology ([J. Hematol. Oncol.](https://link.springer.com/journal/13045))**
 - **npj Digital Medicine ([npj Digit. Med.](https://www.nature.com/npjdigitalmed/))**
-- **Scientific Reports ([Sci. Rep.](https://www.nature.com/srep/))**
 - **SN Comprehensive Clinical Medicine ([SN Compr. Clin. Med.](https://link.springer.com/journal/42399))**
+- **Scientific Reports ([Sci. Rep.](https://www.nature.com/srep/))**
+- **Signal Transduction and Targeted Therapy ([Sig Transduct Target Ther](https://www.nature.com/sigtrans/))**
 - **Therapeutic Innovation & Regulatory Science ([TIRS](https://link.springer.com/journal/43441))**
 - **Visual Computing for Industry, Biomedicine, and Art ([VCIBA](https://link.springer.com/journal/42492))**
   
