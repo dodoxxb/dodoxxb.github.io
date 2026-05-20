@@ -326,6 +326,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Frontiers in Cell and Developmental Biology ([Front. cell dev. biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
+- **Frontiers in Public Health ([Front. Public Health.](https://www.frontiersin.org/journals/public-health))**
 - **IEEE Journal of Biomedical and Health Informatics ([JBHI](https://www.embs.org/jbhi/))**
 - **International Journal of Colorectal Disease ([Int. J. Colorectal Dis.](https://link.springer.com/journal/384))**
 - **Journal of Hematology & Oncology ([J. Hematol. Oncol.](https://link.springer.com/journal/13045))**
