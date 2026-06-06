@@ -196,13 +196,23 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 ### Preprint
 <div class='paper-box-text' markdown="1">
+[13] **Zhicheng Du**, Changyue Liu, Wenji Xi, Zhaotian Xie, Zhuo Deng, Ziheng Zhang, Yang Liu, Lan Ma<sup>†</sup>. Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments. arxiv preprint arXiv:2605.29004. 2026 May 27. 
+[[Arxiv]](https://arxiv.org/abs/2605.29004) [[PDF]](https://arxiv.org/pdf/2605.29004) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[12] **Zhicheng Du**, Wenji Xi, Zhuo Deng, Lan Ma<sup>†</sup>. Prime Certificates for Exact Vertex-Coprime Ramsey Numbers. arxiv preprint arXiv:2605.26815. 2026 May 26. 
+[[Arxiv]](https://arxiv.org/abs/2605.26815) [[PDF]](https://arxiv.org/pdf/2605.26815) 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [11] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. Authorea Preprints. 2025 Oct 14.
 [[TechRxiv]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176045642.21366704)
 </div>
 
 <div class='paper-box-text' markdown="1">
 [10] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arxiv e-prints. 2025 Jul:arxiv-2507.
-[[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](/pdf/Hear-Your-Click Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning.pdf) 
+[[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](https://arxiv.org/pdf/2507.04959) 
 </div>
 
 <div class='paper-box-text' markdown="1">
