@@ -346,6 +346,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Signal Transduction and Targeted Therapy ([Sig Transduct Target Ther](https://www.nature.com/sigtrans/))**
 - **Therapeutic Innovation & Regulatory Science ([TIRS](https://link.springer.com/journal/43441))**
 - **Visual Computing for Industry, Biomedicine, and Art ([VCIBA](https://link.springer.com/journal/42492))**
+- **World Journal of Surgical Oncology ([World J. Surg. Oncol.](https://link.springer.com/journal/12957))**
   
 ## Conference Reviewer
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
