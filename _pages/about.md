@@ -36,228 +36,224 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
-
-### Conference
 <div class='paper-box-text' markdown="1">
-[5] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)*.
-[[HTML]](https://ieeexplore.ieee.org/abstract/document/11209789) [[Researchgate]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11209789)
+[44] **Zhicheng Du**, Lan Ma<sup>†</sup>. Continuous Language Diffusion as a Decoder-Interface Problem. arXiv preprint arXiv:2606.08810. 2026 Jun 7.
+[[Arxiv]](https://arxiv.org/abs/2606.08810) [[PDF]](https://arxiv.org/pdf/2606.08810) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[4] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[HTML]](https://ieeexplore.ieee.org/document/10889043) [[Researchgate]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) [[PDF]](/pdf/AudioCache.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[3] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, Qingyang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*.
-[[HTML]](https://ieeexplore.ieee.org/document/10889172) [[Researchgate]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training) [[PDF]](/pdf/TAGMO.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[2] **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024)*.
-[[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[Arxiv]](https://arxiv.org/abs/2403.15875) [[PDF]](/pdf/lamper__language_model_and_prompt_engineering_for_zero_shot_time_series_classification.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[1] **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024)*.
-[[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[Arxiv]](https://arxiv.org/abs/2403.15876) [[PDF]](/pdf/Unveiling_the_Cognitive_Limits__Investigating_the_Proficiency_of_Image_Captioning_Models_in_Interpreting_Masked_Images.pdf) 
-</div>
- 
-### Journal
-<div class='paper-box-text' markdown="1">
-[26] Huazhang Ying<sup>\*</sup>, Xiang Wu<sup>\*</sup>, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yuzong Chen<sup>†</sup>, Ying Tan<sup>†</sup>. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space. *The Innovation Informatics*. 2026 May;2:100049.
-[[HTML]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2026.100049) [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[Researchgate]](https://www.researchgate.net/publication/404892917_Molecular-substructure_Deep_Autoencoders_cluster_bioactive_molecules_into_novel_band-shaped_substructure-distinguished_bioactivity_clusters_in_3D_latent_space_GRAPHICAL_ABSTRACT_PUBLIC_SUMMARY_Molecul?_sg%5B0%5D=R7C1YWXy5JxIuqCpDbI0_htEdFd0f_9fRPM4oMVWpsBqXjLXQQTW__140JttnUqw2ZQVXPRL95o704XY5lPfAj5fZRObXFdzxatFhCTV.z8cE9Kv8Hi2NdyX8pg3aBoru_ahPFiJodhT8K-2umKnRS2H51y5lP8UlTIE3VZBNe37ih0Y5FCjnpCXNPtF92Q&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) [[PDF]](https://www.the-innovation.org/data/article/export-pdf?id=6a02670a7a1d3171e790371d)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[25] **Zhicheng Du**<sup>†</sup>. Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+ AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review. *American Journal of Obstetrics & Gynecology MFM*. 2026 May;8(5):101923.
-[[HTML]](https://www.ajogmfm.org/article/S2589-9333(26)00034-0/fulltext) [[PDF]](https://www.ajogmfm.org/action/showPdf?pii=S2589-9333%2826%2900034-0) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[24] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2026 Apr 3;48(4):738-738.
-[[HTML]](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834) [[PDF]](https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[23] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026 Apr;8(4):101899.
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S2589933326000108?via%3Dihub) [[PDF]](https://authors.elsevier.com/a/1mxzz9CuVNur-i) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[22] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026;5:1749158.
-[[HTML]](https://www.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/abstract) [[PDF]](https://public-pages-files-2025.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[21] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026:e4505904.
-[[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.4505904)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[20] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2026 Feb 15:wvag040.
-[[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag040/8487138)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[19] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2026 Feb 15:wvag039.
-[[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag039/8487136)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[18] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025 Dec 12.
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S1054139X2500477X) [[PDF]](https://authors.elsevier.com/a/1mG0M_,2PPRz9Rz) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[17] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six-method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025 Nov 27;44(1):6.
-[[HTML]](https://link.springer.com/article/10.1007/s00345-025-06110-5) [[PDF]](https://rdcu.be/eR6ep) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[16] **Zhicheng Du**<sup>†</sup>. Scrolling Through the End of the World. *Journal of Adolescent Health*. 2025 Oct 31.
-[[HTML]](https://www.jahonline.org/article/S1054-139X(25)00453-7/fulltext) [[PDF]](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1m1OD,Nz%257ENZUJv/1/0102019a3c45a14d-9193dc12-10f6-4432-b7b1-71f08091195b-000000/B8429iW2Y_BIkUXizmSNUo9jcOY=450) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[15] **Zhicheng Du**, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin. Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025 Jul 10;31(13_Supplement):A049.
-[[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A049/763294/Abstract-A049-Development-of-a-tri-modal-contrast) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[14] **Zhicheng Du**, Lijin Lian, Wenji Xi, Yu Zheng, Gang Yu, Hui-Yan Luo, Peiwu Qin. Artificial intelligence enables the ethical reconstruction and social value realization of global cancer research: From technological innovation to humanistic care [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025 Jul 10;31(13_Supplement):B024.
-[[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/B024/763318/Abstract-B024-Artificial-intelligence-enables-the) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[13] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. *npj Digital Medicine*, 2025 Jul 13;8(1):435.
-[[HTML]](https://www.nature.com/articles/s41746-025-01849-y) [[Researchsquare]](https://www.researchsquare.com/article/rs-5421907/v1) [[PDF]](/pdf/Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[12] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025 Oct (Vol. 5, No. 5, p. 20240232).
-[[HTML]](https://onlinelibrary.wiley.com/doi/10.1002/EXP.20240232) [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[11] **Zhicheng Du**<sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He. Address Arctic shipping crisis at COP30. *Science*, 2025 Jun 12;388(6752):1143-4.
-[[HTML]](https://www.science.org/doi/10.1126/science.adx4305) [[PDF]](https://www.science.org/stoken/author-tokens/ST-2691/full)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[10] **Zhicheng Du**<sup>†</sup>, Hui-Yan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025 Feb 1;55.
-[[HTML]](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00453-X/fulltext) [[PDF]](/pdf/Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer a retrospective, database cohert study.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[9] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025 Feb 1;75:104046.
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S2405829725000479) [[PDF]](/pdf/Crossing the capacity threshold in Si-S batteries through mud-crack electrodes.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[8] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics. *Chemical Engineering Journal*. 2024 Jul 15;492:152465.
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S1385894724039524) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689) [[PDF]](/pdf/A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[7] Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning. *Journal of Visualized Experiments: Jove*, 2024 May 10(207):e64833.
-[[HTML]](https://www.jove.com/t/64833/dna-virus-detection-system-based-on-rpa-crisprcas12a-spm-deep)
-</div>
-
-<div class='paper-box-text' markdown="1">
-[6] Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023 Dec 1;167:107672.
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S001048252301137X) [[Arxiv]](https://arxiv.org/abs/2308.16552) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2023 Aug 25;8(36):32555-64.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[4] Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022 Nov 7;12(11):984.
-[[HTML]](https://www.mdpi.com/2079-6374/12/11/984) [[PDF]](/pdf/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022 Nov 2;3:1015223.
-[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)[[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[2] Ijaz Gul, Changyue Liu, Xi Yuan, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>†</sup>, Can Yang Zhang<sup>†</sup>, Peiwu Qin<sup>†</sup>. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022 Oct 18;9(10):571.
-[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[Arxiv]](https://arxiv.org/abs/2208.05228) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf) 
-</div>
-
-<div class='paper-box-text' markdown="1">
-[1] Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179) [[PDF]](/pdf/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.pdf)
-</div>
-
-### Preprint
-<div class='paper-box-text' markdown="1">
-[13] **Zhicheng Du**, Changyue Liu, Wenji Xi, Zhaotian Xie, Zhuo Deng, Ziheng Zhang, Yang Liu, Lan Ma<sup>†</sup>. Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments. arxiv preprint arXiv:2605.29004. 2026 May 27. 
+[43] **Zhicheng Du**, Changyue Liu, Wenji Xi, Zhaotian Xie, Zhuo Deng, Ziheng Zhang, Yang Liu, Lan Ma<sup>†</sup>. Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments. arxiv preprint arXiv:2605.29004. 2026 May 27. 
 [[Arxiv]](https://arxiv.org/abs/2605.29004) [[PDF]](https://arxiv.org/pdf/2605.29004) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[12] **Zhicheng Du**, Wenji Xi, Zhuo Deng, Lan Ma<sup>†</sup>. Prime Certificates for Exact Vertex-Coprime Ramsey Numbers. arxiv preprint arXiv:2605.26815. 2026 May 26. 
+[42] **Zhicheng Du**, Wenji Xi, Zhuo Deng, Lan Ma<sup>†</sup>. Prime Certificates for Exact Vertex-Coprime Ramsey Numbers. arxiv preprint arXiv:2605.26815. 2026 May 26. 
 [[Arxiv]](https://arxiv.org/abs/2605.26815) [[PDF]](https://arxiv.org/pdf/2605.26815) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[11] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. Authorea Preprints. 2025 Oct 14.
+[41] Huazhang Ying<sup>\*</sup>, Xiang Wu<sup>\*</sup>, Chu Qin, Likun Zhang, **Zhicheng Du**, Jiaqi Liu, Yuzong Chen<sup>†</sup>, Ying Tan<sup>†</sup>. Molecular-substructure Deep Autoencoders Cluster Biomolecules into Novel Band-Shaped Substructure-Distinguished Bioactivity Clusters in 3D Latent Space. *The Innovation Informatics*. 2026 May;2:100049.
+[[HTML]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2026.100049) [[Researchsquare]](https://www.researchsquare.com/article/rs-6755378/v1) [[Researchgate]](https://www.researchgate.net/publication/404892917_Molecular-substructure_Deep_Autoencoders_cluster_bioactive_molecules_into_novel_band-shaped_substructure-distinguished_bioactivity_clusters_in_3D_latent_space_GRAPHICAL_ABSTRACT_PUBLIC_SUMMARY_Molecul?_sg%5B0%5D=R7C1YWXy5JxIuqCpDbI0_htEdFd0f_9fRPM4oMVWpsBqXjLXQQTW__140JttnUqw2ZQVXPRL95o704XY5lPfAj5fZRObXFdzxatFhCTV.z8cE9Kv8Hi2NdyX8pg3aBoru_ahPFiJodhT8K-2umKnRS2H51y5lP8UlTIE3VZBNe37ih0Y5FCjnpCXNPtF92Q&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) [[PDF]](https://www.the-innovation.org/data/article/export-pdf?id=6a02670a7a1d3171e790371d)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[40] **Zhicheng Du**<sup>†</sup>. Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+ AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review. *American Journal of Obstetrics & Gynecology MFM*. 2026 May;8(5):101923.
+[[HTML]](https://www.ajogmfm.org/article/S2589-9333(26)00034-0/fulltext) [[PDF]](https://www.ajogmfm.org/action/showPdf?pii=S2589-9333%2826%2900034-0) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[39] **Zhicheng Du**<sup>†</sup>. Social Media Insights Are Not Competency Consensus. *Medical Teacher*. 2026 Apr 3;48(4):738-738.
+[[HTML]](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834) [[PDF]](https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[38] **Zhicheng Du**<sup>†</sup>. Letter to the Editor regarding "A Simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes". *American Journal of Obstetrics & Gynecology MFM*. 2026 Apr;8(4):101899.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S2589933326000108?via%3Dihub) [[PDF]](https://authors.elsevier.com/a/1mxzz9CuVNur-i) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[37] Lijin Lian, Ijaz Gul, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications. *Frontiers in Chemical Biology*. 2026;5:1749158.
+[[HTML]](https://www.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/abstract) [[PDF]](https://public-pages-files-2025.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/pdf) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[36] Zhaotian Xie<sup>\*</sup>, Xin He<sup>\*</sup>, Wentao Zhang<sup>\*</sup>, **Zhicheng Du**, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Unlocking Latent Titanium Active Centers through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon-Sulfur batteries. *Angewandte Chemie International Edition*. 2026:e4505904.
+[[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.4505904)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[35] **Zhicheng Du**<sup>†</sup>. Concerns About AI Feedback Validation in the 2-Sigma Platform. *Academic Medicine*. 2026 Feb 15:wvag040.
+[[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag040/8487138)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[34] **Zhicheng Du**<sup>†</sup>. Addressing Algorithmic Bias in AI-Driven Medical Education Assessment. *Academic Medicine*. 2026 Feb 15:wvag039.
+[[HTML]](https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag039/8487136)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[33] **Zhicheng Du**<sup>†</sup>. Growing Up in the Waiting Room. *Journal of Adolescent Health*. 2025 Dec 12.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S1054139X2500477X) [[PDF]](https://authors.elsevier.com/a/1mG0M_,2PPRz9Rz) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[32] **Zhicheng Du**<sup>†</sup>. Comment on: “From conventional scores to explainable AI: a six-method comparative framework for failure prediction in percutaneous nephrolithotomy”. *World Journal of Urology*. 2025 Nov 27;44(1):6.
+[[HTML]](https://link.springer.com/article/10.1007/s00345-025-06110-5) [[PDF]](https://rdcu.be/eR6ep) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[31] **Zhicheng Du**<sup>†</sup>. Scrolling Through the End of the World. *Journal of Adolescent Health*. 2025 Oct 31.
+[[HTML]](https://www.jahonline.org/article/S1054-139X(25)00453-7/fulltext) [[PDF]](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1m1OD,Nz%257ENZUJv/1/0102019a3c45a14d-9193dc12-10f6-4432-b7b1-71f08091195b-000000/B8429iW2Y_BIkUXizmSNUo9jcOY=450) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[30] Yu Zheng, Kezhi Wang<sup>†</sup>, **Zhicheng Du**, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup>. Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications. Authorea Preprints. 2025 Oct 14.
 [[TechRxiv]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176045642.21366704)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[10] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arxiv e-prints. 2025 Jul:arxiv-2507.
+[29] Likun Zhang<sup>\*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, **Zhicheng Du**, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Jiansong Ji<sup>†</sup>, Chenggang Yan<sup>†</sup>, Zhenglin Chen<sup>\*,†</sup>. A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and depression detection. *Exploration*, 2025 Oct (Vol. 5, No. 5, p. 20240232).
+[[HTML]](https://onlinelibrary.wiley.com/doi/10.1002/EXP.20240232) [[Researchsquare]](https://www.researchsquare.com/article/rs-3892812/v1) [[PDF]](/pdf/A 3.55-μm ultrathin, skin-like mechanoresponsive, compliant, and seamless ionic conductive electrode for epidermal electrophysiological signal acquisition and human-machine-interaction.pdf)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[28] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. arxiv preprint arxiv:2509.21365. 2025 Sep 22. 
+[[Arxiv]](https://arxiv.org/abs/2509.21365) [[Researchgate]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[27] **Zhicheng Du**, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin. Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025 Jul 10;31(13_Supplement):A049.
+[[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A049/763294/Abstract-A049-Development-of-a-tri-modal-contrast) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[26] **Zhicheng Du**, Lijin Lian, Wenji Xi, Yu Zheng, Gang Yu, Hui-Yan Luo, Peiwu Qin. Artificial intelligence enables the ethical reconstruction and social value realization of global cancer research: From technological innovation to humanistic care [abstract]. In: Proceedings of the AACR Special Conference in Cancer Research: Artificial Intelligence and Machine Learning; 2025 Jul 10-12; Montreal, QC, Canada. Philadelphia (PA): AACR; *Clinical Cancer Research* 2025 Jul 10;31(13_Supplement):B024.
+[[HTML]](https://aacrjournals.org/clincancerres/article/31/13_Supplement/B024/763318/Abstract-B024-Artificial-intelligence-enables-the) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[25] Yang Liu<sup>\*</sup>, Keming Zhao<sup>\*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, **Zhicheng Du**, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup>. Diagnosing Pathologic Myopia by Identifying Posterior Staphyloma and Myopic Maculopathy Using Ultra-Widefield Images with Deep Learning. *npj Digital Medicine*, 2025 Jul 13;8(1):435.
+[[HTML]](https://www.nature.com/articles/s41746-025-01849-y) [[Researchsquare]](https://www.researchsquare.com/article/rs-5421907/v1) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[24] Yingshan Liang, Keyu Fan, **Zhicheng Du**, Yiran Wang, Qingyang Shi, Xinyu Zhang, Jiasheng Lu, Peiwu Qin. Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning. arXiv preprint arXiv:2507.04959. 2025 Jul 7.
 [[Arxiv]](https://arxiv.org/abs/2507.04959) [[PDF]](https://arxiv.org/pdf/2507.04959) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[9] **Zhicheng Du**<sup>†</sup>. Rapid Response: Rethinking the Tools of Science: When "Subjective Judgments" Become the Invisible Enablers of Bias. *The BMJ*, 2025;388:e079839/rr-0.
-[[HTML]](https://www.bmj.com/content/388/bmj-2024-079839/rr-0) [[Researchgate]](https://www.researchgate.net/publication/391560814_Rapid_Response_Rethinking_the_Tools_of_Science_When_Subjective_Judgments_Become_the_Invisible_Enablers_of_Bias) [[PDF]](/pdf/Rethinking the Tools of Science When Subjective Judgments Become the Invisible Enablers of Bias.pdf)
+[23] Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, **Zhicheng Du**, Qingyang Shi, Shao-Lun Huang<sup>†</sup>. Content-Style Disentangled Audio Style Transfer via Diffusion Model. *IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)*. 2025 Jun 30 (pp. 1-6)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/11209789) [[Researchgate]](https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11209789)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[8] **Zhicheng Du**<sup>†</sup>. Rapid Response: After banning corporal punishment, what else do we need to do? *The BMJ*, 2025;388:r566/rr.
-[[HTML]](https://www.bmj.com/content/388/bmj.r566/rr) [[Researchgate]](https://www.researchgate.net/publication/391560469_Rapid_Response_After_banning_corporal_punishment_what_else_do_we_need_to_do) [[PDF]](/pdf/After banning corporal punishment, what else do we need to do.pdf)
+[22] **Zhicheng Du**<sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He. Address Arctic shipping crisis at COP30. *Science*, 2025 Jun 12;388(6752):1143-4.
+[[HTML]](https://www.science.org/doi/10.1126/science.adx4305) [[PDF]](https://www.science.org/stoken/author-tokens/ST-2691/full)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[7] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r529/rr.
-[[HTML]](https://www.bmj.com/content/388/bmj.r529/rr) [[Researchgate]](https://www.researchgate.net/publication/391560821_Rapid_Response_Prevention_and_control_of_medical_violence_ethical_dilemmas_and_systemic_blind_spots_beyond_technological_empowerment) [[PDF]](/pdf/Prevention and control of medical violence ethical dilemmas and systemic blind spots beyond technological empowerment.pdf)
+[21] Qingyang Shi<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup>. AudioCache: Accelerate Audio Generation With Training-Free Layer Caching. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*. 2025 Apr 6 (pp. 1-5).
+[[HTML]](https://ieeexplore.ieee.org/document/10889043) [[Researchgate]](https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[6] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r476/rr-1.
-[[HTML]](https://www.bmj.com/content/388/bmj.r476/rr-1) [[Researchgate]](https://www.researchgate.net/publication/391552976_Rapid_Response_When_scientific_blood_transfusion_meets_policy_Blood_loss_the_neglected_ecological_chain_of_research) [[PDF]](/pdf/When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research.pdf)
+[20] Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, **Zhicheng Du**, Qingyang Shi, Peiwu Qin<sup>†</sup>. TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training. *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)*. 2025 Apr 6 (pp. 1-5).
+[[HTML]](https://ieeexplore.ieee.org/document/10889172) [[Researchgate]](https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[5] **Zhicheng Du**, Yang Liu, Likun Zhang, Shiyao Zhai, Zhengyang Lei, Yongjie Zhou, Dongmei Yu, Chenggang Yan, Xi Yuan, Zhenglin Chen<sup>†</sup>, Jiansong Ji<sup>†</sup>, Peiwu Qin<sup>†</sup>. Interactive robot with multimodal multitask model for early screening of multiple common adolescent mental disorders, 24 March 2025, PREPRINT (Version 1) available at Research Square.
-[[Researchsquare]](https://www.researchsquare.com/article/rs-5731226/v1) [[PDF]](/pdf/Interactive robot.pdf)
+[19] **Zhicheng Du**, Yang Liu, Likun Zhang, Shiyao Zhai, Zhengyang Lei, Yongjie Zhou, Dongmei Yu, Chenggang Yan, Xi Yuan, Zhenglin Chen<sup>†</sup>, Jiansong Ji<sup>†</sup>, Peiwu Qin<sup>†</sup>. Interactive robot with multimodal multitask model for early screening of multiple common adolescent mental disorders, 24 March 2025, PREPRINT (Version 1) available at Research Square.
+[[Researchsquare]](https://www.researchsquare.com/article/rs-5731226/v1) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[4] **Zhicheng Du**. Application and ethical challenges of large language model and agent technology in biomedicine. Course Report on Bioethics and Scientific Ethics. 2025. 
-[[Researchgate]](https://www.researchgate.net/publication/390121198_Application_and_ethical_challenges_of_large_language_model_and_agent_technology_in_biomedicine) 
+[18] **Zhicheng Du**<sup>†</sup>. Rapid Response: Rethinking the Tools of Science: When "Subjective Judgments" Become the Invisible Enablers of Bias. *The BMJ*, 2025;388:e079839/rr-0.
+[[HTML]](https://www.bmj.com/content/388/bmj-2024-079839/rr-0) [[Researchgate]](https://www.researchgate.net/publication/391560814_Rapid_Response_Rethinking_the_Tools_of_Science_When_Subjective_Judgments_Become_the_Invisible_Enablers_of_Bias) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[3] **Zhicheng Du**<sup>\*</sup><sup>†</sup>, Qingyang Shi<sup>\*</sup>, Jiasheng Lu, Yingshan Liang, Yiran Wang, Xinyu Zhang, Peiwu Qin<sup>†</sup>. MAJORScore: A Novel Metric for Evaluating Multimodal Relevance via Joint Representation. arxiv preprint arxiv:2509.21365. 2025 Sep 22. 
-[[Arxiv]](https://arxiv.org/abs/2509.21365) [[Researchgate]](https://www.researchgate.net/publication/387222277_MAJORScore_A_Novel_Metric_for_Evaluating_Multimodal_Relevance_via_Joint_Representation) [[PDF]](/pdf/MAJORScore A Novel Metric for Evaluating Multimodal Relevance via Joint Representation.pdf)
+[17] **Zhicheng Du**<sup>†</sup>. Rapid Response: After banning corporal punishment, what else do we need to do? *The BMJ*, 2025;388:r566/rr.
+[[HTML]](https://www.bmj.com/content/388/bmj.r566/rr) [[Researchgate]](https://www.researchgate.net/publication/391560469_Rapid_Response_After_banning_corporal_punishment_what_else_do_we_need_to_do) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[2] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arxiv preprint arxiv:2310.11464. 2023 Oct 13. 
-[[Arxiv]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf) 
+[16] **Zhicheng Du**<sup>†</sup>, Changyue Liu. Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment. *The BMJ*, 2025;388:r529/rr.
+[[HTML]](https://www.bmj.com/content/388/bmj.r529/rr) [[Researchgate]](https://www.researchgate.net/publication/391560821_Rapid_Response_Prevention_and_control_of_medical_violence_ethical_dilemmas_and_systemic_blind_spots_beyond_technological_empowerment)
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arxiv preprint arxiv:2309.10077. 2023 Sep 18.
-[[Arxiv]](https://arxiv.org/abs/2309.10077)  [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf) 
+[15] **Zhicheng Du**<sup>†</sup>. Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research. *The BMJ*, 2025;388:r476/rr-1.
+[[HTML]](https://www.bmj.com/content/388/bmj.r476/rr-1) [[Researchgate]](https://www.researchgate.net/publication/391552976_Rapid_Response_When_scientific_blood_transfusion_meets_policy_Blood_loss_the_neglected_ecological_chain_of_research) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[14] **Zhicheng Du**<sup>†</sup>, Hui-Yan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin. Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study. *The Lancet Regional Health–Western Pacific*, 2025 Feb 1;55.
+[[HTML]](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00453-X/fulltext)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[13] Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, **Zhicheng Du**, Hongkai Yang, Xinming Zhang, Yanbing He, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup>. Crossing the capacity threshold in Si-S batteries through mud-crack electrodes. *Energy Storage Materials*. 2025 Feb 1;75:104046.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S2405829725000479)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[12] Zhenglin Chen<sup>\*</sup>, Jiaqi Yang<sup>\*</sup>, **Zhicheng Du**<sup>\*</sup>, Jiansong Ji<sup>\*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup>. A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics. *Chemical Engineering Journal*. 2024 Jul 15;492:152465.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S1385894724039524) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[11] Changyue Liu<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Lijin Lian, Likun Zhang, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning. *Journal of Visualized Experiments: Jove*, 2024 May 10(207):e64833.
+[[HTML]](https://www.jove.com/t/64833/dna-virus-detection-system-based-on-rpa-crisprcas12a-spm-deep)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[10] **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup>. LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification. *The Twelfth International Conference on Learning Representations (ICLR 2024)*. 2024 Mar 23.
+[[HTML]](https://openreview.net/forum?id=eUQiESSvmF) [[Arxiv]](https://arxiv.org/abs/2403.15875) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[9] **Zhicheng Du**<sup>†</sup>, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup>. Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content. *The Twelfth International Conference on Learning Representations (ICLR 2024)*. 2024 Mar 23.
+[[HTML]](https://openreview.net/forum?id=RQ0wmIBcTB) [[Arxiv]](https://arxiv.org/abs/2403.15876) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[8] Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023 Dec 1;167:107672.
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S001048252301137X) [[Arxiv]](https://arxiv.org/abs/2308.16552)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[7] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arxiv preprint arxiv:2310.11464. 2023 Oct 13. 
+[[Arxiv]](https://arxiv.org/abs/2310.11464) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[6] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arxiv preprint arxiv:2309.10077. 2023 Sep 18.
+[[Arxiv]](https://arxiv.org/abs/2309.10077)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2023 Aug 25;8(36):32555-64.
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[4] Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022 Nov 7;12(11):984.
+[[HTML]](https://www.mdpi.com/2079-6374/12/11/984) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022 Nov 2;3:1015223.
+[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[2] Ijaz Gul, Changyue Liu, Xi Yuan, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>†</sup>, Can Yang Zhang<sup>†</sup>, Peiwu Qin<sup>†</sup>. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022 Oct 18;9(10):571.
+[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[Arxiv]](https://arxiv.org/abs/2208.05228)
+</div>
+
+<div class='paper-box-text' markdown="1">
+[1] Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179)
 </div>
 
 ### Patent
