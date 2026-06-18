@@ -37,6 +37,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
 <div class='paper-box-text' markdown="1">
+[45] Ziheng Zhang, Defeng Cai, Zhuo Deng, **Zhicheng Du**, Fuxing Zhang<sup>†</sup>, Lan Ma<sup>†</sup>. A Hybrid Ensemble System for Time-Series Anomaly Detection in Automated Quality Control of Medical Equipment. Diagnostics. 2026.
+[[HTML]]() 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [44] **Zhicheng Du**, Lan Ma<sup>†</sup>. Continuous Language Diffusion as a Decoder-Interface Problem. arXiv preprint arXiv:2606.08810. 2026 Jun 7.
 [[Arxiv]](https://arxiv.org/abs/2606.08810) [[PDF]](https://arxiv.org/pdf/2606.08810) 
 </div>
@@ -370,7 +375,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - [Prof. Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/): "So I think the study techniques depend very much on who you are. And I've noticed among scientists there's huge differences. So I don't like reading. I start reading something, and after I've read kind of one paragraph, I get distracted because it makes me think of something. I'm very bad at reading scientific papers. I will read important papers in the end if I have to. I love talking to people. So I've got a friend called Terry Sejnowski who loves reading. He reads all the literature in neuroscience. And if I want to know something in neuroscience, I don't actually go and read a paper. I call up Terry and he explains things to me. And that's much more fun. I guess in some ways I was fortunate to get the advisor for my PhD, who had the same kind of characteristic. And so he gave me advice early on. Don't read the literature. Reading rots the mind. First solve the problem yourself, and then look in the literature to see if your solution is novel. Now this is the exact opposite advice to what you'll get from almost all people. They'll say you should read the literature. You should carefully before you start on solving puzzles yourself, you should read the literature. I think both views are correct, because it depends on who you are. Some people like reading a lot and acquiring lots of knowledge. Other people are puzzle solvers like me, and they don't like reading lots of stuff. They like a puzzle to solve. So I think there's huge variation in how you should study." <br>Quote from <Meet a Nobel laureate: A conversation with University Professor Emeritus Geoffrey Hinton> [[Youtube]](https://www.youtube.com/watch?v=vpUXI9wmKLc) [[Bilibili]](https://www.bilibili.com/video/BV1RnLHzGE9R/?spm_id_from=333.337.search-card.all.click&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
 
 # 🗃️ Useful Resources
-- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) (As a contributor): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
+- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) (As a contributor and organizer): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
 - [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
