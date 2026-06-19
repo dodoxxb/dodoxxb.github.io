@@ -37,6 +37,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
 <div class='paper-box-text' markdown="1">
+[46] Zhuo Deng<sup>\*</sup>, Ruiheng Zhang<sup>\*</sup>, Ziheng Zhang, Weihao Gao, Yitong Li, Qian Wang, Lei Shao, Jiaoyue Dong, Zhixi Zeng, Lijian Fang, Haibo Wang, Xiaobin Lin, Tao Liu, **Zhicheng Du**, Zhengwei Zhang, Lin Yang, Zheng Gong, Xinyu Zhao, Zhenquan Wu, Fang Li, Zhiguang Zhou, Guoming Zhang, Sun Jing, Han Lv, Wenbin We<sup>†</sup>, Lan Ma<sup>†</sup>. EyeMVP: OCT-Informed Fundus Representation Learning via Paired CFP–OCT Pretraining. arXiv preprint arXiv:2606.15129. 2026 Jun 13.
+[[Arxiv]](https://arxiv.org/abs/2606.15129) [[PDF]](https://arxiv.org/pdf/2606.15129) 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [45] Ziheng Zhang, Defeng Cai, Zhuo Deng, **Zhicheng Du**, Fuxing Zhang<sup>†</sup>, Lan Ma<sup>†</sup>. A Hybrid Ensemble System for Time-Series Anomaly Detection in Automated Quality Control of Medical Equipment. Diagnostics. 2026.
 [[HTML]]() 
 </div>
