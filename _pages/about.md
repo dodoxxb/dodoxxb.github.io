@@ -42,7 +42,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[45] Ziheng Zhang, Defeng Cai, Zhuo Deng, **Zhicheng Du**, Fuxing Zhang<sup>†</sup>, Lan Ma<sup>†</sup>. A Hybrid Ensemble System for Time-Series Anomaly Detection in Automated Quality Control of Medical Equipment. Diagnostics. 2026.
+[45] Ziheng Zhang<sup>\*</sup>, Defeng Cai<sup>\*</sup>, Zhuo Deng, **Zhicheng Du**, Fuxing Zhang<sup>†</sup>, Lan Ma<sup>†</sup>. A Hybrid Ensemble System for Time-Series Anomaly Detection in Automated Quality Control of Medical Equipment. Diagnostics. 2026.
 [[HTML]](https://www.mdpi.com/2075-4418/16/13/1953) 
 </div>
 
