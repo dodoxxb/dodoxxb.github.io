@@ -340,6 +340,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **DARU Journal of Pharmaceutical Sciences ([DARU J. Pharm. Sci.](https://link.springer.com/journal/40199))**
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Discover Oncology ([Discov. Oncol.](https://link.springer.com/journal/12672))**
+- **Frontiers in Artificial Intelligence ([Front. Artif. Intell.](https://www.frontiersin.org/journals/artificial-intelligence))**
 - **Frontiers in Cell and Developmental Biology ([Front. cell dev. biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
