@@ -341,6 +341,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Discover Oncology ([Discov. Oncol.](https://link.springer.com/journal/12672))**
 - **Frontiers in Artificial Intelligence ([Front. Artif. Intell.](https://www.frontiersin.org/journals/artificial-intelligence))**
+- **Frontiers in Bioengineering and Biotechnology ([Front. bioeng. biotechnol.](https://www.frontiersin.org/journals/bioengineering-and-biotechnology))**
 - **Frontiers in Cell and Developmental Biology ([Front. cell dev. biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
