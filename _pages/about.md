@@ -341,8 +341,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Discover Artificial Intelligence ([Discov. Artif. Intell.](https://link.springer.com/journal/44163))**
 - **Discover Oncology ([Discov. Oncol.](https://link.springer.com/journal/12672))**
 - **Frontiers in Artificial Intelligence ([Front. Artif. Intell.](https://www.frontiersin.org/journals/artificial-intelligence))**
-- **Frontiers in Bioengineering and Biotechnology ([Front. bioeng. biotechnol.](https://www.frontiersin.org/journals/bioengineering-and-biotechnology))**
-- **Frontiers in Cell and Developmental Biology ([Front. cell dev. biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
+- **Frontiers in Bioengineering and Biotechnology ([Front. Bioeng. Biotechnol.](https://www.frontiersin.org/journals/bioengineering-and-biotechnology))**
+- **Frontiers in Cell and Developmental Biology ([Front. Cell Dev. Biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
+- **Frontiers in Genome Editing ([Front. Genome Ed.](https://www.frontiersin.org/journals/genome-editing))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
 - **Frontiers in Public Health ([Front. Public Health.](https://www.frontiersin.org/journals/public-health))**
@@ -358,6 +359,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **World Journal of Surgical Oncology ([World J. Surg. Oncol.](https://link.springer.com/journal/12957))**
   
 ## Conference Reviewer
+- **AAAI Conference on Artificial Intelligence (AAAI)** [<2027>](https://aaai.org/conference/aaai/aaai-27/)
 - **ACM Multimedia (MM)** [<2024>](https://2024.acmmm.org/)
 - **British Machine Vision Conference (BMVC)** [<2025>](https://bmvc2025.bmva.org/)
 - **Conference on Parsimony and Learning (CPAL)** [<2026>](https://cpal.cc/)
@@ -368,10 +370,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **IEEE International Conference on Image Processing (ICIP)** [<2026>](https://2026.ieeeicip.org/)
 - **IEEE International Conference on Multimedia & Expo (ICME)** [<2025>](https://2025.ieeeicme.org/), [<2026>](https://2026.ieeeicme.org/)
 - **IEEE International Joint Conference on Neural Networks (IJCNN)** [<2025>](https://2025.ijcnn.org/), [<2026>](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/), [<2027>](https://ijcnn.org/2027)
+- **International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/), [<2026>](https://mmm2026.cz/), [<2027>](https://mmm2027.net/)
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/), [<2026>](https://2026.ijcai.org/)
 - **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/index_2025.html) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025), [<2026>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2026)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024), [<2025>](https://neurips.cc/Conferences/2025)
-- **Springer International Conference on Multimedia Modelling (MMM)** [<2025>](https://mmm2025.net/), [<2026>](https://mmm2026.cz/)
+- **Pacific Rim International Conference on Artificial Intelligence (PRICAI)** [<2026>](https://2026.pricai.org/)
   
 # 🔔 Brilliant Insight
 - Jensen Huang: "Most of the Stanford graduates have very high expectations, and you deserve to have high expectations because you came from a great school. You were very successful. You're top of your class. Obviously, you were able to pay for tuition. Then you're graduating from one of the finest institutions on the planet. You're surrounded by other kids that are just incredible. You naturally have very high expectations. People with very high expectations have very low resilience. And unfortunately, resilience matters in success. You want greatness out of them. And greatness is not intelligence, as you know. Greartness comes from character. And character isn't formed out of smart people. It's formed out of people who suffered. I wish upon you ample doses of pain and suffering." <br>Quote from <Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit> [[Youtube]](https://www.youtube.com/watch?v=cEg8cOx7UZk) [[Bilibili]](https://www.bilibili.com/video/BV1Fm411f7n3/?spm_id_from=333.788&vd_source=caf200bb31b3a75aa7cfeb24203d1a53)
