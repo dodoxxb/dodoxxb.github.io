@@ -374,6 +374,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **International Joint Conferences on Artificial Intelligence (IJCAI)** [<2025>](https://2025.ijcai.org/), [<2026>](https://2026.ijcai.org/)
 - **Multimodal Learning and Applications Workshop (MULA)** [<2025>](https://mula-workshop.github.io/index_2025.html) @ [CVPR](https://cvpr.thecvf.com/Conferences/2025), [<2026>](https://mula-workshop.github.io/) @ [CVPR](https://cvpr.thecvf.com/Conferences/2026)
 - **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024), [<2025>](https://neurips.cc/Conferences/2025)
+- **On-Device Intelligence: Foundation Models under Real-World Constraints (ODI)** [<2026>](https://odi2026.github.io/#about) @ [NeurIPS](https://neurips.cc/Conferences/2026)
 - **Pacific Rim International Conference on Artificial Intelligence (PRICAI)** [<2026>](https://2026.pricai.org/)
   
 # 🔔 Brilliant Insight
