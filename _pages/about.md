@@ -52,7 +52,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 </div>
 
 <div class='paper-box-text' markdown="1">
-[43] **Zhicheng Du**, Changyue Liu, Wenji Xi, Zhaotian Xie, Zhuo Deng, Ziheng Zhang, Yang Liu, Lan Ma<sup>†</sup>. Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments. arxiv preprint arXiv:2605.29004. 2026 May 27. 
+[43] **Zhicheng Du**, Changyue Liu, Wenji Xi, Zhaotian Xie, Zhuo Deng, Ziheng Zhang, Yang Liu, Lan Ma<sup>†</sup>. Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments. *The Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2026* 2026. 
 [[Arxiv]](https://arxiv.org/abs/2605.29004) [[PDF]](https://arxiv.org/pdf/2605.29004) 
 </div>
 
@@ -343,7 +343,9 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Frontiers in Artificial Intelligence ([Front. Artif. Intell.](https://www.frontiersin.org/journals/artificial-intelligence))**
 - **Frontiers in Bioengineering and Biotechnology ([Front. Bioeng. Biotechnol.](https://www.frontiersin.org/journals/bioengineering-and-biotechnology))**
 - **Frontiers in Cell and Developmental Biology ([Front. Cell Dev. Biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
+- **Frontiers in Dental Medicine ([Front. Dent. Med.](https://www.frontiersin.org/journals/dental-medicine))**
 - **Frontiers in Genome Editing ([Front. Genome Ed.](https://www.frontiersin.org/journals/genome-editing))**
+- **Frontiers in Medicine ([Front. Med.](https://www.frontiersin.org/journals/medicine))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
 - **Frontiers in Psychiatry ([Front. Psychiatry](https://www.frontiersin.org/journals/psychiatry))**
 - **Frontiers in Public Health ([Front. Public Health.](https://www.frontiersin.org/journals/public-health))**
