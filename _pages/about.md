@@ -37,6 +37,11 @@ His research aims to construct efficient AI models and apply them to biomedical 
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
 <div class='paper-box-text' markdown="1">
+[47] Yang Liu<sup>\*</sup>, Yibing Shen<sup>\*</sup>, Keming Zhao, Cenk Jiang, Zhenghang Qian, **Zhicheng Du**, Chen Xiong, Qidong Shao, Zijun Lin, Yunqi Hu, Jingjing Zhou, Lian Zhang, Peter E Lobie, Peiwu Qin<sup>†</sup>, Chengming Yang<sup>†</sup>. An Ultra-Widefield Swept-Source OCTA Dataset and a Polar-Gated Mamba Network for Retinal Vessel Segmentation. arXiv preprint arXiv:2609.12574. 2026 Sep 11.
+[[Arxiv]](https://arxiv.org/abs/2609.12574) [[PDF]](https://arxiv.org/pdf/2609.12574) 
+</div>
+
+<div class='paper-box-text' markdown="1">
 [46] Zhuo Deng<sup>\*</sup>, Ruiheng Zhang<sup>\*</sup>, Ziheng Zhang, Weihao Gao, Yitong Li, Qian Wang, Lei Shao, Jiaoyue Dong, Zhixi Zeng, Lijian Fang, Haibo Wang, Xiaobin Lin, Tao Liu, **Zhicheng Du**, Zhengwei Zhang, Lin Yang, Zheng Gong, Xinyu Zhao, Zhenquan Wu, Fang Li, Zhiguang Zhou, Guoming Zhang, Sun Jing, Han Lv, Wenbin We<sup>†</sup>, Lan Ma<sup>†</sup>. EyeMVP: OCT-Informed Fundus Representation Learning via Paired CFP–OCT Pretraining. arXiv preprint arXiv:2606.15129. 2026 Jun 13.
 [[Arxiv]](https://arxiv.org/abs/2606.15129) [[PDF]](https://arxiv.org/pdf/2606.15129) 
 </div>
@@ -345,6 +350,7 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - **Frontiers in Bioengineering and Biotechnology ([Front. Bioeng. Biotechnol.](https://www.frontiersin.org/journals/bioengineering-and-biotechnology))**
 - **Frontiers in Cell and Developmental Biology ([Front. Cell Dev. Biol.](https://www.frontiersin.org/journals/cell-and-developmental-biology))**
 - **Frontiers in Dental Medicine ([Front. Dent. Med.](https://www.frontiersin.org/journals/dental-medicine))**
+- **Frontiers in Digital Health ([Front. Digit. Health](https://www.frontiersin.org/journals/digital-health))**
 - **Frontiers in Genome Editing ([Front. Genome Ed.](https://www.frontiersin.org/journals/genome-editing))**
 - **Frontiers in Medicine ([Front. Med.](https://www.frontiersin.org/journals/medicine))**
 - **Frontiers in Oncology ([Front. Oncol.](https://www.frontiersin.org/journals/oncology))**
