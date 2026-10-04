@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Zhicheng is a 5th-year PhD candidate in the Integrated Master's-Ph.D. Program at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University (THU)](https://www.tsinghua.edu.cn/), advised by [Prof. Lan Ma](https://scholar.google.com/citations?user=7lIo0CAAAAAJ&hl=en), [Prof. Hui-Yan Luo](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en) and [Prof. Peiwu Qin](https://scholar.google.com/citations?user=yD3IOXkAAAAJ). Previously, he obtained his B.Eng. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University(XMU)](https://www.xmu.edu.cn/), mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ). 
+I am a Ph.D. candidate in the integrated master's–Ph.D. program at the [Institute of Biopharmaceutical and Health Engineering (iBHE)](https://ibhe.sigs.tsinghua.edu.cn/), [Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn/). I am currently advised by [Prof. Lan Ma](https://scholar.google.com/citations?user=7lIo0CAAAAAJ) and was previously supervised by [Prof. Peiwu Qin](https://scholar.google.com/citations?user=Ga0BCeQAAAAJ). I have also worked closely with [Prof. Hui-Yan Luo](https://scholar.google.com/citations?user=Gibl29EAAAAJ&hl=en) at [Sun Yat-sen University Cancer Center](https://www.sysucc.org.cn/). Previously, I received my B.Eng. from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), where I was mentored by [Prof. Zhirong Shen](https://scholar.google.com/citations?hl=zh-CN&user=WoTRPFcAAAAJ) and [Prof. Xiongbiao Luo](https://scholar.google.com/citations?user=36Jh43gAAAAJ).
 
-He used to intern at 2012 Labs of Huawei Technologies Co., Ltd and Digitalization Department of CRRC Nanjing Puzhen Co., Ltd.
+My research focuses on developing efficient, reliable, and generalizable AI methods for applications in science and engineering. My methodological interests span representation learning, generative modeling, and inference across computer vision, natural language processing, and multimodal learning, combining mathematical analysis with empirical investigation. Biomedical AI, particularly oncology, is a major application focus, while my interdisciplinary collaborations also span mental health, materials science, and communications. My doctoral research centers on multimodal AI for uveal melanoma diagnosis and clinical characterization. I draw on problems from these domains to motivate algorithmic innovation and evaluate the practical value of new methods. I also explore AI systems and infrastructure for inference acceleration, efficient computation, and reproducible deployment, connecting methodological advances with practical implementation.
 
-His research aims to construct efficient AI models and apply them to biomedical domains and the interesting ideas. Explorations include deep learning, multimodal learning and AI for science. 
+Through university–industry research collaborations, I currently work as a Research Intern with Shenshui Yunke Digital Technology, a company incubated by Infore Group, and Siteshun Technology. I previously interned at the Central Media Technology Institute of Huawei’s 2012 Labs and the Digitalization Department of CRRC Nanjing Puzhen Co., Ltd.
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate, Institute of Biopharmaceutical and Health Engineering(iBHE), Shenzhen International Graduate School(SIGS), Tsinghua University(THU), Shenzhen, China.
@@ -31,11 +31,26 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
 # 🔥 News
-- I will be completing my PhD next year and I am currently looking for faculty, postdoc positions, or other full-time opportunities in research labs. Please feel free to contact me if I might be a good fit for your team.
-- Looking for researchers with different disciplinary backgrounds to collaborate. Please feel free to reach out if you are interested.
+- I expect to complete my Ph.D. next year and am seeking faculty, postdoctoral, and full-time research opportunities in academia and industry. Please feel free to get in touch if you see a potential fit with your team.
+- I welcome collaborations with researchers from diverse disciplinary backgrounds, particularly on AI methods and their applications in science and engineering. Please reach out if you would like to discuss a potential collaboration.
 
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
+<div class='paper-box-text' markdown="1">
+[50] **Zhicheng Du**, Zhuo Deng, Lan Ma<sup>†</sup>. OphJev: endpoint-aware System One decisions for ophthalmic imaging and clinical text. 2026 Oct 04.
+[[Medrxiv]]() [[PDF]](/pdf/ophjev_medrxiv_v1.pdf) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[49] Zheng Chen, **Zhicheng Du**, Haoxuan Li, Peiwu Qin<sup>†</sup>. Syndrome, Synergy, and Safety: Structured Reasoning and Knowledge-Driven Alignment for TCM Prescription Generation. arXiv preprint arXiv:2609.25755. 2026 Sep 22.
+[[Arxiv]](https://arxiv.org/abs/2609.25755) [[PDF]](https://arxiv.org/pdf/2609.25755) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+[48] Zheng Chen, **Zhicheng Du**, Haoxuan Li, Yingshan Liang, Peiwu Qin<sup>†</sup>. LingLan: An Advancing Traditional Chinese Medicine Diagnosis LLM with Multimodal Data. arXiv preprint arXiv:2609.25715. 2026 Sep 22.
+[[Arxiv]](https://arxiv.org/abs/2609.25715) [[PDF]](https://arxiv.org/pdf/2609.25715) 
+</div>
+
 <div class='paper-box-text' markdown="1">
 [47] Yang Liu<sup>\*</sup>, Yibing Shen<sup>\*</sup>, Keming Zhao, Cenk Jiang, Zhenghang Qian, **Zhicheng Du**, Chen Xiong, Qidong Shao, Zijun Lin, Yunqi Hu, Jingjing Zhou, Lian Zhang, Peter E Lobie, Peiwu Qin<sup>†</sup>, Chengming Yang<sup>†</sup>. An Ultra-Widefield Swept-Source OCTA Dataset and a Polar-Gated Mamba Network for Retinal Vessel Segmentation. arXiv preprint arXiv:2609.12574. 2026 Sep 11.
 [[Arxiv]](https://arxiv.org/abs/2609.12574) [[PDF]](https://arxiv.org/pdf/2609.12574) 
@@ -233,61 +248,65 @@ His research aims to construct efficient AI models and apply them to biomedical 
 
 <div class='paper-box-text' markdown="1">
 [8] Yang Liu, Xiaoyun Zhong, Shiyao Zhai, **Zhicheng Du**, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup>. Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation. *Computers in Biology and Medicine*. 2023 Dec 1;167:107672.
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S001048252301137X) [[Arxiv]](https://arxiv.org/abs/2308.16552)
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S001048252301137X) [[Arxiv]](https://arxiv.org/abs/2308.16552) [[PDF]](/pdf/Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation.pdf)  
 </div>
 
 <div class='paper-box-text' markdown="1">
 [7] Shuyue Ma, Qihui Ye, Chufan Xiao, Haifei Guan, **Zhicheng Du**, Peiwu Qin<sup>†</sup>. Alzheimer Disease is Associated with Isotropic Ocular Enlargement. arXiv preprint arxiv preprint arxiv:2310.11464. 2023 Oct 13. 
-[[Arxiv]](https://arxiv.org/abs/2310.11464) 
+[[Arxiv]](https://arxiv.org/abs/2310.11464) [[PDF]](/pdf/Alzheimer’s Disease is Associated with Isotropic Ocular Enlargement.pdf)  
 </div>
 
 <div class='paper-box-text' markdown="1">
 [6] **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Shiyao Zhai, Zhengyang Lei, Shuyue Ma, Yang Liu, Qihui Ye, Chufan Xiao, Qiming Huang, Ming Xu, Dongmei Yu, Peiwu Qin<sup>†</sup>. GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. arxiv preprint arxiv:2309.10077. 2023 Sep 18.
-[[Arxiv]](https://arxiv.org/abs/2309.10077)
+[[Arxiv]](https://arxiv.org/abs/2309.10077) [[PDF]](/pdf/GAME Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders.pdf)  
 </div>
 
 <div class='paper-box-text' markdown="1">
 [5] Zhengyang Lei<sup>\*</sup>, Lijin Lian<sup>\*</sup>, Likun Zhang<sup>\*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, **Zhicheng Du**, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning. *ACS omega*. 2023 Aug 25;8(36):32555-64.
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract) 
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929) [[Biorxiv]](https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract) [[PDF]](/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf)  
 </div>
 
 <div class='paper-box-text' markdown="1">
 [4] Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, **Zhicheng Du**, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Angiotensin-converting enzyme 2-based biosensing modalities and devices for coronavirus detection. *Biosensors*. 2022 Nov 7;12(11):984.
-[[HTML]](https://www.mdpi.com/2079-6374/12/11/984) 
-</div>
+[[HTML]](https://www.mdpi.com/2079-6374/12/11/984) [[PDF]](/pdf/Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection.pdf)  
+</div> 
 
 <div class='paper-box-text' markdown="1">
 [3] Likun Zhang<sup>\*</sup>, Zhengyang Lei<sup>\*</sup>, Chufan Xiao<sup>\*</sup>, **Zhicheng Du**, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup>. Ai-boosted crispr-cas13a and total internal reflection fluorescence microscopy system for sars-cov-2 detection. *Frontiers in Sensors*. 2022 Nov 2;3:1015223.
-[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full)
+[[HTML]](https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full) [[PDF]](/pdf/AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
 [2] Ijaz Gul, Changyue Liu, Xi Yuan, **Zhicheng Du**, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>†</sup>, Can Yang Zhang<sup>†</sup>, Peiwu Qin<sup>†</sup>. Current and perspective sensing methods for monkeypox virus. *Bioengineering*. 2022 Oct 18;9(10):571.
-[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[Arxiv]](https://arxiv.org/abs/2208.05228)
+[[HTML]](https://www.mdpi.com/2306-5354/9/10/571) [[Arxiv]](https://arxiv.org/abs/2208.05228) [[PDF]](/pdf/Current and Perspective Sensing Methods for Monkeypox Virus.pdf) 
 </div>
 
 <div class='paper-box-text' markdown="1">
 [1] Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, **Zhicheng Du**, Chenyao Jiang, Chengming Yang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>. Therapeutic effect of ketogenic diet treatment on type 2 diabetes. *Journal of Future Foods*. 2022 Jun 1;2(2):177-83. 
-[[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179)
+[[HTML]](https://www.sciencedirect.com/science/article/pii/S2772566922000179) [[PDF]](/pdf/Therapeutic effect of ketogenic diet treatment on type 2 diabetes.pdf) 
 </div>
 
 ### Patent
 <div class='paper-box-text' markdown="1">
-[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. [Application number: CN118787353A] 
+[4] Jiasheng Lu, Qingyang Shi, Yingshan Liang, **Zhicheng Du**, Xinyu Zhang, Yiran Wang. The generation methods, devices, equipment, storage media and program products for media content. [Publication Nos.: CN122073634A, WO2026108088A1]
 </div>
 
 <div class='paper-box-text' markdown="1">
-[2] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. Preparation method of gel electrode, gel electrode and detection device. [Application number: CN118667050A] 
+[3] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. A depression detection device based on EEG signal analysis. [Publication No.: CN118787353A]
 </div>
 
 <div class='paper-box-text' markdown="1">
-[1] Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Application number: CN114237970A, Patent number: CN114237970B] 
+[2] Peiwu Qin, Likun Zhang, Zhenglin Chen, Huazhang Ying, **Zhicheng Du**, Lijin Lian. Preparation method of gel electrode, gel electrode and detection device. [Publication No.: CN118667050A]
+</div>
+
+<div class='paper-box-text' markdown="1">
+[1] Zhirong Shen, **Zhicheng Du**, Ruibin Fan, Kaixiang Zhang, Huizhong Li, Chengbo Li. A method and device for scaling erasure code storage system. [Publication Nos.: CN114237970A, WO2023098048A1; Grant Publication No.: CN114237970B]
 </div>
 
 ### Talk
 <div class='paper-box-text' markdown="1">
-[3] Lightning talks from young investigators: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. *Nature Conferences: Advancing Health with AI*. 2024-04.
-[[HTML]](https://conferences.nature.com/past-events/index.html)
+[3] Lightning talks from young investigators: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders. *Nature Conferences: Advancing Health with AI*. 2024-04. 
+[[HTML]](https://conferences.nature.com/past-events/index.html) [[PHOTO]](https://mp.weixin.qq.com/s/3s5S70aHkvxytXyJzK66qA)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -398,7 +417,8 @@ His research aims to construct efficient AI models and apply them to biomedical 
 - Max Delbrück: "One should be sloppy enough so that the unexpected may happen, but not so sloppy that you can't tell what it was."
 
 # 🗃️ Useful Resources
-- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) (As a contributor and organizer): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
+- [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) (As a contributor): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
+- [Journal-CFP-Deadlines](https://dodoxxb.github.io/journal-cfp-ddl/) (As a contributor): Bilingual (EN/ZH) web app for tracking academic journal Call for Papers deadlines
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
 - [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
