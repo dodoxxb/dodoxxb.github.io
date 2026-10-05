@@ -37,7 +37,7 @@ Through university–industry research collaborations, I currently work as a Res
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
 <div class='paper-box-text' markdown="1">
-[50] **Zhicheng Du**, Zhuo Deng, Lan Ma<sup>†</sup>. OphJev: endpoint-aware System One decisions for ophthalmic imaging and clinical text. 2026 Oct 04.
+[50] **Zhicheng Du**, Zhuo Deng, Lan Ma<sup>†</sup>. OphJev: endpoint-aware System One decisions for ophthalmic imaging and clinical text. Medrxiv. 2026 Oct 04.
 [[Medrxiv]]() [[PDF]](/pdf/ophjev_medrxiv_v1.pdf) 
 </div>
 
@@ -355,6 +355,7 @@ Through university–industry research collaborations, I currently work as a Res
 # 📃 Academic Services
 ## Journal Reviewer
 - **ACM Transactions on Computing for Healthcare ([HEALTH](https://dl.acm.org/journal/health))**
+- **Advances in Radiation Oncology ([Adv. Radiat. Oncol.](https://www.sciencedirect.com/journal/advances-in-radiation-oncology))**
 - **Archives of Computational Methods in Engineering ([Arch. Comput. Methods Eng.](https://link.springer.com/journal/11831))**
 - **BMC Cancer ([BMC CANCER](https://link.springer.com/journal/12885))**
 - **BMC Digital Health ([BMC Digit. Health](https://link.springer.com/journal/44247))**
@@ -418,7 +419,7 @@ Through university–industry research collaborations, I currently work as a Res
 
 # 🗃️ Useful Resources
 - [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) (As a contributor): Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)
-- [Journal-CFP-Deadlines](https://dodoxxb.github.io/journal-cfp-ddl/) (As a contributor): Bilingual (EN/ZH) web app for tracking academic journal Call for Papers deadlines
+- [Journal-CFP-Deadlines](https://github.com/dodoxxb/journal-cfp-ddl) (As a contributor): Bilingual (EN/ZH) web app for tracking academic journal Call for Papers deadlines
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
 - [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
