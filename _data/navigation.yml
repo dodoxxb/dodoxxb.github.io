@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "News"
     url: "/#-news"
@@ -15,11 +15,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Experience"
+    url: "/#-experience"
 
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  - title: "Academic Service"
+    url: "/#-academic-service"
 
   - title: "Brilliant Insight"
     url: "/#-brilliant-insight"
