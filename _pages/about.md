@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <style>
-/* Publication list: a restrained left stripe and one clear reading order. */
+/* Publication list: plain titles, emphasized venues, and a restrained left stripe. */
 .page__content .publication-entry {
   border-left: 8px solid #e7b98c;
   padding: 3px 0 3px 18px;
@@ -30,7 +30,7 @@ redirect_from:
 .page__content .publication-entry p:last-child { margin-bottom: 0; }
 .page__content .publication-title {
   font-size: 1em;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.5;
   color: #252525;
 }
@@ -47,7 +47,12 @@ redirect_from:
   line-height: 1.55;
   color: #555;
 }
-.page__content .publication-venue em { font-weight: 400; }
+.page__content .publication-venue em { font-weight: inherit; }
+.page__content .publication-venue .venue-emphasis {
+  font-weight: 700;
+  font-style: italic;
+  color: #333;
+}
 .page__content .publication-links { font-size: .85em; line-height: 1.7; }
 .page__content .publication-links a { margin-right: 12px; display: inline-block; }
 .page__content .publication-status { font-size: .9em; color: #666; }
@@ -75,7 +80,7 @@ Through university–industry research collaborations, I currently work as a Res
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
 # 🔥 News
-- I expect to complete my Ph.D. in June 2027 and am seeking faculty, postdoctoral, and full-time research opportunities in academia and industry. Please feel free to get in touch if you see a potential fit with your team. [CV (PDF)](pdf/Zhicheng_Du_CV_EN_20261015.pdf)
+- I expect to complete my Ph.D. in June 2027 and am seeking faculty, postdoctoral, and full-time research opportunities in academia and industry. Please feel free to get in touch if you see a potential fit with your team. [CV (PDF)](/files/Zhicheng_Du_CV.pdf)
 - I welcome collaborations with researchers from diverse disciplinary backgrounds, particularly on AI methods and their applications in science and engineering. Please reach out if you would like to discuss a potential collaboration.
 
 # 📝 Publications
@@ -83,245 +88,245 @@ Through university–industry research collaborations, I currently work as a Res
 <article class="publication-entry" data-record="published-35">
   <p class="publication-title">Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications</p>
   <p class="publication-authors">Yu Zheng, Kezhi Wang<sup>†</sup>, <strong>Zhicheng Du</strong>, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup></p>
-  <p class="publication-venue"><em>IEEE Communications Surveys &amp; Tutorials</em>. 2026.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>IEEE Communications Surveys &amp; Tutorials</em></strong>. 2026.</p>
   <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11733765">[HTML]</a> <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176045642.21366704">[TechRxiv]</a> <a href="https://doi.org/10.1109/COMST.2026.3742692">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-34">
   <p class="publication-title">MAPS: Robot-Mediated Multimodal Mental Health Screening for Chinese Adolescents</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Yang Liu, Zheng Chen, Zhuo Deng, Zhaotian Xie, Wenji Xi, Xi Yuan, Zhen Liang, Dongmei Yu, Chenggang Yan, Jiansong Ji, Peiwu Qin<sup>†</sup>, Zhenglin Chen<sup>†</sup>, Lan Ma<sup>†</sup></p>
-  <p class="publication-venue"><em>AACL-IJCNLP — MultiPsyche Workshop</em>. 2026. <span class="publication-status">Accepted; to appear.</span></p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>AACL-IJCNLP</em></strong> — MultiPsyche Workshop. 2026. <span class="publication-status">Accepted; to appear.</span></p>
   <p class="publication-links"><a href="https://www.researchsquare.com/article/rs-5731226/v1">[Research Square]</a> <a href="https://arxiv.org/abs/2309.10077">[arXiv]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-33">
   <p class="publication-title">Auditing 3D Shape Retrieval without Supervised Training Using Diffused Geodesic Moments</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Changyue Liu, Wenji Xi, Zhaotian Xie, Zhuo Deng, Ziheng Zhang, Yang Liu, Lan Ma<sup>†</sup></p>
-  <p class="publication-venue"><em>Pacific Rim International Conference on Artificial Intelligence (PRICAI)</em>. 2026. <span class="publication-status">Accepted; to appear.</span></p>
+  <p class="publication-venue">Pacific Rim International Conference on Artificial Intelligence (<strong class="venue-emphasis"><em>PRICAI</em></strong>). 2026. <span class="publication-status">Accepted; to appear.</span></p>
   <p class="publication-links"><a href="https://arxiv.org/abs/2605.29004">[arXiv]</a> <a href="https://arxiv.org/pdf/2605.29004">[PDF]</a> <a href="https://doi.org/10.48550/arXiv.2605.29004">[arXiv DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-32">
   <p class="publication-title">Concerns about artificial intelligence feedback validation in the 2-Sigma platform</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>Academic Medicine</em>. 2026 Aug 1;101(8):898.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Academic Medicine</em></strong>. 2026 Aug 1;101(8):898.</p>
   <p class="publication-links"><a href="https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag040/8487138">[HTML]</a> <a href="https://doi.org/10.1093/acamed/wvag040">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-31">
   <p class="publication-title">Addressing algorithmic bias in artificial intelligence-driven medical education assessment</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>Academic Medicine</em>. 2026 Jul 1;101(7):748–749.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Academic Medicine</em></strong>. 2026 Jul 1;101(7):748–749.</p>
   <p class="publication-links"><a href="https://academic.oup.com/academicmedicine/advance-article/doi/10.1093/acamed/wvag039/8487136">[HTML]</a> <a href="https://doi.org/10.1093/acamed/wvag039">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-30">
   <p class="publication-title">A Hybrid Ensemble System for Time-Series Anomaly Detection in Automated Quality Control of Medical Equipment</p>
   <p class="publication-authors">Ziheng Zhang<sup>*</sup>, Defeng Cai<sup>*</sup>, Zhuo Deng, <strong>Zhicheng Du</strong>, Fuxing Zhang<sup>†</sup>, Lan Ma<sup>†</sup></p>
-  <p class="publication-venue"><em>Diagnostics</em>. 2026 Jun 23;16(13):1953.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Diagnostics</em></strong>. 2026 Jun 23;16(13):1953.</p>
   <p class="publication-links"><a href="https://www.mdpi.com/2075-4418/16/13/1953">[HTML]</a> <a href="https://doi.org/10.3390/diagnostics16131953">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-29">
   <p class="publication-title">Molecular-substructure Deep Autoencoders cluster bioactive molecules into novel band-shaped substructure-distinguished bioactivity clusters in 3D latent space</p>
   <p class="publication-authors">Huazhang Ying<sup>*</sup>, Xiang Wu<sup>*</sup>, Chu Qin, Likun Zhang, <strong>Zhicheng Du</strong>, Jiaqi Liu, Yuzong Chen<sup>†</sup>, Ying Tan<sup>†</sup></p>
-  <p class="publication-venue"><em>The Innovation Informatics</em>. 2026 May 14;2(2):100049.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>The Innovation Informatics</em></strong>. 2026 May 14;2(2):100049.</p>
   <p class="publication-links"><a href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2026.100049">[HTML]</a> <a href="https://www.researchsquare.com/article/rs-6755378/v1">[Research Square]</a> <a href="https://www.researchgate.net/publication/404892917_Molecular-substructure_Deep_Autoencoders_cluster_bioactive_molecules_into_novel_band-shaped_substructure-distinguished_bioactivity_clusters_in_3D_latent_space_GRAPHICAL_ABSTRACT_PUBLIC_SUMMARY_Molecul?_sg%5B0%5D=R7C1YWXy5JxIuqCpDbI0_htEdFd0f_9fRPM4oMVWpsBqXjLXQQTW__140JttnUqw2ZQVXPRL95o704XY5lPfAj5fZRObXFdzxatFhCTV.z8cE9Kv8Hi2NdyX8pg3aBoru_ahPFiJodhT8K-2umKnRS2H51y5lP8UlTIE3VZBNe37ih0Y5FCjnpCXNPtF92Q&amp;_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19">[ResearchGate]</a> <a href="https://www.the-innovation.org/data/article/export-pdf?id=6a02670a7a1d3171e790371d">[PDF]</a> <a href="https://doi.org/10.59717/j.xinn-inform.2026.100049">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-28">
   <p class="publication-title">Closing the fairness gap: a call for equitable machine learning in fetal growth restriction prediction: A Letter to the Editor regarding ‘Assessing adherence to TRIPOD+AI guidelines in machine learning models for predicting small for gestational age and fetal growth restriction: a systematic review</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>American Journal of Obstetrics &amp; Gynecology MFM</em>. 2026 May;8(5):101923.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>American Journal of Obstetrics &amp; Gynecology MFM</em></strong>. 2026 May;8(5):101923.</p>
   <p class="publication-links"><a href="https://www.ajogmfm.org/article/S2589-9333(26)00034-0/fulltext">[HTML]</a> <a href="https://www.ajogmfm.org/action/showPdf?pii=S2589-9333%2826%2900034-0">[PDF]</a> <a href="https://doi.org/10.1016/j.ajogmf.2026.101923">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-27">
   <p class="publication-title">Unlocking Latent Titanium Active Centers Through the Synergistic Effect of Oxygen Vacancies and Boron Doping for Accelerated Sulfur Redox Reactions in Silicon‐Sulfur Batteries</p>
   <p class="publication-authors">Zhaotian Xie<sup>*</sup>, Xin He<sup>*</sup>, Wentao Zhang<sup>*</sup>, <strong>Zhicheng Du</strong>, Rui Li, Shuyu Zhou, Xinming Zhang, Yidi Wu, Zhiyi Chen, Ziyao Gao, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup></p>
-  <p class="publication-venue"><em>Angewandte Chemie International Edition</em>. 2026 Apr 20;65(17):e4505904.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Angewandte Chemie International Edition</em></strong>. 2026 Apr 20;65(17):e4505904.</p>
   <p class="publication-links"><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.4505904">[HTML]</a> <a href="https://doi.org/10.1002/anie.4505904">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-26">
   <p class="publication-title">Social media insights are not competency consensus</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>Medical Teacher</em>. 2026 Apr 3;48(4):738.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Medical Teacher</em></strong>. 2026 Apr 3;48(4):738.</p>
   <p class="publication-links"><a href="https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2579834">[HTML]</a> <a href="https://www.tandfonline.com/eprint/YV9ESMYKFJKVJD7RDTRW/full?target=10.1080/0142159X.2025.2579834">[PDF]</a> <a href="https://doi.org/10.1080/0142159x.2025.2579834">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-25">
   <p class="publication-title">Squalene-based oxygen-scavenging system for enhancing fluorescent dye stability for biosensing applications</p>
   <p class="publication-authors">Lijin Lian, Ijaz Gul, Xi Yuan, <strong>Zhicheng Du</strong>, Zhenglin Chen, Zhengyang Lei, Sanyang Han, Lian Zhang, Jiansong Ji, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Frontiers in Chemical Biology</em>. 2026 Apr 2;5:1749158.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Frontiers in Chemical Biology</em></strong>. 2026 Apr 2;5:1749158.</p>
   <p class="publication-links"><a href="https://www.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/abstract">[HTML]</a> <a href="https://public-pages-files-2025.frontiersin.org/journals/chemical-biology/articles/10.3389/fchbi.2026.1749158/pdf">[PDF]</a> <a href="https://doi.org/10.3389/fchbi.2026.1749158">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-24">
   <p class="publication-title">Letter to the editor regarding “A simple data-driven dietary pattern associated with lower risk for adverse pregnancy outcomes”</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>American Journal of Obstetrics &amp; Gynecology MFM</em>. 2026 Apr;8(4):101899.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>American Journal of Obstetrics &amp; Gynecology MFM</em></strong>. 2026 Apr;8(4):101899.</p>
   <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S2589933326000108?via%3Dihub">[HTML]</a> <a href="https://authors.elsevier.com/a/1mxzz9CuVNur-i">[PDF]</a> <a href="https://doi.org/10.1016/j.ajogmf.2026.101899">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-23">
   <p class="publication-title">Growing Up in the Waiting Room</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>Journal of Adolescent Health</em>. 2026 Apr;78(4):677.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Journal of Adolescent Health</em></strong>. 2026 Apr;78(4):677.</p>
   <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S1054139X2500477X">[HTML]</a> <a href="https://authors.elsevier.com/a/1mG0M_,2PPRz9Rz">[PDF]</a> <a href="https://doi.org/10.1016/j.jadohealth.2025.10.016">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-22">
   <p class="publication-title">Scrolling Through the End of the World</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>Journal of Adolescent Health</em>. 2026 Feb;78(2):367.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Journal of Adolescent Health</em></strong>. 2026 Feb;78(2):367.</p>
   <p class="publication-links"><a href="https://www.jahonline.org/article/S1054-139X(25)00453-7/fulltext">[HTML]</a> <a href="https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1m1OD,Nz%257ENZUJv/1/0102019a3c45a14d-9193dc12-10f6-4432-b7b1-71f08091195b-000000/B8429iW2Y_BIkUXizmSNUo9jcOY=450">[PDF]</a> <a href="https://doi.org/10.1016/j.jadohealth.2025.09.025">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-21">
   <p class="publication-title">Comment on: “From conventional scores to explainable AI: a six-method comparative framework for failure prediction in percutaneous nephrolithotomy”</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>World Journal of Urology</em>. 2026;44(1):6.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>World Journal of Urology</em></strong>. 2026;44(1):6.</p>
   <p class="publication-links"><a href="https://link.springer.com/article/10.1007/s00345-025-06110-5">[HTML]</a> <a href="https://rdcu.be/eR6ep">[PDF]</a> <a href="https://doi.org/10.1007/s00345-025-06110-5">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-20">
   <p class="publication-title">A 3.55‐µm Ultrathin, Skin‐Like Mechanoresponsive, Compliant, and Seamless Ionic Conductive Electrode for Epidermal Electrophysiological Signal Acquisition and Human‐Machine Interaction</p>
   <p class="publication-authors">Likun Zhang<sup>*</sup>, Peiwu Qin<sup>†</sup>, Huazhang Ying, <strong>Zhicheng Du</strong>, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Chenggang Yan<sup>†</sup>, Jiansong Ji<sup>†</sup>, Zhenglin Chen<sup>*,†</sup></p>
-  <p class="publication-venue"><em>Exploration</em>. 2025 Oct;5(5):20240232.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Exploration</em></strong>. 2025 Oct;5(5):20240232.</p>
   <p class="publication-links"><a href="https://onlinelibrary.wiley.com/doi/10.1002/EXP.20240232">[HTML]</a> <a href="https://www.researchsquare.com/article/rs-3892812/v1">[Research Square]</a> <a href="/pdf/A%203.55-%CE%BCm%20ultrathin,%20skin-like%20mechanoresponsive,%20compliant,%20and%20seamless%20ionic%20conductive%20electrode%20for%20epidermal%20electrophysiological%20signal%20acquisition%20and%20human-machine-interaction.pdf">[Preprint PDF]</a> <a href="https://doi.org/10.1002/exp.20240232">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-19">
   <p class="publication-title">Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning</p>
   <p class="publication-authors">Yang Liu<sup>*</sup>, Keming Zhao<sup>*</sup>, Lihui Luo, Ziheng Zhang, Zhenghang Qian, Cenk Jiang, <strong>Zhicheng Du</strong>, Simin Deng, Chengming Yang, Duanpo Wu, Shuai Wang, Xingru Huang, Chenggang Yan, Yingting Zhu, Yehong Zhuo, Chunsheng Qu, Jiaqi Chen, Zhenqiang Huang, Chenying Lu, Minjiang Chen, Dongmei Yu, Jiantao Wang<sup>†</sup>, Peiwu Qin<sup>†</sup>, Jiansong Ji<sup>†</sup></p>
-  <p class="publication-venue"><em>npj Digital Medicine</em>. 2025 Jul 13;8(1):435.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>npj Digital Medicine</em></strong>. 2025 Jul 13;8(1):435.</p>
   <p class="publication-links"><a href="https://www.nature.com/articles/s41746-025-01849-y">[HTML]</a> <a href="https://www.researchsquare.com/article/rs-5421907/v1">[Research Square]</a> <a href="https://doi.org/10.1038/s41746-025-01849-y">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-18">
   <p class="publication-title">Development of a tri-modal contrast learning model integrating pathology-text and CT-text for clinical oncology tasks</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Hui-Yan Luo, Lijin Lian, Vijay Kumar. Pandey, Jiansong Ji, Peiwu Qin</p>
-  <p class="publication-venue"><em>Clinical Cancer Research</em>. 2025 Jul 10;31(13 Suppl):A049.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Clinical Cancer Research</em></strong>. 2025 Jul 10;31(13 Suppl):A049.</p>
   <p class="publication-links"><a href="https://aacrjournals.org/clincancerres/article/31/13_Supplement/A049/763294/Abstract-A049-Development-of-a-tri-modal-contrast">[HTML]</a> <a href="https://doi.org/10.1158/1557-3265.aimachine-a049">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-17">
   <p class="publication-title">Artificial intelligence enables the ethical reconstruction and social value realization of global cancer research: From technological innovation to humanistic care</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Lijin Lian, Wenji Xi, Yu Zheng, Gang Yu, Hui-Yan Luo, Peiwu Qin</p>
-  <p class="publication-venue"><em>Clinical Cancer Research</em>. 2025 Jul 10;31(13 Suppl):B024.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Clinical Cancer Research</em></strong>. 2025 Jul 10;31(13 Suppl):B024.</p>
   <p class="publication-links"><a href="https://aacrjournals.org/clincancerres/article/31/13_Supplement/B024/763318/Abstract-B024-Artificial-intelligence-enables-the">[HTML]</a> <a href="https://doi.org/10.1158/1557-3265.aimachine-b024">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-16">
   <p class="publication-title">Content-Style Disentangled Audio Style Transfer via Diffusion Model</p>
   <p class="publication-authors">Yiran Wang, Jiasheng Lu, Jun Chen, Xinyu Zhang, Yingshan Liang, <strong>Zhicheng Du</strong>, Qingyang Shi, Shao-Lun Huang<sup>†</sup></p>
-  <p class="publication-venue"><em>International Conference on Multimedia and Expo (ICME)</em>. 2025 Jun 30. p. 1–6.</p>
+  <p class="publication-venue">International Conference on Multimedia and Expo (<strong class="venue-emphasis"><em>ICME</em></strong>). 2025 Jun 30. p. 1–6.</p>
   <p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/11209789">[HTML]</a> <a href="https://www.researchgate.net/publication/390051209_Content-Style_Disentangled_Audio_Style_Transfer_via_Diffusion_Model">[ResearchGate]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11209789">[PDF]</a> <a href="https://doi.org/10.1109/icme59968.2025.11209789">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-15">
   <p class="publication-title">Address Arctic shipping crisis at COP30</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup>, Changyue Liu, Zhaotian Xie, Hui-Yan Luo, Wentao Zhang, Xin He</p>
-  <p class="publication-venue"><em>Science</em>. 2025 Jun 12;388(6752):1143–1144.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Science</em></strong>. 2025 Jun 12;388(6752):1143–1144.</p>
   <p class="publication-links"><a href="https://www.science.org/doi/10.1126/science.adx4305">[HTML]</a> <a href="https://www.science.org/stoken/author-tokens/ST-2691/full">[PDF]</a> <a href="https://doi.org/10.1126/science.adx4305">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-14">
   <p class="publication-title">AudioCache: Accelerate Audio Generation With Training-Free Layer Caching</p>
   <p class="publication-authors">Qingyang Shi<sup>*</sup>, <strong>Zhicheng Du</strong><sup>*</sup>, Jiasheng Lu, Yingshan Liang, Xinyu Zhang, Yiran Wang, Jing Peng, Kehong Yuan<sup>†</sup></p>
-  <p class="publication-venue"><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>. 2025 Apr 6. p. 1–5.</p>
+  <p class="publication-venue">International Conference on Acoustics, Speech, and Signal Processing (<strong class="venue-emphasis"><em>ICASSP</em></strong>). 2025 Apr 6. p. 1–5.</p>
   <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/10889043">[HTML]</a> <a href="https://www.researchgate.net/publication/390051259_AudioCache_Accelerate_Audio_Generation_With_Training-Free_Layer_Caching">[ResearchGate]</a> <a href="https://doi.org/10.1109/icassp49660.2025.10889043">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-13">
   <p class="publication-title">TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training</p>
   <p class="publication-authors">Xinyu Zhang, Keyu Fan, Yiran Wang, Yingshan Liang, Jiasheng Lu, <strong>Zhicheng Du</strong>, Qingyang Shi, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>. 2025 Apr 6. p. 1–5.</p>
+  <p class="publication-venue">International Conference on Acoustics, Speech, and Signal Processing (<strong class="venue-emphasis"><em>ICASSP</em></strong>). 2025 Apr 6. p. 1–5.</p>
   <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/10889172">[HTML]</a> <a href="https://www.researchgate.net/publication/389600475_TAGMO_Temporal_Control_Audio_Generation_for_Multiple_Visual_Objects_Without_Training">[ResearchGate]</a> <a href="https://doi.org/10.1109/ICASSP49660.2025.10889172">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-12">
   <p class="publication-title">Performance of explainable ensemble learning for mortality risk stratification and multimodal biomarker prediction in colorectal cancer: a retrospective, database cohert study</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup>, Hui-Yan Luo, Xuefei Li, Yang Liu, Xi Yuan, Zhenglin Chen, Jiansong Ji, Peiwu Qin</p>
-  <p class="publication-venue"><em>The Lancet Regional Health - Western Pacific</em>. 2025 Feb;55(Suppl 1):101459.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>The Lancet Regional Health - Western Pacific</em></strong>. 2025 Feb;55(Suppl 1):101459.</p>
   <p class="publication-links"><a href="https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00453-X/fulltext">[HTML]</a> <a href="https://doi.org/10.1016/j.lanwpc.2024.101459">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-11">
   <p class="publication-title">Crossing the capacity threshold in Si-S batteries through mud-crack electrodes</p>
   <p class="publication-authors">Zhaotian Xie, Wentao Zhang, Xin He, Ziyao Gao, <strong>Zhicheng Du</strong>, Hongkai Yang, Xinming Zhang, Rui Li, Yanbing He, Lele Peng<sup>†</sup>, Feiyu Kang<sup>†</sup></p>
-  <p class="publication-venue"><em>Energy Storage Materials</em>. 2025 Feb;75:104046.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Energy Storage Materials</em></strong>. 2025 Feb;75:104046.</p>
   <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S2405829725000479">[HTML]</a> <a href="https://doi.org/10.1016/j.ensm.2025.104046">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-10">
   <p class="publication-title">A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics</p>
   <p class="publication-authors">Zhenglin Chen<sup>*</sup>, Jiaqi Yang<sup>*</sup>, <strong>Zhicheng Du</strong><sup>*</sup>, Jiansong Ji<sup>*</sup>, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup>, Can Yang Zhang<sup>†</sup></p>
-  <p class="publication-venue"><em>Chemical Engineering Journal</em>. 2024 Jul;492:152465.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Chemical Engineering Journal</em></strong>. 2024 Jul;492:152465.</p>
   <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S1385894724039524">[HTML]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780689">[SSRN]</a> <a href="https://doi.org/10.1016/j.cej.2024.152465">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-9">
   <p class="publication-title">DNA Virus Detection System Based on RPA-CRISPR/Cas12a-SPM and Deep Learning</p>
   <p class="publication-authors">Changyue Liu<sup>*</sup>, Zhengyang Lei<sup>*</sup>, Lijin Lian, Likun Zhang, <strong>Zhicheng Du</strong>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Journal of Visualized Experiments (JoVE)</em>. 2024 May 10;(207):e64833.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Journal of Visualized Experiments (JoVE)</em></strong>. 2024 May 10;(207):e64833.</p>
   <p class="publication-links"><a href="https://www.jove.com/t/64833/dna-virus-detection-system-based-on-rpa-crisprcas12a-spm-deep">[HTML]</a> <a href="https://doi.org/10.3791/64833">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-8">
   <p class="publication-title">LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup>, Zhaotian Xie, Yan Tong, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>International Conference on Learning Representations(ICLR)</em>. 2024 Mar 23.</p>
+  <p class="publication-venue">International Conference on Learning Representations (<strong class="venue-emphasis"><em>ICLR</em></strong>). 2024 Mar 23.</p>
   <p class="publication-links"><a href="https://openreview.net/forum?id=eUQiESSvmF">[HTML]</a> <a href="https://arxiv.org/abs/2403.15875">[arXiv]</a> <a href="https://github.com/dodoxxb/lamper">[Code]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-7">
   <p class="publication-title">Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup>, Zhaotian Xie, Huazhang Ying, Likun Zhang, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>International Conference on Learning Representations(ICLR)</em>. 2024 Mar 23.</p>
+  <p class="publication-venue">International Conference on Learning Representations (<strong class="venue-emphasis"><em>ICLR</em></strong>). 2024 Mar 23.</p>
   <p class="publication-links"><a href="https://openreview.net/forum?id=RQ0wmIBcTB">[HTML]</a> <a href="https://arxiv.org/abs/2403.15876">[arXiv]</a> <a href="https://github.com/dodoxxb/cognitive-resilience">[Code]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-6">
   <p class="publication-title">Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation</p>
   <p class="publication-authors">Yang Liu, Xiaoyun Zhong, Shiyao Zhai, <strong>Zhicheng Du</strong>, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Computers in Biology and Medicine</em>. 2023 Dec;167:107672.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Computers in Biology and Medicine</em></strong>. 2023 Dec;167:107672.</p>
   <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S001048252301137X">[HTML]</a> <a href="https://arxiv.org/abs/2308.16552">[arXiv]</a> <a href="/pdf/Prompt-enhanced%20hierarchical%20transformer%20elevating%20cardiopulmonary%20resuscitation%20instruction%20via%20temporal%20action%20segmentation.pdf">[PDF]</a> <a href="https://doi.org/10.1016/j.compbiomed.2023.107672">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-5">
   <p class="publication-title">Detection of Frog Virus 3 by Integrating RPA-CRISPR/Cas12a-SPM with Deep Learning</p>
   <p class="publication-authors">Zhengyang Lei<sup>*</sup>, Lijin Lian<sup>*</sup>, Likun Zhang<sup>*</sup>, Changyue Liu, Shiyao Zhai, Xi Yuan, Jiazhang Wei, Hong Liu, Ying Liu, <strong>Zhicheng Du</strong>, Ijaz Gul, Haihui Zhang, Zhifeng Qin, Shaoling Zeng, Peng Jia, Ke Du, Lin Deng, Dongmei Yu<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>ACS Omega</em>. 2023 Sep 12;8(36):32555–32564.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>ACS Omega</em></strong>. 2023 Sep 12;8(36):32555–32564.</p>
   <p class="publication-links"><a href="https://pubs.acs.org/doi/abs/10.1021/acsomega.3c02929">[HTML]</a> <a href="https://www.biorxiv.org/content/10.1101/2022.08.22.504785v1.abstract">[bioRxiv]</a> <a href="/pdf/lei-et-al-2023-detection-of-frog-virus-3-by-integrating-rpa-crispr-cas12a-spm-with-deep-learning.pdf">[PDF]</a> <a href="https://doi.org/10.1021/acsomega.3c02929">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-4">
   <p class="publication-title">Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection</p>
   <p class="publication-authors">Ijaz Gul, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, <strong>Zhicheng Du</strong>, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Canyang Zhang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Biosensors</em>. 2022 Nov 7;12(11):984.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Biosensors</em></strong>. 2022 Nov 7;12(11):984.</p>
   <p class="publication-links"><a href="https://www.mdpi.com/2079-6374/12/11/984">[HTML]</a> <a href="/pdf/Angiotensin-Converting%20Enzyme%202-Based%20Biosensing%20Modalities%20and%20Devices%20for%20Coronavirus%20Detection.pdf">[PDF]</a> <a href="https://doi.org/10.3390/bios12110984">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-3">
   <p class="publication-title">AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection</p>
   <p class="publication-authors">Likun Zhang<sup>*</sup>, Zhengyang Lei<sup>*</sup>, Chufan Xiao<sup>*</sup>, <strong>Zhicheng Du</strong>, Chenyao Jiang, Xi Yuan, Qiuyue Hu, Shiyao Zhai, Lulu Xu, Changyue Liu, Xiaoyun Zhong, Haifei Guan, Muhammad Hassan, Ijaz Gul, Vijay Pandey, Xinhui Xing, Can Yang Zhang<sup>†</sup>, Qian He<sup>†</sup>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Frontiers in Sensors</em>. 2022 Nov 2;3:1015223.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Frontiers in Sensors</em></strong>. 2022 Nov 2;3:1015223.</p>
   <p class="publication-links"><a href="https://www.frontiersin.org/articles/10.3389/fsens.2022.1015223/full">[HTML]</a> <a href="/pdf/AI-boosted%20CRISPR-Cas13a%20and%20total%20internal%20reflection%20fluorescence%20microscopy%20system%20for%20SARS-CoV-2%20detection.pdf">[PDF]</a> <a href="https://doi.org/10.3389/fsens.2022.1015223">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-2">
   <p class="publication-title">Current and Perspective Sensing Methods for Monkeypox Virus</p>
   <p class="publication-authors">Ijaz Gul, Changyue Liu, Xi Yuan, <strong>Zhicheng Du</strong>, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu<sup>†</sup>, Can Yang Zhang<sup>†</sup>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Bioengineering</em>. 2022 Oct 18;9(10):571.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Bioengineering</em></strong>. 2022 Oct 18;9(10):571.</p>
   <p class="publication-links"><a href="https://www.mdpi.com/2306-5354/9/10/571">[HTML]</a> <a href="https://arxiv.org/abs/2208.05228">[arXiv]</a> <a href="/pdf/Current%20and%20Perspective%20Sensing%20Methods%20for%20Monkeypox%20Virus.pdf">[PDF]</a> <a href="https://doi.org/10.3390/bioengineering9100571">[DOI]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-1">
   <p class="publication-title">Therapeutic effect of ketogenic diet treatment on type 2 diabetes</p>
   <p class="publication-authors">Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Canyang Zhang, Jinjun Lin, <strong>Zhicheng Du</strong>, Chenyao Jiang, Chengming Yang, Dongmei Yu<sup>†</sup>, Peiwu Qin<sup>†</sup></p>
-  <p class="publication-venue"><em>Journal of Future Foods</em>. 2022 Jun;2(2):177–183.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>Journal of Future Foods</em></strong>. 2022 Jun;2(2):177–183.</p>
   <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S2772566922000179">[HTML]</a> <a href="/pdf/Therapeutic%20effect%20of%20ketogenic%20diet%20treatment%20on%20type%202%20diabetes.pdf">[PDF]</a> <a href="https://doi.org/10.1016/j.jfutfo.2022.03.004">[DOI]</a></p>
 </article>
 
@@ -393,28 +398,28 @@ Through university–industry research collaborations, I currently work as a Res
 <article class="publication-entry" data-record="preprint-5">
   <p class="publication-title">Rapid Response: Rethinking the Tools of Science: When &quot;Subjective Judgments&quot; Become the Invisible Enablers of Bias</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>The BMJ</em>. 2025.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>The BMJ</em></strong>. 2025.</p>
   <p class="publication-links"><a href="https://www.bmj.com/content/388/bmj-2024-079839/rr-0">[HTML]</a> <a href="https://www.researchgate.net/publication/391560814_Rapid_Response_Rethinking_the_Tools_of_Science_When_Subjective_Judgments_Become_the_Invisible_Enablers_of_Bias">[ResearchGate]</a></p>
 </article>
 
 <article class="publication-entry" data-record="preprint-4">
   <p class="publication-title">Rapid Response: After banning corporal punishment, what else do we need to do?</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>The BMJ</em>. 2025.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>The BMJ</em></strong>. 2025.</p>
   <p class="publication-links"><a href="https://www.bmj.com/content/388/bmj.r566/rr">[HTML]</a> <a href="https://www.researchgate.net/publication/391560469_Rapid_Response_After_banning_corporal_punishment_what_else_do_we_need_to_do">[ResearchGate]</a></p>
 </article>
 
 <article class="publication-entry" data-record="preprint-3">
   <p class="publication-title">Rapid Response: Prevention and control of medical violence: ethical dilemmas and systemic blind spots beyond technological empowerment</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup>, Changyue Liu</p>
-  <p class="publication-venue"><em>The BMJ</em>. 2025.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>The BMJ</em></strong>. 2025.</p>
   <p class="publication-links"><a href="https://www.bmj.com/content/388/bmj.r529/rr">[HTML]</a> <a href="https://www.researchgate.net/publication/391560821_Rapid_Response_Prevention_and_control_of_medical_violence_ethical_dilemmas_and_systemic_blind_spots_beyond_technological_empowerment">[ResearchGate]</a></p>
 </article>
 
 <article class="publication-entry" data-record="preprint-2">
   <p class="publication-title">Rapid Response: When scientific blood transfusion meets policy Blood loss the neglected ecological chain of research</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong><sup>†</sup></p>
-  <p class="publication-venue"><em>The BMJ</em>. 2025.</p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>The BMJ</em></strong>. 2025.</p>
   <p class="publication-links"><a href="https://www.bmj.com/content/388/bmj.r476/rr-1">[HTML]</a> <a href="https://www.researchgate.net/publication/391552976_Rapid_Response_When_scientific_blood_transfusion_meets_policy_Blood_loss_the_neglected_ecological_chain_of_research">[ResearchGate]</a></p>
 </article>
 
@@ -531,3 +536,7 @@ Through university–industry research collaborations, I currently work as a Res
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): Artificial Intelligence for Beginners - A Curriculum
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): A programmer's guide to live longer 
 - [Conference List](https://conferencelist.info/): Conference List for international computer science conferences
+
+    
+
+
