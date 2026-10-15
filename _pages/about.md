@@ -332,6 +332,21 @@ Through university–industry research collaborations, I currently work as a Res
 
 
 ### Preprints
+
+<article class="publication-entry" data-record="preprint-16">
+  <p class="publication-title">OpenRiO: A Community Reproduction of RiO-DETR with Practical Accuracy and Efficiency Improvements</p>
+  <p class="publication-authors"><strong>Zhicheng Du</strong>, Lan Ma<sup>†</sup></p>
+  <p class="publication-venue"><em>Technical report</em>. 2026 Oct 16.</p>
+  <p class="publication-links"><a href="https://raw.githubusercontent.com/dodoxxb/OpenRiO/main/report/main.pdf">[PDF]</a> <a href="https://www.researchgate.net/publication/415911327_OpenRiO_A_Community_Reproduction_of_RiO-DETR_with_Practical_Accuracy_and_Efficiency_Improvements">[ResearchGate]</a> <a href="https://github.com/dodoxxb/OpenRiO">[Code]</a> <a href="https://doi.org/10.13140/RG.2.2.16995.11040">[DOI]</a></p>
+</article>
+
+<article class="publication-entry" data-record="preprint-15">
+  <p class="publication-title">Fitting Compact Heat Kernel Textures</p>
+  <p class="publication-authors"><strong>Zhicheng Du</strong>, Lan Ma<sup>†</sup></p>
+  <p class="publication-venue"><em>Technical report</em>. 2026 Oct 15.</p>
+  <p class="publication-links"><a href="https://raw.githubusercontent.com/dodoxxb/fitting-compact-heat-kernel-textures/main/paper/main.pdf">[PDF]</a> <a href="https://www.researchgate.net/publication/415911132_Fitting_Compact_Heat_Kernel_Textures">[ResearchGate]</a> <a href="https://github.com/dodoxxb/fitting-compact-heat-kernel-textures">[Code]</a> <a href="https://doi.org/10.13140/RG.2.2.25593.43366">[DOI]</a> <a href="https://doi.org/10.5281/zenodo.23401836">[Software DOI]</a></p>
+</article>
+
 <article class="publication-entry" data-record="preprint-14">
   <p class="publication-title">OphJev: endpoint-aware System One decisions for ophthalmic imaging and clinical text</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Zhuo Deng, Lan Ma<sup>†</sup></p>
