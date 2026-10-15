@@ -75,7 +75,7 @@ Through university–industry research collaborations, I currently work as a Res
 - *2014.09 - 2017.06*, Shenzhen Middle School(SMS), Shenzhen, China.
 
 # 🔥 News
-- I expect to complete my Ph.D. in June 2027 and am seeking faculty, postdoctoral, and full-time research opportunities in academia and industry. Please feel free to get in touch if you see a potential fit with your team. [CV (PDF)](/files/Zhicheng_Du_CV.pdf)
+- I expect to complete my Ph.D. in June 2027 and am seeking faculty, postdoctoral, and full-time research opportunities in academia and industry. Please feel free to get in touch if you see a potential fit with your team. [CV (PDF)](pdf/Zhicheng_Du_CV_EN_20261015.pdf)
 - I welcome collaborations with researchers from diverse disciplinary backgrounds, particularly on AI methods and their applications in science and engineering. Please reach out if you would like to discuss a potential collaboration.
 
 # 📝 Publications
