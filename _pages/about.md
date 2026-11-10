@@ -85,6 +85,12 @@ Through university–industry research collaborations, I currently work as a Res
 
 # 📝 Publications
 (\* stands for equal contribution and † means corresponding author)
+<article class="publication-entry" data-record="published-36">
+  <p class="publication-title">Source-Context Auditing of Traditional Chinese Medicine Formula Modifications: Reference, Scope and Specification Boundaries</p>
+  <p class="publication-authors">Zheng Chen, Yuzhu Li, <strong>Zhicheng Du</strong>, Zhongde Zhang, Lianshun Jin, Peiwu Qin<sup>†</sup></p>
+  <p class="publication-venue">The 17th International Workshop on Information Technology for Chinese Medicine (<strong class="venue-emphasis"><em>ITCM</em></strong>), IEEE <strong class="venue-emphasis"><em>BIBM</em></strong>. 2026. <span class="publication-status">Accepted; to appear.</span></p>
+</article>
+
 <article class="publication-entry" data-record="published-35">
   <p class="publication-title">Point Cloud for Wireless Communications: A Comprehensive Survey on Fundamentals, Techniques, and Applications</p>
   <p class="publication-authors">Yu Zheng, Kezhi Wang<sup>†</sup>, <strong>Zhicheng Du</strong>, Wenji Xi, Gang Yu, Jinbo Hou, Haonan Hu, Jie Zhang<sup>†</sup></p>
@@ -95,8 +101,8 @@ Through university–industry research collaborations, I currently work as a Res
 <article class="publication-entry" data-record="published-34">
   <p class="publication-title">MAPS: Robot-Mediated Multimodal Mental Health Screening for Chinese Adolescents</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Yang Liu, Zheng Chen, Zhuo Deng, Zhaotian Xie, Wenji Xi, Xi Yuan, Zhen Liang, Dongmei Yu, Chenggang Yan, Jiansong Ji, Peiwu Qin<sup>†</sup>, Zhenglin Chen<sup>†</sup>, Lan Ma<sup>†</sup></p>
-  <p class="publication-venue"><strong class="venue-emphasis"><em>AACL-IJCNLP</em></strong> — MultiPsyche Workshop. 2026. <span class="publication-status">Accepted; to appear.</span></p>
-  <p class="publication-links"><a href="https://www.researchsquare.com/article/rs-5731226/v1">[Research Square]</a> <a href="https://arxiv.org/abs/2309.10077">[arXiv]</a></p>
+  <p class="publication-venue"><strong class="venue-emphasis"><em>AACL-IJCNLP</em></strong> — MultiPsyche Workshop. 2026 Nov 9. pp. 69–79.</p>
+  <p class="publication-links"><a href="https://aclanthology.org/2026.multipsyche-1.7/">[HTML]</a> <a href="https://aclanthology.org/2026.multipsyche-1.7.pdf">[PDF]</a> <a href="https://www.researchsquare.com/article/rs-5731226/v1">[Research Square]</a> <a href="https://arxiv.org/abs/2309.10077">[arXiv]</a></p>
 </article>
 
 <article class="publication-entry" data-record="published-33">
@@ -332,7 +338,6 @@ Through university–industry research collaborations, I currently work as a Res
 
 
 ### Preprints
-
 <article class="publication-entry" data-record="preprint-16">
   <p class="publication-title">OpenRiO: A Community Reproduction of RiO-DETR with Practical Accuracy and Efficiency Improvements</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Lan Ma<sup>†</sup></p>
@@ -383,10 +388,10 @@ Through university–industry research collaborations, I currently work as a Res
 </article>
 
 <article class="publication-entry" data-record="preprint-9">
-  <p class="publication-title">Continuous Language Diffusion as a Decoder-Interface Problem</p>
+  <p class="publication-title">What Simple Readouts Miss in Continuous Language Diffusion</p>
   <p class="publication-authors"><strong>Zhicheng Du</strong>, Lan Ma<sup>†</sup></p>
-  <p class="publication-venue"><em>arXiv</em>. 2026 Jun 7. arXiv:2606.08810.</p>
-  <p class="publication-links"><a href="https://arxiv.org/abs/2606.08810">[arXiv]</a> <a href="https://arxiv.org/pdf/2606.08810">[PDF]</a> <a href="https://doi.org/10.48550/arXiv.2606.08810">[DOI]</a></p>
+  <p class="publication-venue"><em>arXiv</em>. 2026 Jun 7; updated 2026 Nov 9 (v3). arXiv:2606.08810.</p>
+  <p class="publication-links"><a href="https://arxiv.org/abs/2606.08810">[arXiv]</a> <a href="https://arxiv.org/pdf/2606.08810">[PDF]</a> <a href="https://doi.org/10.48550/arXiv.2606.08810">[DOI]</a> <a href="https://github.com/dodoxxb/continuous-language-readouts">[Code]</a></p>
 </article>
 
 <article class="publication-entry" data-record="preprint-8">
